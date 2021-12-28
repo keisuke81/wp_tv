@@ -1,0 +1,548 @@
+# Translation of Plugins - Yoast Duplicate Post - Stable (latest release) in Indonesian
+# This file is distributed under the same license as the Plugins - Yoast Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-08 11:17:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: id\n"
+"Project-Id-Version: Plugins - Yoast Duplicate Post - Stable (latest release)\n"
+
+#: src/handlers/class-check-changes-handler.php:135
+msgid "Added"
+msgstr "Ditambahkan"
+
+#: src/handlers/class-check-changes-handler.php:134
+msgid "Removed"
+msgstr "Dihapus"
+
+#: duplicate-post-admin.php:227
+msgid "Now also available in Elementor: the powerful Rewrite & Republish feature. Updating your content has never been easier!"
+msgstr "Sekarang juga tersedia di Elementor: fitur canggih Rewrite & Republish. Memperbarui konten Anda tidak pernah semudah ini!"
+
+#: src/class-post-republisher.php:226
+msgid "An error occurred while deleting the Rewrite & Republish copy."
+msgstr "Telah terjadi eror saat menghapus salinan Rewrite & Republish."
+
+#. Description of the plugin
+msgid "The go-to tool for cloning posts and pages, including the powerful Rewrite & Republish feature."
+msgstr "Alat pilihan pertama untuk menduplikasi artikel dan halaman, termasuk fitur canggih Rewrite & Republish."
+
+#. translators: 1: The page title with a link to the frontend page, 2: The
+#. scheduled date and time.
+#: src/ui/class-classic-editor.php:271
+msgid "This rewritten page %1$s is now scheduled to replace the original page. It will be published on %2$s."
+msgstr "Laman %1$s yang ditulis ulang ini sekarang dijadwalkan untuk menggantikan laman asli. Ini akan dipublikasikan pada %2$s."
+
+#. translators: 1: The post title with a link to the frontend page, 2: The
+#. scheduled date and time.
+#: src/ui/class-classic-editor.php:258
+msgid "This rewritten post %1$s is now scheduled to replace the original post. It will be published on %2$s."
+msgstr "Artikel %1$s yang ditulis ulang ini sekarang dijadwalkan untuk menggantikan artikel asli. Ini akan dipublikasikan pada %2$s."
+
+#: src/ui/class-classic-editor.php:232
+msgid "Schedule republish"
+msgstr "Jadwalkan publikasi ulang"
+
+#. translators: %s: Date on which the post is to be republished.
+#: src/ui/class-classic-editor.php:215
+msgid "Republish on: %s"
+msgstr "Memublikasikan ulang pada: %s"
+
+#: src/ui/class-classic-editor.php:192
+msgid "Compare"
+msgstr "Bandingkan"
+
+#: src/ui/class-classic-editor.php:189
+msgid "Do you want to compare your changes with the original version before merging? Please save any changes first."
+msgstr "Apakah Anda ingin membandingkan perubahan Anda dengan versi asli sebelum digabungkan? Mohon simpan perubahan Anda terlebih dahulu."
+
+#. translators: %s: Original item link (to view or edit) or title.
+#: src/ui/class-post-states.php:66
+msgid "Rewrite & Republish of %s"
+msgstr "Rewrite & Republish %s"
+
+#: src/ui/class-row-actions.php:150
+msgctxt "verb"
+msgid "Rewrite & Republish"
+msgstr "Rewrite & Republish"
+
+#. translators: %s: Post title.
+#: src/ui/class-row-actions.php:148
+msgid "Rewrite & Republish &#8220;%s&#8221;"
+msgstr "Rewrite & Republish &#8220;%s&#8221;"
+
+#: src/admin/views/options.php:192
+msgid "Show these links"
+msgstr "Tampilkan tautan ini"
+
+#: src/admin/views/options.php:155
+msgid "Warning: users will be able to copy, rewrite and republish all posts, even those of other users."
+msgstr "Peringatan: pengguna akan dapat menyalin, menulis ulang dan memublikasikan ulang semua artikel, termasuk yang ditulis oleh pengguna lain."
+
+#: src/admin/class-options.php:284 src/ui/class-bulk-actions.php:80
+#: src/ui/class-admin-bar.php:110 src/ui/class-admin-bar.php:129
+#: src/ui/class-classic-editor.php:164
+msgid "Rewrite & Republish"
+msgstr "Rewrite & Republish"
+
+#: src/admin/class-options.php:239
+msgid "In a metabox in the Edit screen"
+msgstr "Pada metabox di layar Edit"
+
+#: src/admin/class-options.php:145
+msgid "Post format"
+msgstr "Format artikel"
+
+#: src/watchers/class-original-post-watcher.php:54
+msgid "The original post has been edited in the meantime. If you click \"Republish\", this rewritten post will replace the original post."
+msgstr "Artikel asli saat ini telah disunting. Jika Anda mengeklik \"Publish ulang\", artikel yang ditulis ulang tersebut akan menggantikan artikel asli."
+
+#. translators: %s: Number of posts copied.
+#: src/watchers/class-bulk-actions-watcher.php:84
+msgid "%s post duplicated. You can now start rewriting your post in the duplicate of the original post. Once you choose to republish it your changes will be merged back into the original post."
+msgid_plural "%s posts duplicated. You can now start rewriting your posts in the duplicates of the original posts. Once you choose to republish them your changes will be merged back into the original post."
+msgstr[0] "%s artikel diduplikasi. Anda sekarang dapat mulai menulis ulang artikel Anda di duplikat artikel asli. Saat Anda memilih untuk memublikasikannya, perubahan Anda akan di gabungkan kembali ke artikel asli."
+msgstr[1] "%s artikel diduplikasi. Anda sekarang dapat mulai menulis ulang artikel Anda di duplikat artikel asli. Saat Anda memilih untuk memublikasikannya, perubahan Anda akan di gabungkan kembali ke artikel asli."
+
+#: src/watchers/class-republished-post-watcher.php:69
+msgid "Your original post has been replaced with the rewritten post. You are now viewing the (rewritten) original post."
+msgstr "Artikel asli Anda telah digantikan dengan artikel yang ditulis ulang. Anda sekarang melihat artikel asli (yang ditulis ulang)."
+
+#. translators: %1$s: scheduled date of the copy, %2$s: scheduled time of the
+#. copy.
+#: src/watchers/class-copied-post-watcher.php:70
+msgid "A duplicate of this post was made, which is scheduled to replace this post on %1$s at %2$s."
+msgstr "Duplikat artikel ini telah dibuat, yang dijadwalkan untuk menggantikan artikel ini pada %1$s jam %2$s."
+
+#: src/watchers/class-copied-post-watcher.php:62
+msgid "A duplicate of this post was made. Please note that any changes you make to this post will be replaced when the duplicated version is republished."
+msgstr "Duplikat artikel ini telah dibuat. Harap diperhatikan bahwa perubahan apapun yang Anda buat pada artikel ini akan digantikan dengan versi duplikat ketika ia dipublish ulang."
+
+#: src/watchers/class-copied-post-watcher.php:54
+msgid "You can only make one Rewrite & Republish duplicate at a time, and a duplicate of this post already exists in the trash. Permanently delete it if you want to make a new duplicate."
+msgstr "Anda hanya bisa membuat satu duplikat Rewrite & Republish dalam satu waktu, dan duplikat artikel ini sudah ada di tempat sampah. Hapus secara permanen artikel ini jika Anda ingin membuat duplikat baru."
+
+#: src/watchers/class-link-actions-watcher.php:118
+msgid "You can now start rewriting your post in this duplicate of the original post. If you click \"Republish\", this rewritten post will replace the original post."
+msgstr "Sekarang Anda dapat mulai menulis ulang artikel Anda di duplikat artikel asli. Jika Anda mengeklik \"Publish ulang\", artikel yang ditulis ulang tersebut akan menggantikan artikel asli."
+
+#: src/watchers/class-link-actions-watcher.php:102
+msgid "You can now start rewriting your post in this duplicate of the original post. If you click \"Republish\", your changes will be merged into the original post and you’ll be redirected there."
+msgstr "Anda sekarang dapat mulai menulis ulang artikel Anda pada duplikat artikel asli. Jika Anda mengeklik \"Publish ulang\", perubahan Anda akan digabungkan ke artikel asli dan Anda akan dialihkan ke sana."
+
+#: src/class-post-republisher.php:334
+msgid "An error occurred while republishing the post."
+msgstr "Telah terjadi eror saat memublikasikan ulang artikel ini."
+
+#: src/class-post-republisher.php:87 src/ui/class-classic-editor.php:210
+msgid "Republish"
+msgstr "Publikasi Ulang"
+
+#: src/handlers/class-link-handler.php:215
+msgid "You cannot create a copy for Rewrite & Republish if the original is not published or if it already has a copy."
+msgstr "Anda tidak dapat membuat salinan untuk Rewrite & Republish jika versi aslinya tidak dipublikasikan atau jika ia sudah memiliki salinan."
+
+#: src/handlers/class-link-handler.php:95
+#: src/handlers/class-link-handler.php:151
+#: src/handlers/class-link-handler.php:223
+msgid "Copy creation failed, could not create a copy."
+msgstr "Pembuatan salinan gagal, tidak dapat membuat salinan."
+
+#: src/handlers/class-link-handler.php:87
+#: src/handlers/class-link-handler.php:143
+msgid "You cannot create a copy of a post which is intended for Rewrite & Republish."
+msgstr "Anda tidak dapat membuat salinan dari artikel yang akan digunakan untuk Rewrite & Republish."
+
+#: src/handlers/class-check-changes-handler.php:117
+msgid "&larr; Return to editor"
+msgstr "&larr; Kembali ke editor"
+
+#. translators: %s: original item link (to view or edit) or title.
+#: src/handlers/class-check-changes-handler.php:112
+msgid "Compare changes of duplicated post with the original (&#8220;%s&#8221;)"
+msgstr "Bandingkan perubahan artikel yang diduplikasi dengan versi asli (&#8220;%s&#8221;)"
+
+#: src/handlers/class-check-changes-handler.php:98
+msgid "Changes overview failed, could not find original post."
+msgstr "Ringkasan perubahan gagal, tidak dapat menemukan artikel asli."
+
+#. translators: %s: post ID.
+#: src/handlers/class-check-changes-handler.php:85
+msgid "Changes overview failed, could not find post with ID %s."
+msgstr "Ringkasan perubahan gagal, tidak dapat menemukan artikel dengan ID %s."
+
+#: src/handlers/class-check-changes-handler.php:69
+msgid "No post has been supplied!"
+msgstr "Tidak ada artikel yang disediakan!"
+
+#: duplicate-post-admin.php:621
+msgid "You aren't allowed to duplicate this post"
+msgstr "Anda tidak diizinkan untuk membuat duplikat artikel ini"
+
+#. translators: %s: Yoast Duplicate Post version.
+#: duplicate-post-admin.php:233
+msgid "Read more about what’s new in Yoast Duplicate Post %s!"
+msgstr "Baca lebih lanjut tentang apa yang baru di Yoast Duplicate Post %s!"
+
+#: duplicate-post-admin.php:806
+msgid "Subscribe"
+msgstr "Berlangganan"
+
+#: src/admin/views/options.php:238
+msgid "Update notice"
+msgstr "Perbarui pemberitahuan"
+
+#. translators: 1: Code start tag, 2: Code closing tag, 3: Link start tag to
+#. the template tag documentation, 4: Link closing tag.
+#: src/admin/views/options.php:218
+msgid "You can also use the template tag %1$sduplicate_post_clone_post_link( $link, $before, $after, $id )%2$s. %3$sMore info on the template tag%4$s."
+msgstr "Anda juga dapat menggunakan template tag %1$sduplicate_post_clone_post_link( $link, $before, $after, $id )%2$s. %3$sInfo lebih lanjut mengenai template tag%4$s."
+
+#. translators: %s: Post title.
+#: src/ui/class-row-actions.php:117
+msgid "New draft of &#8220;%s&#8221;"
+msgstr "Konsep baru &#8220;%s&#8221;"
+
+#: src/ui/class-row-actions.php:92
+msgctxt "verb"
+msgid "Clone"
+msgstr "Duplikasi"
+
+#. translators: %s: post title
+#: src/ui/class-metabox.php:96
+msgid "The original item this was copied from is: <span class=\"duplicate_post_original_item_title_span\">%s</span>"
+msgstr "Ini disalin dari item asli: <span class=\"duplicate_post_original_item_title_span\">%s</span>"
+
+#: src/ui/class-column.php:135
+msgid "The original item this was copied from is: <span class=\"duplicate_post_original_item_title_span\"></span>"
+msgstr "Ini disalin dari item asli: <span class=\"duplicate_post_original_item_title_span\"></span>"
+
+#: src/ui/class-column.php:130 src/ui/class-metabox.php:85
+msgid "Delete reference to original item."
+msgstr "Hapus referensi ke item asli."
+
+#: duplicate-post-admin.php:795
+msgid "Email Address"
+msgstr "Alamat E-mail"
+
+#. translators: 1: Yoast
+#: duplicate-post-admin.php:788
+msgid "If you want to stay up to date about all the exciting developments around Duplicate Post, subscribe to the %1$s newsletter!"
+msgstr "Jika Anda ingin selalu tahu tentang semua perkembangan menarik seputar Duplicate Post, Anda bisa berlangganan %1$s nawala!"
+
+#. Author URI of the plugin
+msgid "https://yoast.com"
+msgstr "https://yoast.com"
+
+#. Author of the plugin
+msgid "Enrico Battocchi & Team Yoast"
+msgstr "Enrico Battocchi & Tim Yoast"
+
+#. Plugin URI of the plugin
+msgid "https://yoast.com/wordpress/plugins/duplicate-post/"
+msgstr "https://yoast.com/wordpress/plugins/duplicate-post/"
+
+#. Plugin Name of the plugin
+msgid "Yoast Duplicate Post"
+msgstr "Yoast Duplicate Post"
+
+#. translators: %s: Post title.
+#: src/ui/class-row-actions.php:90
+msgid "Clone &#8220;%s&#8221;"
+msgstr "Duplikasi &#8220;%s&#8221;"
+
+#. translators: %s: Original item link (to view or edit) or title.
+#: src/ui/class-post-states.php:72
+msgid "Original: %s"
+msgstr "Asli: %s"
+
+#: src/ui/class-column.php:72
+msgid "Original item"
+msgstr "Item asli"
+
+#: src/admin/class-options.php:259
+msgid "After the title in the Post list"
+msgstr "Setelah judul di daftar Artikel"
+
+#: src/admin/class-options.php:252
+msgid "You'll also be able to delete the reference to the original item with a checkbox in Quick Edit"
+msgstr "Anda juga dapat menghapus referensi ke item asli dengan checkbox di Edit Cepat"
+
+#: src/admin/class-options.php:249
+msgid "In a column in the Post list"
+msgstr "Di kolom di daftar Artikel"
+
+#: src/admin/class-options.php:242
+msgid "You'll also be able to delete the reference to the original item with a checkbox"
+msgstr "Anda juga dapat menghapus referensi ke item asli dengan checkbox"
+
+#: src/admin/views/options.php:229
+msgid "Show original item:"
+msgstr "Tampilkan item asli:"
+
+#: src/admin/views/options.php:22
+msgid "Settings sections"
+msgstr "Bagian pengaturan"
+
+#: duplicate-post.php:90
+msgid "Settings for Duplicate Post"
+msgstr "Pengaturan untuk Duplicate Post"
+
+#. translators: %s: post title
+#: src/class-utils.php:144
+msgid "View &#8220;%s&#8221;"
+msgstr "Lihat &#8220;%s&#8221;"
+
+#. translators: %s: post title
+#: src/class-utils.php:135
+msgid "Preview &#8220;%s&#8221;"
+msgstr "Pratampil &#8220;%s&#8221;"
+
+#. translators: %s: post title
+#: src/class-utils.php:124
+msgid "Edit &#8220;%s&#8221;"
+msgstr "Edit &#8220;%s&#8221;"
+
+#. translators: %s: Yoast Duplicate Post version.
+#: duplicate-post-admin.php:224
+msgid "What's new in Yoast Duplicate Post version %s:"
+msgstr "Apa yang baru di Duplicate Post versi %s:"
+
+#: src/handlers/class-link-handler.php:62
+#: src/handlers/class-link-handler.php:118
+#: src/handlers/class-link-handler.php:190
+msgid "Current user is not allowed to copy posts."
+msgstr "Pengguna ini tidak diizinkan menggandakan kiriman."
+
+#: src/admin/class-options.php:168
+msgid "you probably want this unchecked, unless you have very special requirements"
+msgstr "kemungkinan anda menginginkan ini tidak dicentang, kecuali anda memiliki kebutuhan yang sangat khusus"
+
+#: duplicate-post-admin.php:775
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#: src/admin/class-options.php:265
+msgid "Show update notice"
+msgstr "Perlihatkan pemberitahuan pembaruan"
+
+#: src/admin/class-options.php:310
+msgid "Bulk Actions"
+msgstr "Aksi Massal"
+
+#: src/admin/class-options.php:220
+msgid "You can use * to match zero or more alphanumeric characters or underscores: e.g. field*"
+msgstr "Anda dapat menggunakan * untuk mencari nol atau lebih karakter alfanumerik atau garis bawah: contoh bidang*"
+
+#: src/admin/class-options.php:189
+msgid "Menu order"
+msgstr "Urutan menu"
+
+#: src/admin/class-options.php:152
+msgid "Author"
+msgstr "Penuiis"
+
+#: src/admin/class-options.php:138
+msgid "Template"
+msgstr "Pola"
+
+#: src/admin/class-options.php:131
+msgid "Featured Image"
+msgstr "Gambar Utama"
+
+#. translators: %s: Number of posts copied.
+#: src/watchers/class-link-actions-watcher.php:78
+#: src/watchers/class-bulk-actions-watcher.php:60
+msgid "%s item copied."
+msgid_plural "%s items copied."
+msgstr[0] "%s item disalin."
+msgstr[1] "%s item disalin."
+
+#: src/admin/views/options.php:176 src/admin/views/options.php:213
+msgid "Whether the links are displayed for custom post types registered by themes or plugins depends on their use of standard WordPress UI elements."
+msgstr "Apakah tautan akan diperlihatkan untuk tipe artikel khusus yang didaftarkan oleh tema atau plugin tergantung pada penggunaan elemen standar WordPress UI."
+
+#: src/admin/views/options.php:174
+msgid "Select the post types you want the plugin to be enabled for."
+msgstr "Pilih tipe artikel yang anda inginkan untuk diaktifkan oleh plugin."
+
+#: src/admin/views/options.php:164 src/admin/views/options.php:168
+msgid "Enable for these post types"
+msgstr "Aktifkan untuk tipe artikel ini"
+
+#: src/admin/views/options.php:157
+msgid "Passwords and contents of password-protected posts may become visible to undesired users and visitors."
+msgstr "Kata sandi dan konten dari artikel yang dilindungi kata sandi bisa menjadi terlihat pada pengguna dan tamu yang tidak dikehendaki."
+
+#: src/admin/views/options.php:129
+msgid "Show/hide private taxonomies"
+msgstr "Tampilkan/sembunyikan taksonomi privat"
+
+#: src/admin/class-options.php:211
+msgid "Add this number to the original menu order (blank or zero to retain the value)"
+msgstr "Tambahkan angka ini pada urutan menu original (kosong atau nol untuk tidak merubah)"
+
+#: src/admin/class-options.php:209 src/admin/views/options.php:95
+msgid "Increase menu order by"
+msgstr "Tambahkan urutan menu dengan"
+
+#: src/admin/class-options.php:183
+msgid "except pingbacks and trackbacks"
+msgstr "kecuali pingbalik dan trakbalik"
+
+#: src/admin/class-options.php:181
+msgid "Comments"
+msgstr "Komentar"
+
+#: src/admin/class-options.php:174
+msgid "Children"
+msgstr "Anak-anak"
+
+#: src/admin/class-options.php:166
+msgid "Attachments"
+msgstr "Lampiran"
+
+#: src/admin/class-options.php:159
+msgid "Password"
+msgstr "Kata sandi"
+
+#: src/handlers/class-check-changes-handler.php:128
+#: src/admin/class-options.php:124
+msgid "Content"
+msgstr "Konten"
+
+#: src/handlers/class-check-changes-handler.php:129
+#: src/admin/class-options.php:117
+msgid "Excerpt"
+msgstr "Ringkasan"
+
+#: src/admin/class-options.php:110
+msgid "Slug"
+msgstr "Tautan ringkas"
+
+#: src/admin/class-options.php:103
+msgid "Status"
+msgstr "Status"
+
+#: src/admin/class-options.php:96
+msgid "Date"
+msgstr "Tanggal"
+
+#: src/handlers/class-check-changes-handler.php:127
+#: src/admin/class-options.php:89
+msgid "Title"
+msgstr "Judul"
+
+#: src/admin/views/options.php:60 src/admin/views/options.php:63
+msgid "Post/page elements to copy"
+msgstr "Elemen artikel/halaman untuk disalin"
+
+#: src/admin/views/options.php:48 src/admin/views/options.php:189
+msgid "Display"
+msgstr "Tampilan"
+
+#: src/admin/views/options.php:39 src/admin/views/options.php:142
+msgid "Permissions"
+msgstr "Hak akses"
+
+#: src/admin/views/options.php:30 src/admin/views/options.php:57
+msgid "What to copy"
+msgstr "Apa yang ingin disalin"
+
+#: duplicate-post-admin.php:627
+msgid "Copy features for this post type are not enabled in options page"
+msgstr "Fitur-fitur menyalin untuk tipe artikel ini tidak diaktifkan pada halaman opsi"
+
+#: duplicate-post.php:91
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: src/admin/views/options.php:249
+msgid "Save changes"
+msgstr "Simpan perubahan"
+
+#: src/admin/class-options.php:300
+msgid "Admin bar"
+msgstr "Bilah admin"
+
+#: src/admin/class-options.php:305
+msgid "Edit screen"
+msgstr "Layar sunting"
+
+#: src/admin/class-options.php:295
+msgid "Post list"
+msgstr "Daftar artikel"
+
+#: src/admin/views/options.php:204
+msgid "Show links in"
+msgstr "Tinjukkan tautan pada"
+
+#: src/admin/views/options.php:146 src/admin/views/options.php:149
+msgid "Roles allowed to copy"
+msgstr "Peran boleh disalin"
+
+#: src/admin/class-options.php:204
+msgid "Suffix to be added after the title, e.g. \"(dup)\" (blank for no suffix)"
+msgstr "Akhiran untuk ditambahkan setelah judul, misalnya \"(dup)\" (kosong atau tanpa akhiran)"
+
+#: src/admin/class-options.php:202 src/admin/views/options.php:84
+msgid "Title suffix"
+msgstr "Akhiran judul"
+
+#: src/admin/class-options.php:197
+msgid "Prefix to be added before the title, e.g. \"Copy of\" (blank for no prefix)"
+msgstr "Awalan untuk ditambahkan sebelum judul, misalnya \"Salinan dari\" (kosong atau tanpa awalan)"
+
+#: src/admin/class-options.php:195 src/admin/views/options.php:73
+msgid "Title prefix"
+msgstr "Awalan judul"
+
+#: src/admin/views/options.php:118 src/admin/views/options.php:122
+msgid "Do not copy these taxonomies"
+msgstr "Jangan menyalin taksonomi ini"
+
+#: src/admin/class-options.php:219
+msgid "Comma-separated list of meta fields that must not be copied."
+msgstr "Daftar bidang meta yang terpisahkan koma yang tidak boleh disalin."
+
+#: src/admin/class-options.php:216 src/admin/views/options.php:107
+msgid "Do not copy these fields"
+msgstr "Jangan salin bidang-bidang ini"
+
+#: src/admin/class-options-page.php:81 src/ui/class-admin-bar.php:94
+#: src/ui/class-metabox.php:58
+msgid "Duplicate Post"
+msgstr "Artikel Duplikat"
+
+#: src/admin/class-options-page.php:80 src/admin/views/options.php:16
+msgid "Duplicate Post Options"
+msgstr "Opsi Artikel Duplikat"
+
+#: src/handlers/class-link-handler.php:79
+#: src/handlers/class-link-handler.php:135
+#: src/handlers/class-link-handler.php:207
+msgid "Copy creation failed, could not find original:"
+msgstr "Pembuatan salinan gagal, tidak dapat menemukan origina:"
+
+#: src/handlers/class-link-handler.php:67
+#: src/handlers/class-link-handler.php:123
+#: src/handlers/class-link-handler.php:195
+msgid "No post to duplicate has been supplied!"
+msgstr "Tidak ada artikel untuk disalin!"
+
+#: src/admin/class-options.php:274 src/ui/class-row-actions.php:119
+msgid "New Draft"
+msgstr "Konsep Baru"
+
+#: src/ui/class-admin-bar.php:102 src/ui/class-admin-bar.php:119
+#: src/ui/class-classic-editor.php:135 duplicate-post-common.php:77
+msgid "Copy to a new draft"
+msgstr "Salin ke konsep baru"
+
+#: src/admin/class-options.php:279 src/ui/class-bulk-actions.php:75
+msgid "Clone"
+msgstr "Duplikat"

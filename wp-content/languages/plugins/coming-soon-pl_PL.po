@@ -1,0 +1,72 @@
+# Translation of Plugins - Coming Soon Page, Maintenance Mode &amp; Landing Pages by SeedProd - Stable (latest release) in Polish
+# This file is distributed under the same license as the Plugins - Coming Soon Page, Maintenance Mode &amp; Landing Pages by SeedProd - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-03 17:38:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pl\n"
+"Project-Id-Version: Plugins - Coming Soon Page, Maintenance Mode &amp; Landing Pages by SeedProd - Stable (latest release)\n"
+
+#: app/functions-addons.php:177 app/functions-addons.php:225
+msgid "Active"
+msgstr "Włączono"
+
+#: app/functions-addons.php:188 app/functions-addons.php:236
+msgid "Not Installed"
+msgstr "Nie zainstalowano"
+
+#: app/routes.php:57 app/routes.php:58
+msgid "Subscribers"
+msgstr "Subskrybenci"
+
+#: app/routes.php:66 app/routes.php:67
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: app/review.php:115
+msgid "I already did"
+msgstr "Już zrobione"
+
+#: app/review.php:113
+msgid "Ok, you deserve it"
+msgstr "OK, zasługujesz na to"
+
+#: app/functions-utils.php:500
+msgid "Custom HTML"
+msgstr "Własny HTML"
+
+#. Author of the plugin
+msgid "SeedProd"
+msgstr "SeedProd"
+
+#. Description of the plugin
+msgid "The #1 Coming Soon Page, Under Construction & Maintenance Mode plugin for WordPress."
+msgstr "#1 Coming Soon Page, Under Construction & Maintenance Mode wtyczka dla WordPress."
+
+#: app/functions-utils.php:134
+msgid "Text"
+msgstr "Tekst"
+
+#: app/functions-utils.php:122
+msgid "Headline"
+msgstr "Nagłówek"
+
+#: app/review.php:98
+msgid "Yes"
+msgstr "Tak"
+
+#: app/backwards/csp4-functions.php:10
+msgid "Please enter your settings."
+msgstr "Proszę wprowadzić swoje ustawienia."
+
+#: app/admin-bar-menu.php:42
+msgid "Maintenance Mode Active"
+msgstr "Tryb Konserwacji włączony"
+
+#: app/admin-bar-menu.php:40
+msgid "Coming Soon Mode Active"
+msgstr "Tryb Wkrótce włączony"

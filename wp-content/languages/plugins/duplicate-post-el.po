@@ -1,0 +1,264 @@
+# Translation of Plugins - Yoast Duplicate Post - Stable (latest release) in Greek
+# This file is distributed under the same license as the Plugins - Yoast Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-25 09:53:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - Yoast Duplicate Post - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://yoast.com"
+msgstr "https://yoast.com"
+
+#. Plugin URI of the plugin
+msgid "https://yoast.com/wordpress/plugins/duplicate-post/"
+msgstr "https://yoast.com/wordpress/plugins/duplicate-post/"
+
+#. Author of the plugin
+msgid "Enrico Battocchi & Team Yoast"
+msgstr "Enrico Battocchi & Team Yoast"
+
+#. translators: %s: Yoast Duplicate Post version.
+#: duplicate-post-admin.php:222
+msgid "What's new in Yoast Duplicate Post version %s:"
+msgstr "Τι νέο υπάρχει στο Yoast Duplicate Post έκδοση %s:"
+
+#: src/handlers/class-link-handler.php:62
+#: src/handlers/class-link-handler.php:118
+#: src/handlers/class-link-handler.php:190
+msgid "Current user is not allowed to copy posts."
+msgstr "Ο τρέχων χρήστης δεν επιτρέπεται να αντιγράφει άρθρα."
+
+#: src/admin/class-options.php:168
+msgid "you probably want this unchecked, unless you have very special requirements"
+msgstr "ίσως να θέλετε αυτό αποεπιλεγμένο, εκτός και αν έχετε πολύ ειδικές απαιτήσεις"
+
+#: duplicate-post-admin.php:771
+msgid "Documentation"
+msgstr "Τεκμηρίωση"
+
+#: src/admin/class-options.php:265
+msgid "Show update notice"
+msgstr "Εμφάνιση σημείωσης ανανέωσης"
+
+#: src/admin/class-options.php:310
+msgid "Bulk Actions"
+msgstr "Μαζικές ενέργειες"
+
+#: src/admin/class-options.php:220
+msgid "You can use * to match zero or more alphanumeric characters or underscores: e.g. field*"
+msgstr "Μπορείτε να χρησιμοποιήσετε το * για να αντικαταστήσετε κενούς ή αλφαριθμητικούς χαρακτήρες ή υπογραμμίσεις: π.χ. field*"
+
+#: src/admin/class-options.php:189
+msgid "Menu order"
+msgstr "Ταξινόμηση μενού"
+
+#: src/admin/class-options.php:138
+msgid "Template"
+msgstr "Πρότυπο"
+
+#: src/admin/class-options.php:131
+msgid "Featured Image"
+msgstr "Χαρακτηριστική εικόνα"
+
+#: src/admin/class-options.php:152
+msgid "Author"
+msgstr "Συντάκτης"
+
+#. translators: %s: Number of posts copied.
+#: src/watchers/class-link-actions-watcher.php:78
+#: src/watchers/class-bulk-actions-watcher.php:60
+msgid "%s item copied."
+msgid_plural "%s items copied."
+msgstr[0] "%s αντικείμενο αντιγράφηκε."
+msgstr[1] "%s αντικείμενα αντιγράφηκαν."
+
+#: src/admin/views/options.php:39 src/admin/views/options.php:142
+msgid "Permissions"
+msgstr "Δικαιώματα"
+
+#: src/admin/class-options.php:89
+#: src/handlers/class-check-changes-handler.php:111
+msgid "Title"
+msgstr "Τίτλος"
+
+#: src/admin/class-options.php:96
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: src/admin/class-options.php:211
+msgid "Add this number to the original menu order (blank or zero to retain the value)"
+msgstr "Πρόσθεσε αυτό τον αριθμό στην αρχική σειρά του μενού (κενό ή μηδέν για να διατηρηθεί η τιμή)"
+
+#: src/admin/class-options.php:166
+msgid "Attachments"
+msgstr "Συνημμένα"
+
+#: src/admin/class-options.php:174
+msgid "Children"
+msgstr "Εξαρτημένα/ες"
+
+#: src/admin/class-options.php:181
+msgid "Comments"
+msgstr "Σχόλια"
+
+#: src/admin/class-options.php:124
+#: src/handlers/class-check-changes-handler.php:112
+msgid "Content"
+msgstr "Περιεχόμενο"
+
+#: duplicate-post-admin.php:623
+msgid "Copy features for this post type are not enabled in options page"
+msgstr "Η αντιγραφή των χαρακτηριστικών για αυτό το είδος της δημοσίευσης δεν είναι ενεργοποιημένη στη σελίδα των επιλογών"
+
+#: src/admin/views/options.php:48 src/admin/views/options.php:189
+msgid "Display"
+msgstr "Προβολή"
+
+#: src/admin/views/options.php:164 src/admin/views/options.php:168
+msgid "Enable for these post types"
+msgstr "Ενεργοποίηση για αυτό το είδος των δημοσιεύσεων"
+
+#: src/admin/class-options.php:183
+msgid "except pingbacks and trackbacks"
+msgstr "Εκτός από pingbacks and trackbacks"
+
+#: src/admin/class-options.php:117
+#: src/handlers/class-check-changes-handler.php:113
+msgid "Excerpt"
+msgstr "Απόσπασμα"
+
+#: src/admin/class-options.php:209 src/admin/views/options.php:95
+msgid "Increase menu order by"
+msgstr "Αύξηση της σειράς μενού κατά"
+
+#: src/admin/class-options.php:159
+msgid "Password"
+msgstr "Συνθηματικό"
+
+#: src/admin/views/options.php:60 src/admin/views/options.php:63
+msgid "Post/page elements to copy"
+msgstr "Στοιχεία των άρθρων/σελίδων προς αντιγραφή"
+
+#: src/admin/views/options.php:129
+msgid "Show/hide private taxonomies"
+msgstr "Εμφάνιση/Απόκρυψη ιδιωτικών ταξινομιών"
+
+#: src/admin/class-options.php:103
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: src/admin/class-options.php:110
+msgid "Slug"
+msgstr "Σύντομο όνομα"
+
+#: src/admin/views/options.php:30 src/admin/views/options.php:57
+msgid "What to copy"
+msgstr "Τι να αντιγραφεί"
+
+#: src/admin/views/options.php:157
+msgid "Passwords and contents of password-protected posts may become visible to undesired users and visitors."
+msgstr "Οι κωδικοί και τα περιεχόμενα των προστατευμένων με κωδικό άρθρων θα γίνουν ορατά σε μη επιθυμητούς χρήστες και επισκέπτες."
+
+#: src/admin/views/options.php:174
+msgid "Select the post types you want the plugin to be enabled for."
+msgstr "Επιλέξτε τους τύπους των δημοσιεύσεων για τις οποίες θέλετε να ενεργοποιηθεί το πρόσθετο."
+
+#: src/admin/views/options.php:176 src/admin/views/options.php:213
+msgid "Whether the links are displayed for custom post types registered by themes or plugins depends on their use of standard WordPress UI elements."
+msgstr "Το αν οι σύνδεσμοι εμφανίζονται σε προσαρμοσμένους τύπους δημοσιεύσεων από τα θέματα ή τα πρόσθετα, εξαρτάται από το αν χρησιμοποιούν τα τυπικά στοιχεία διεπαφής χρήστη του WordPress."
+
+#: duplicate-post.php:91
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: src/admin/class-options.php:300
+msgid "Admin bar"
+msgstr "Γραμμή διαχείρισης"
+
+#: src/ui/class-bulk-actions.php:75 src/admin/class-options.php:279
+msgid "Clone"
+msgstr "Αντίγραψε"
+
+#: src/handlers/class-link-handler.php:79
+#: src/handlers/class-link-handler.php:135
+#: src/handlers/class-link-handler.php:207
+msgid "Copy creation failed, could not find original:"
+msgstr "Απέτυχε η δημιουργία αντιγράφου, δεν μπορεί να βρεθεί το πρωτότυπο:"
+
+#: duplicate-post-common.php:75 src/ui/class-admin-bar.php:102
+#: src/ui/class-admin-bar.php:119 src/ui/class-classic-editor.php:135
+msgid "Copy to a new draft"
+msgstr "Αντιγραφή σε νέο πρόχειρο"
+
+#: src/admin/class-options.php:216 src/admin/views/options.php:107
+msgid "Do not copy these fields"
+msgstr "Να μην αντιγραφούν αυτά τα πεδία"
+
+#: src/admin/views/options.php:118 src/admin/views/options.php:122
+msgid "Do not copy these taxonomies"
+msgstr "Να μην αντιγραφούν αυτές οι ταξινομίες"
+
+#: src/admin/class-options.php:305
+msgid "Edit screen"
+msgstr "Οθόνη επεξεργασίας"
+
+#: src/ui/class-row-actions.php:119 src/admin/class-options.php:274
+msgid "New Draft"
+msgstr "Νέο πρόχειρο"
+
+#: src/handlers/class-link-handler.php:67
+#: src/handlers/class-link-handler.php:123
+#: src/handlers/class-link-handler.php:195
+msgid "No post to duplicate has been supplied!"
+msgstr "Δεν ορίσθηκε δημοσίευση για αντιγραφή!"
+
+#: src/admin/class-options.php:295
+msgid "Post list"
+msgstr "Κατάλογος δημοσιεύσεων"
+
+#: src/admin/class-options.php:197
+msgid "Prefix to be added before the title, e.g. \"Copy of\" (blank for no prefix)"
+msgstr "Πρόθεμα που θα προστεθεί πριν τον τίτλο, π.χ \"Αντίγραφο του\" (κενό για χωρίς πρόθεμα)"
+
+#: src/admin/views/options.php:146 src/admin/views/options.php:149
+msgid "Roles allowed to copy"
+msgstr "Ρόλοι που επιτρέται να αντιγράφουν"
+
+#: src/admin/views/options.php:204
+msgid "Show links in"
+msgstr "Εμφάνισε τους συνδέσμους στο"
+
+#: src/admin/class-options.php:204
+msgid "Suffix to be added after the title, e.g. \"(dup)\" (blank for no suffix)"
+msgstr "Κατάληξη που θα προστεθεί μετά τον τίτλο, π.χ. \"αντ\" (κενό για μη προσθήκη κατάληξης)"
+
+#: src/admin/class-options.php:195 src/admin/views/options.php:73
+msgid "Title prefix"
+msgstr "Πρόθεμα τίτλου"
+
+#: src/admin/class-options.php:202 src/admin/views/options.php:84
+msgid "Title suffix"
+msgstr "Κατάληξη τίτλου"
+
+#: src/ui/class-metabox.php:58 src/ui/class-admin-bar.php:94
+#: src/admin/class-options-page.php:81
+msgid "Duplicate Post"
+msgstr "Duplicate Post"
+
+#: src/admin/class-options-page.php:80 src/admin/views/options.php:16
+msgid "Duplicate Post Options"
+msgstr "Επιλογές του Duplicate Post"
+
+#: src/admin/class-options.php:219
+msgid "Comma-separated list of meta fields that must not be copied."
+msgstr "Κατάλογος των διαχωρισμένων με κόμμα μετα-πεδίων που δεν πρέπει να αντιγραφούν."
+
+#: src/admin/views/options.php:249
+msgid "Save changes"
+msgstr "Αποθήκευση αλλαγών"

@@ -1,0 +1,204 @@
+# Translation of Plugins - ImageMagick Engine - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - ImageMagick Engine - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-04-20 18:39:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - ImageMagick Engine - Stable (latest release)\n"
+
+#: imagemagick-engine.php:147
+msgid "Medium Large"
+msgstr "Middelgroot"
+
+#. Author URI of the plugin
+msgid "https://orangelab.com/"
+msgstr "https://orangelab.com/"
+
+#. Author of the plugin
+msgid "Orangelab"
+msgstr "Orangelab"
+
+#. Description of the plugin
+msgid "Improve the quality of re-sized images by replacing standard GD library with ImageMagick"
+msgstr "Verbeter de kwaliteit van herschaalde afbeeldingen door de standaard GD library te vervangen met ImageMagick"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/imagemagick-engine/"
+msgstr "https://wordpress.org/plugins/imagemagick-engine/"
+
+#. Plugin Name of the plugin
+msgid "ImageMagick Engine"
+msgstr "ImageMagick Engine"
+
+#: imagemagick-engine.php:1168
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: imagemagick-engine.php:1137
+msgid "None (use WP instead)"
+msgstr "Geen (gebruik WP)"
+
+#: imagemagick-engine.php:1136
+msgid "Size"
+msgstr "Afmeting"
+
+#: imagemagick-engine.php:1135
+msgid "Quality"
+msgstr "Kwaliteit"
+
+#: imagemagick-engine.php:1134
+msgid "Optimize for"
+msgstr "Optimaliseer voor"
+
+#: imagemagick-engine.php:1127
+msgid "Set to 0-100. Higher value gives better image quality but larger file size. Leave empty for default value, computed dynamically."
+msgstr "Stel een waarde in van 0-100. Hogere waarden geven een betere afbeeldingskwaliteit maar grotere bestanden. Laat het veld leeg voor een standaard waarde, dynamisch gegenereerd."
+
+#: imagemagick-engine.php:1126
+msgid "Optimize for size"
+msgstr "Geoptimaliseerde grootte"
+
+#: imagemagick-engine.php:1125
+msgid "Optimize for quality"
+msgstr "Optimaliseer voor kwaliteit"
+
+#: imagemagick-engine.php:1123
+msgid "ImageMagick quality"
+msgstr "ImageMagick kwaliteit"
+
+#: imagemagick-engine.php:1118
+msgid "Test path"
+msgstr "Testpad"
+
+#: imagemagick-engine.php:1116
+msgid "Testing command..."
+msgstr "Commando testen.."
+
+#: imagemagick-engine.php:1115
+msgid "Command not found"
+msgstr "Commando niet gevonden"
+
+#: imagemagick-engine.php:1112
+msgid "ImageMagick path"
+msgstr "ImageMagick pad"
+
+#: imagemagick-engine.php:1108
+msgid "Imagick PHP module not found"
+msgstr "Imagick PHP module niet gevonden"
+
+#: imagemagick-engine.php:1108
+msgid "Imagick PHP module found"
+msgstr "Imagick PHP module gevonden"
+
+#: imagemagick-engine.php:1089
+msgid "Image engine"
+msgstr "Afbeelding engine"
+
+#: imagemagick-engine.php:1078
+msgid "Enable enhanced image engine"
+msgstr "Schakel verbeterde afbeelding engine in"
+
+#: imagemagick-engine.php:1030
+msgid "You must enable Javascript in order to proceed!"
+msgstr "Je dient JavaScript te activeren om verder te kunnen gaan."
+
+#: imagemagick-engine.php:1029 imagemagick-engine.php:1031
+msgid "Regenerating images"
+msgstr "Afbeeldingen regenereren"
+
+#: imagemagick-engine.php:1065
+msgid "(this can take a long time)"
+msgstr "(dit kan lang duren)"
+
+#: imagemagick-engine.php:1064
+msgid "Regenerate"
+msgstr "Regenereren"
+
+#: imagemagick-engine.php:1061
+msgid "Resize will use standard WordPress functions."
+msgstr "Herschaling zal de standaard WordPress functies gebruiken."
+
+#: imagemagick-engine.php:1057
+msgid "ImageMagick images too"
+msgstr "ImageMagick afbeeldingen ook"
+
+#: imagemagick-engine.php:1047
+msgid "Sizes"
+msgstr "Grootten"
+
+#: imagemagick-engine.php:1042
+msgid "Regenerate Images"
+msgstr "Afbeeldingen opnieuw genereren"
+
+#: imagemagick-engine.php:1028
+msgid "ImageMagick Engine Settings"
+msgstr "ImageMagick Instellingen"
+
+#: imagemagick-engine.php:1022
+msgid "ImageMagick Engine is not enabled."
+msgstr "ImageMagick Engine is niet ingeschakeld."
+
+#: imagemagick-engine.php:1018
+msgid "No valid ImageMagick mode found! Please check %1$sFAQ%2$s for installation instructions."
+msgstr "Geen geldige ImageMagick mode gevonden! Raadpleeg %1$sFAQ%2$s voor installatie-instructies."
+
+#: imagemagick-engine.php:968
+msgid "Settings updated"
+msgstr "Instellingen geüpdatet."
+
+#: imagemagick-engine.php:861
+msgid "Resize using ImageMagick Engine"
+msgstr "Grootte aanpassen met ImageMagick Engine"
+
+#: imagemagick-engine.php:857
+msgid "Resize image"
+msgstr "Afbeelding aanpassen"
+
+#: imagemagick-engine.php:811 imagemagick-engine.php:1074
+msgid "Settings"
+msgstr "Instellingen"
+
+#: imagemagick-engine.php:797 imagemagick-engine.php:856
+msgid "Resized using ImageMagick Engine"
+msgstr "Grootte aangepast met ImageMagick"
+
+#: imagemagick-engine.php:796
+msgid "Failed to resize image!"
+msgstr "Aanpassen van de afbeelding is mislukt!"
+
+#: imagemagick-engine.php:795
+msgid "Processed %d images"
+msgstr "%d afbeeldingen verwerkt"
+
+#: imagemagick-engine.php:794
+msgid "All done!"
+msgstr "Klaar."
+
+#: imagemagick-engine.php:793
+msgid "You dont have any images to regenerate"
+msgstr "Je hebt geen afbeeldingen om opnieuw te genereren"
+
+#: imagemagick-engine.php:148
+msgid "Large"
+msgstr "Groot"
+
+#: imagemagick-engine.php:146
+msgid "Medium"
+msgstr "Gemiddeld"
+
+#: imagemagick-engine.php:145
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: imagemagick-engine.php:66
+msgid "ImageMagick command-line"
+msgstr "ImageMagick opdrachtregel"
+
+#: imagemagick-engine.php:65 imagemagick-engine.php:1105
+msgid "Imagick PHP module"
+msgstr "Imagick PHP module"

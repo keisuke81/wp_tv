@@ -1,0 +1,484 @@
+# Translation of Plugins - Autoptimize - Stable (latest release) in Indonesian
+# This file is distributed under the same license as the Plugins - Autoptimize - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-04 18:55:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: id\n"
+"Project-Id-Version: Plugins - Autoptimize - Stable (latest release)\n"
+
+#: classes/critcss-inc/admin_settings_debug.php:39
+msgid "Options"
+msgstr "Pilihan"
+
+#: classes/critcss-inc/admin_settings_queue.js.php:71
+msgid "New"
+msgstr "Baru"
+
+#: classes/autoptimizeImages.php:1282
+msgid "based on status at "
+msgstr "berdasarkan status di "
+
+#: classes/autoptimizeImages.php:1284
+msgid "based on previously fetched data"
+msgstr "berdasarkan data yang diambil sebelumnya"
+
+#. translators: link points Async Javascript settings page.
+#: classes/autoptimizeExtra.php:545
+msgid "You have \"Async JavaScript\" installed, %1$sconfiguration of async javascript is best done there%2$s."
+msgstr "Anda sudah memiliki \"Async JavaScript\", %1$skonfigurasi async javascript paling baik dilakukan di sana%2$s."
+
+#. translators: link points to shortpixel image test page.
+#: classes/autoptimizeImages.php:1188
+msgid "You can %1$stest compression levels here%2$s."
+msgstr "Anda dapat %1$smenguji level kompresi disini%2$s."
+
+#. translators: links points to shortpixel TOS & Privacy Policy.
+#: classes/autoptimizeImages.php:1154
+msgid "Usage of this feature is subject to Shortpixel's %1$sTerms of Use%2$s and %3$sPrivacy policy%4$s."
+msgstr "Menggunakan fitur ini tunduk pada %1$sPersyaratan Penggunaan%2$s dan %3$sKebijakan Privasi%4$s dari Shortpixel."
+
+#. translators: "Autoptimize support forum" will appear in a "a href".
+#: classes/autoptimizeImages.php:1091
+msgid "The image optimization service is currently down, image optimization will be skipped until further notice. Check the %1$sAutoptimize support forum%2$s for more info."
+msgstr "Layanan optimasi gambar sedang mati, optimasi gambar akan dilewati sampai pemberitahuan lebih lanjut. Periksa %1$sforum dukungan Autoptimize%2$s untuk info lebih lanjut."
+
+#: classes/autoptimizeImages.php:1116
+msgid "Optimize Images"
+msgstr "Optimalkan Gambar"
+
+#. translators: "display:swap" should remain untranslated, will be shown in
+#. code tags.
+#: classes/autoptimizeExtra.php:509
+msgid "Combine and link in head (fonts load fast but are render-blocking)"
+msgstr "Gabungkan dan tautkan di head (font akan dimuat cepat tetapi memblokir perenderan)"
+
+#: classes/autoptimizeConfig.php:298
+msgid "Aggregate all linked CSS-files? If this option is off, the individual CSS-files will remain in place but will be minified."
+msgstr "Gabungkan semua berkas CSS yang ditautkan? Jika opsi ini dimatikan, berkas CSS tunggal tetap pada tempatnya tapi akan diminify."
+
+#: classes/autoptimizeConfig.php:296
+msgid "Aggregate CSS-files?"
+msgstr "Gabungkan Berkas CSS?"
+
+#: classes/autoptimizeConfig.php:232
+msgid "Aggregate JS-files?"
+msgstr "Gabungkan Berkas JS?"
+
+#: classes/autoptimizeImages.php:1166
+msgid "Image Optimization quality"
+msgstr "Kualitas Optimasi Gambar"
+
+#: classes/autoptimizeImages.php:1138
+msgid "Shortpixel status: "
+msgstr "Status Shortpixel: "
+
+#: classes/autoptimizeImages.php:1098
+msgid "The image optimization service is launching, but not yet available for this domain, it should become available in the next couple of days."
+msgstr "Layanan optimasi gambar sudah berjalan, tetapi belum tersedia untuk domain ini, seharusnya tersedia dalam beberapa hari ke depan."
+
+#. translators: "log in to check your account" will appear in a "a href".
+#: classes/autoptimizeImages.php:1272
+msgid "Your ShortPixel image optimization and CDN quota are in good shape, %1$slog in to check your account%2$s."
+msgstr "Kuota optimasi gambar dan CDN ShortPixel dalam kondisi baik, %1$smasuk log untuk memeriksa akun Anda%2$s."
+
+#. translators: "add more credits" will appear in a "a href".
+#: classes/autoptimizeImages.php:1260
+msgid "Your ShortPixel image optimization and CDN quota is almost used, make sure you %1$sadd more credits%2$s to avoid slowing down your website."
+msgstr "Kuota optimasi gambar dan CDN ShortPixel hampir habis, pastikan Anda %1$smenambahkan kredit%2$s untuk mencegah perlambatan situs web Anda."
+
+#: classes/autoptimizeImages.php:1143
+msgid "For a limited time only, this service is offered free for all Autoptimize users, <b>don't miss the chance to test it</b> and see how much it could improve your site's speed."
+msgstr "Hanya untuk waktu yang terbatas, layanan ini ditawarkan secara gratis untuk semua pengguna Autoptimize, <b>jangan lewatkan kesempatan ini untuk mengujinya</b> dan lihat seberapa banyak ini dapat meningkatkan kecepatan situs Anda."
+
+#. translators: "add more credits" will appear in a "a href".
+#: classes/autoptimizeImages.php:1263
+msgid "Your ShortPixel image optimization and CDN quota was used, %1$sadd more credits%2$s to keep fast serving optimized images on your site"
+msgstr "Kuota optimasi gambar dan CDN ShortPixel telah habis digunakan, %1$stambahkan kredit%2$s untuk tetap dapat menyajikan gambar yang dioptimalkan pada situs Anda"
+
+#: classes/autoptimizePartners.php:81
+msgid "More info"
+msgstr "Info lebih lanjut"
+
+#. translators: %s will be replaced by a link to "wp youtube lyte" plugin.
+#: classes/autoptimizeExtra.php:570
+msgid "%s allows you to “lazy load” your videos, by inserting responsive “Lite YouTube Embeds\". "
+msgstr "%s memungkinkan Anda untuk memberikan “lazy load” pada video, dengan menyisipkan “Lite YouTube Embeds\" responsif. "
+
+#: classes/autoptimizeExtra.php:567
+msgid "Click here to configure it."
+msgstr "Klik disini untuk mengkonfigurasinya."
+
+#: classes/autoptimizeExtra.php:565
+msgid "Great, you have WP YouTube Lyte installed."
+msgstr "Hebat, Anda telah memiliki WP YouTube Lyte yang terpasang."
+
+#: classes/autoptimizeExtra.php:561
+msgid "Optimize YouTube videos"
+msgstr "Optimalkan video YouTube"
+
+#: classes/autoptimizeExtra.php:555 classes/autoptimizeExtra.php:572
+msgid "Click here to install and activate it."
+msgstr "Klik disini untuk memasang dan mengaktifkannya."
+
+#. translators: %s will be replaced by a link to the "async javascript" plugin.
+#: classes/autoptimizeExtra.php:553
+msgid "Configuration of async javascript is easier and more flexible using the %s plugin."
+msgstr "Konfigurasi javascript async lebih mudah dan fleksibel dengan menggunakan plugin %s."
+
+#: classes/autoptimizeExtra.php:468 classes/autoptimizeExtra.php:488
+msgid "Extra"
+msgstr "Ekstra"
+
+#: classes/autoptimizeExtra.php:551
+msgid "Comma-separated list of local or 3rd party JS-files that should loaded with the <code>async</code> flag. JS-files from your own site will be automatically excluded if added here. "
+msgstr "Daftar berkas JS lokal atau pihak ketiga yang dipisahkan koma yang ingin dimuat dengan <code>async</code>. Berkas JS dari situs Anda sendiri akan secara otomatis dikecualikan jika ditambahkan disini. "
+
+#: classes/autoptimizeExtra.php:540
+msgid "Async Javascript-files <em>(advanced users)</em>"
+msgstr "Async berkas Javascript <em>(pengguna ahli)</em>"
+
+#: classes/autoptimizeExtra.php:530
+msgid "Add 3rd party domains you want the browser to <a href=\"https://www.keycdn.com/support/preconnect/#primary\" target=\"_blank\">preconnect</a> to, separated by comma's. Make sure to include the correct protocol (HTTP or HTTPS)."
+msgstr "Tambahkan domain pihak ketiga yang ingin di <a href=\"https://www.keycdn.com/support/preconnect/#primary\" target=\"_blank\">preconnect</a> oleh browser, pisahkan dengan koma. Pastikan untuk menyertakan protokol yang tepat (HTTP atau HTTPS)."
+
+#: classes/autoptimizeExtra.php:528
+msgid "Preconnect to 3rd party domains <em>(advanced users)</em>"
+msgstr "Preconnect untuk domain pihak ketiga <em>(pengguna ahli)</em>"
+
+#: classes/autoptimizeExtra.php:512
+msgid "Combine and load fonts asynchronously with <a href=\"https://github.com/typekit/webfontloader#readme\" target=\"_blank\">webfont.js</a>"
+msgstr "Gabungkan dan muat font secara asynchronous dengan <a href=\"https://github.com/typekit/webfontloader#readme\" target=\"_blank\">webfont.js</a>"
+
+#: classes/autoptimizeExtra.php:506
+msgid "Leave as is"
+msgstr "Biarkan apa adanya"
+
+#: classes/autoptimizeExtra.php:504
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: classes/autoptimizeExtra.php:522
+msgid "Remove query strings from static resources"
+msgstr "Hapus string kueri dari sumber daya statik"
+
+#: classes/autoptimizeExtra.php:518
+msgid "Removes WordPress' core emojis' inline CSS, inline JavaScript, and an otherwise un-autoptimized JavaScript file."
+msgstr "Hapus emoji bawaan WordPress, inline CSS, inline JavaScript, dan berkas JavaScript yang tidak dioptimasi."
+
+#: classes/autoptimizeExtra.php:516
+msgid "Remove emojis"
+msgstr "Hapus emoji"
+
+#: classes/autoptimizeExtra.php:501
+msgid "The following settings can improve your site's performance even more."
+msgstr "Pengaturan berikut dapat meningkatkan kinerja situs Anda lebih banyak lagi."
+
+#: classes/autoptimizeExtra.php:500
+msgid "Extra Auto-Optimizations"
+msgstr "Optimasi Otomatis Ekstra"
+
+#: classes/autoptimizeCLI.php:30
+msgid "Cache flushed."
+msgstr "Cache terflush."
+
+#: classes/autoptimizeCLI.php:28
+msgid "Flushing the cache..."
+msgstr "Flushing cache..."
+
+#: classes/autoptimizeExtra.php:524
+msgid "Removing query strings (or more specifically the <code>ver</code> parameter) will not improve load time, but might improve performance scores."
+msgstr "Menghapus string kueri (atau lebih khususnya parameter <code>ver</code>) tidak akan meningkatkan waktu memuat, tetapi mungkin meningkatkan skor kinerja."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://autoptimize.com/"
+msgstr "https://autoptimize.com/"
+
+#: classes/autoptimizeConfig.php:498
+msgid "Need help? <a href='https://wordpress.org/plugins/autoptimize/faq/'>Check out the FAQ here</a>."
+msgstr "Butuh bantuan? <a href='https://wordpress.org/plugins/autoptimize/faq/'>Periksa FAQ disini</a>."
+
+#: classes/autoptimizeConfig.php:455
+msgid "By default Autoptimize is also active on your shop's cart/ checkout, uncheck not to optimize those."
+msgstr "Secara bawaan, Autoptimize juga aktif dikeranjang belanja/checkout situs Anda, hapus pilihan untuk tidak mengoptimasinya."
+
+#: classes/autoptimizeConfig.php:453
+msgid "Also optimize shop cart/ checkout?"
+msgstr "Juga optimasi keranjang belanja/ checkout?"
+
+#: classes/autoptimizeConfig.php:421
+msgid "Misc Options"
+msgstr "Opsi Lain-lain"
+
+#: classes/autoptimizeConfig.php:384
+msgid "Enter your CDN root URL to enable CDN for Autoptimized files. The URL can be http, https or protocol-relative (e.g. <code>//cdn.example.com/</code>). This is not needed for Cloudflare."
+msgstr "Masukkan URL root CDN untuk mengaktifkan CDN bagi berkas-berkas yang telah dioptimasi. URL dapat berupa http, https atau protocol-relative (misal <code>//cdn.example.com/</code>). Hal ini tidak diperlukan bagi Cloudflare."
+
+#: classes/autoptimizeConfig.php:266 classes/autoptimizeConfig.php:315
+#: classes/autoptimizeExtra.php:512
+msgid "(deprecated)"
+msgstr "(tidak berlaku lagi)"
+
+#. Translators: %s is the cache directory location.
+#: classes/autoptimizeMain.php:684
+msgid "Autoptimize cannot write to the cache directory (%s), please fix to enable CSS/ JS optimization!"
+msgstr "Autoptimize tidak dapat menulis untuk direktori cache (%s), silakan perbaiki untuk mengaktifkan optimasi CSS/ JS!"
+
+#. translators: links to the Autoptimize settings page.
+#: classes/autoptimizeToolbar.php:138
+msgid "Dismiss this notice."
+msgstr "Abaikan pemberitahuan ini."
+
+#: classes/autoptimizePartners.php:38 classes/autoptimizePartners.php:139
+msgid "Optimize More!"
+msgstr "Optimasi Lebih Lanjut!"
+
+#: classes/autoptimizePartners.php:53
+msgid "Have a look at <a href=\"http://optimizingmatters.com/\">optimizingmatters.com</a> for Autoptimize power-ups!"
+msgstr "Silakan lihat di <a href=\"http://optimizingmatters.com/\">optimizingmatters.com</a> untuk Autoptimize power-ups!"
+
+#: classes/autoptimizePartners.php:143
+msgid "These Autoptimize power-ups and related services will improve your site's performance even more!"
+msgstr "Autoptimize power-ups berikut dan layanan terkait akan meningkatkan performa situs Anda lebih banyak lagi!"
+
+#: classes/autoptimizeCacheChecker.php:67
+msgid "Autoptimize's cache size is getting big, consider purging the cache. Have a look at https://wordpress.org/plugins/autoptimize/faq/ to see how you can keep the cache size under control."
+msgstr "Ukuran cache Autoptimize semakin besar, pertimbangkan untuk membersihkan cache. Lihatlah di https://wordpress.org/plugins/autoptimize/faq/ untuk melihat cara menjaga ukuran cache tetap terkendali."
+
+#: classes/autoptimizeCacheChecker.php:66
+msgid "Autoptimize cache size warning"
+msgstr "Peringatan ukuran cache Autoptimize"
+
+#: classes/autoptimizeToolbar.php:106
+msgid "Delete Cache"
+msgstr "Hapus Cache"
+
+#: classes/autoptimizeToolbar.php:98
+msgid "Files"
+msgstr "Berkas"
+
+#: classes/autoptimizeToolbar.php:97
+msgid "Size"
+msgstr "Ukuran"
+
+#: classes/autoptimizeConfig.php:373
+msgid "Enable this if you want HTML comments to remain in the page."
+msgstr "Aktifkan ini jika Anda ingin komentar HTML tetap berada di halaman."
+
+#: classes/autoptimizeConfig.php:909
+msgid "No items"
+msgstr "Tidak ada item"
+
+#. translators: the variable contains a date.
+#: classes/autoptimizeConfig.php:915
+msgid "Posted %s"
+msgstr "Dipos %s"
+
+#: classes/autoptimizeConfig.php:499
+msgid "Try my other plugins!"
+msgstr "Coba plugin saya yang lain!"
+
+#: classes/autoptimizeConfig.php:499
+msgid "Happy with Autoptimize?"
+msgstr "Senang dengan Autoptimize?"
+
+#: classes/autoptimizeConfig.php:303
+msgid "Check this option for Autoptimize to also aggregate CSS in the HTML."
+msgstr "Centang opsi ini agar Autoptimize juga menggabungkan CSS di HTML."
+
+#: classes/autoptimizeConfig.php:301
+msgid "Also aggregate inline CSS?"
+msgstr "Juga gabungkan inline CSS?"
+
+#: classes/autoptimizeExtra.php:507
+msgid "Remove Google Fonts"
+msgstr "Hapus Google Fonts"
+
+#: classes/autoptimizeConfig.php:237
+msgid "Also aggregate inline JS?"
+msgstr "Juga gabungkan inline JS?"
+
+#: classes/autoptimizeCacheChecker.php:92
+msgid "<strong>Autoptimize's cache size is getting big</strong>, consider purging the cache. Have a look at <a href=\"https://wordpress.org/plugins/autoptimize/faq/\" target=\"_blank\" rel=\"noopener noreferrer\">the Autoptimize FAQ</a> to see how you can keep the cache size under control."
+msgstr "<strong>Ukuran cache Autoptimize semakin besar</strong>, pertimbangkan untuk membersihkan cache. Lihatlah di <a href=\"https://wordpress.org/plugins/autoptimize/faq/\" target=\"_blank\">Autoptimize FAQ</a> untuk melihat cara menjaga ukuran cache tetap terkendali."
+
+#: classes/autoptimizeConfig.php:765 classes/autoptimizeConfig.php:771
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: classes/autoptimizeConfig.php:398
+msgid "Yes"
+msgstr "Ya"
+
+#: classes/autoptimizeConfig.php:398
+msgid "No"
+msgstr "Tidak"
+
+#. Author of the plugin
+msgid "Frank Goossens (futtta)"
+msgstr "Frank Goossens (futtta)"
+
+#: classes/autoptimizeConfig.php:697 classes/autoptimizeConfig.php:700
+#: classes/autoptimizeConfig.php:703
+msgid "Autoptimize Options"
+msgstr "Opsi Autoptimize"
+
+#: classes/autoptimizeConfig.php:523
+msgid "Do not donate for this plugin!"
+msgstr "Jangan menyumbang untuk plugin ini!"
+
+#: classes/autoptimizeConfig.php:508
+msgid "Web Technology"
+msgstr "Teknologi Web"
+
+#: classes/autoptimizeConfig.php:507
+msgid "WordPress"
+msgstr "WordPress"
+
+#. Plugin Name of the plugin
+#: classes/autoptimizeCacheChecker.php:110 classes/autoptimizeConfig.php:506
+#: classes/autoptimizeToolbar.php:79
+msgid "Autoptimize"
+msgstr "Autoptimize"
+
+#: classes/autoptimizeConfig.php:504
+msgid "futtta about"
+msgstr "tentang futtta"
+
+#: classes/autoptimizeConfig.php:475
+msgid "Save Changes and Empty Cache"
+msgstr "Simpan Perubahan dan Kosongkan Cache"
+
+#: classes/autoptimizeConfig.php:474
+#: classes/autoptimizeCriticalCSSSettings.php:333
+#: classes/autoptimizeExtra.php:578 classes/autoptimizeImages.php:1218
+msgid "Save Changes"
+msgstr "Simpan Perubahan"
+
+#: classes/autoptimizeConfig.php:426
+msgid "By default files saved are static css/js, uncheck this option if your webserver doesn't properly handle the compression and expiry."
+msgstr "Secara bawaan, berkas yang disimpan adalah css/js statik, hapus centang opsi ini jika webserver Anda tidak menangani kompresi dan kadaluwarsa dengan benar."
+
+#: classes/autoptimizeConfig.php:424
+msgid "Save aggregated script/css as static files?"
+msgstr "Simpan script/css yang digabungkan sebagai berkas statik?"
+
+#: classes/autoptimizeConfig.php:401
+msgid "Cached styles and scripts"
+msgstr "Styles dan scripts tercache"
+
+#: classes/autoptimizeConfig.php:397
+msgid "Can we write?"
+msgstr "Dapatkah kami menulis?"
+
+#: classes/autoptimizeConfig.php:393
+msgid "Cache folder"
+msgstr "Folder cache"
+
+#: classes/autoptimizeConfig.php:390 classes/autoptimizeToolbar.php:87
+msgid "Cache Info"
+msgstr "Info cache"
+
+#: classes/autoptimizeConfig.php:382
+msgid "CDN Base URL"
+msgstr "URL Basis CDN"
+
+#: classes/autoptimizeConfig.php:379
+msgid "CDN Options"
+msgstr "Opsi CDN"
+
+#: classes/autoptimizeConfig.php:347
+msgid "A comma-separated list of CSS you want to exclude from being optimized."
+msgstr "Daftar CSS yang dipisahkan koma yang ingin Anda kecualikan agar tidak dioptimalkan."
+
+#: classes/autoptimizeConfig.php:344
+msgid "Exclude CSS from Autoptimize:"
+msgstr "Kecualikan CSS dari Autoptimize:"
+
+#: classes/autoptimizeConfig.php:339
+msgid "Inline all CSS?"
+msgstr "Inline semua CSS?"
+
+#: classes/autoptimizeConfig.php:319
+msgid "Don't autoptimize CSS outside the head-section. If the cache gets big, you might want to enable this."
+msgstr "Jangan autoptimize CSS diluar bagian head. Jika ukuran cache membesar, Anda mungkin ingin mengaktifkan ini."
+
+#: classes/autoptimizeConfig.php:314
+msgid "Look for styles only in &lt;head&gt;?"
+msgstr "Melihat styles hanya di &lt;head&gt;?"
+
+#: classes/autoptimizeConfig.php:308
+msgid "Enable this to include small background-images in the CSS itself instead of as separate downloads."
+msgstr "Aktifkan ini untuk menyertakan gambar-latar belakang kecil di CSS itu sendiri, bukan sebagai unduhan terpisah."
+
+#: classes/autoptimizeConfig.php:306
+msgid "Generate data: URIs for images?"
+msgstr "Buat URI data: untuk gambar?"
+
+#: classes/autoptimizeConfig.php:292
+msgid "Optimize CSS Code?"
+msgstr "Optimasi Kode CSS?"
+
+#: classes/autoptimizeConfig.php:289
+msgid "CSS Options"
+msgstr "Opsi CSS"
+
+#: classes/autoptimizeConfig.php:247
+msgid "Add try-catch wrapping?"
+msgstr "Tambahkan pembungkus try-catch?"
+
+#: classes/autoptimizeConfig.php:274
+msgid "Exclude scripts from Autoptimize:"
+msgstr "Kecualikan script dari Autoptimize:"
+
+#: classes/autoptimizeConfig.php:270
+msgid "Mostly useful in combination with previous option when using jQuery-based templates, but might help keeping cache size under control."
+msgstr "Umumnya berguna dalam kombinasi dengan opsi sebelumnya saat menggunakan templat berbasis jQuery, tetapi mungkin membantu menjaga ukuran cache tetap terkendali."
+
+#: classes/autoptimizeConfig.php:265
+msgid "Look for scripts only in &lt;head&gt;?"
+msgstr "Melihat script hanya di &lt;head&gt;?"
+
+#: classes/autoptimizeConfig.php:242
+msgid "Force JavaScript in &lt;head&gt;?"
+msgstr "Paksa JavaScript di &lt;head&gt;?"
+
+#: classes/autoptimizeConfig.php:228
+msgid "Optimize JavaScript Code?"
+msgstr "Optimasi Kode JavaScript?"
+
+#: classes/autoptimizeConfig.php:225
+msgid "JavaScript Options"
+msgstr "Opsi JavaScript"
+
+#: classes/autoptimizeConfig.php:371
+msgid "Keep HTML comments?"
+msgstr "Pertahankan komentar HTML?"
+
+#: classes/autoptimizeConfig.php:367
+msgid "Optimize HTML Code?"
+msgstr "Optimasi Kode HTML?"
+
+#: classes/autoptimizeConfig.php:364
+msgid "HTML Options"
+msgstr "Opsi HTML"
+
+#: classes/autoptimizeConfig.php:94 classes/autoptimizeConfig.php:198
+#: classes/autoptimizeCriticalCSSSettings.php:114
+#: classes/autoptimizeExtra.php:490 classes/autoptimizeImages.php:1085
+#: classes/autoptimizePartners.php:141
+msgid "Autoptimize Settings"
+msgstr "Pengaturan Autoptimize"
+
+#: classes/autoptimizeMain.php:698
+msgid "Autoptimize has just been updated. Please <strong>test your site now</strong> and adapt Autoptimize config if needed."
+msgstr "Autoptimize baru saja diperbarui. Silakan <strong>tes situs Anda sekarang</strong> dan sesuaikan konfig Autoptimize jika dibutuhkan."
+
+#: classes/autoptimizeMain.php:691
+msgid "Thank you for installing and activating Autoptimize. Please configure it under \"Settings\" -> \"Autoptimize\" to start improving your site's performance."
+msgstr "Terima kasih telah memasang dan mengaktifkan Autoptimize. Silakan mengkonfigurasinya pada \"Pengaturan\" -> \"Autoptimize\" untuk memulai meningkatkan performa situs Anda."

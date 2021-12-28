@@ -1,0 +1,1561 @@
+# Translation of Plugins - WP Mail SMTP by WPForms - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - WP Mail SMTP by WPForms - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-19 05:51:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - WP Mail SMTP by WPForms - Stable (latest release)\n"
+
+#: src/Admin/Pages/ExportTab.php:131
+msgid "Email Addresses"
+msgstr "メールアドレス"
+
+#: src/Admin/Pages/ExportTab.php:109
+msgid "Attachments"
+msgstr "添付ファイル"
+
+#: src/Admin/Pages/ExportTab.php:108
+msgid "Number of Attachments"
+msgstr "添付ファイル数"
+
+#: src/Admin/Pages/ExportTab.php:107
+msgid "Created Date"
+msgstr "作成日"
+
+#: src/Admin/Pages/ExportTab.php:106
+msgid "Body"
+msgstr "本文"
+
+#: src/Admin/Pages/ExportTab.php:105
+msgid "Subject"
+msgstr "件名"
+
+#: src/Admin/Pages/ExportTab.php:103
+msgid "From Address"
+msgstr "送信元アドレス"
+
+#: src/Admin/Pages/ExportTab.php:102
+msgid "To Address"
+msgstr "送信先アドレス"
+
+#: src/Admin/Pages/ExportTab.php:101
+msgid "Common Information"
+msgstr "共通情報"
+
+#: src/Admin/Pages/ExportTab.php:96
+msgid "Export in EML (.eml)"
+msgstr "EML (.eml)でエクスポート"
+
+#: src/Admin/Pages/ExportTab.php:93
+msgid "Export in Microsoft Excel (.xlsx)"
+msgstr "Microsoft Excel (.xlsx)でエクスポート"
+
+#: src/Admin/Pages/ExportTab.php:90
+msgid "Export in CSV (.csv)"
+msgstr "CSV (.csv)でエクスポート"
+
+#: src/Admin/Pages/ExportTab.php:88
+msgid "Export Type"
+msgstr "出力タイプ"
+
+#: src/Admin/Pages/ExportTab.php:129
+msgid "Search"
+msgstr "検索"
+
+#: src/Admin/Pages/ExportTab.php:125
+msgid "Select a date range"
+msgstr "日付範囲を選択"
+
+#: src/Admin/Pages/ExportTab.php:124
+msgid "Custom Date Range"
+msgstr "カスタムの日付範囲"
+
+#: src/Admin/Pages/ExportTab.php:120
+msgid "Email log ID"
+msgstr "メールログ ID"
+
+#: src/Admin/Pages/ExportTab.php:119
+msgid "Error Details"
+msgstr "エラー詳細"
+
+#: src/Admin/Pages/ExportTab.php:117
+msgid "Headers"
+msgstr "ヘッダー"
+
+#: src/Admin/Pages/ExportTab.php:116
+msgid "Blind Carbon Copy (BCC)"
+msgstr "隠しカーボンコピー (BCC)"
+
+#: src/Admin/Pages/ExportTab.php:115
+msgid "Carbon Copy (CC)"
+msgstr "カーボンコピー (CC)"
+
+#: src/Admin/Pages/ExportTab.php:113
+msgid "Additional Information"
+msgstr "追加情報"
+
+#: src/Admin/Pages/VersusTab.php:41
+msgid "Lite vs Pro"
+msgstr "ライト vs プロ"
+
+#: src/Admin/Pages/MiscTab.php:177
+msgid "Hide Dashboard Widget"
+msgstr "ダッシュボード ウィジェットを隠す"
+
+#: src/Admin/Pages/MiscTab.php:186
+msgid "Check this if you would like to hide the WP Mail SMTP Dashboard Widget."
+msgstr "WP Mail SMTP の ダㇱシュボードウィジェットを隠す場合はチェックを入れてください。"
+
+#. translators: %s - WPMailSMTP.com Upgrade page URL.
+#: src/Admin/Pages/ExportTab.php:72
+msgid "Easily export your logs to CSV or Excel. Filter the logs before you export and only download the data you need. This feature lets you easily create your own deliverability reports. You can also use the data in 3rd party dashboards to track deliverability along with your other website statistics. <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Upgrade to WP Mail SMTP Pro</a>"
+msgstr "エクスポートで簡単にログを CSV または Excel にできます。フィルタリングでエクスポート前にログを必要なデータのみに絞ってダウンロードすることもできます。この機能はあなた独自の配信レポートを作成しやすくします。あるいはサードパーティのダッシュボードなどにデータを持ち込んで他のウェブサイトの統計情報と合わせて配送状況をトラッキングすることにも使えます。<a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">WP Mail SMTP Pro にアップグレード</a>"
+
+#: src/Admin/Pages/ExportTab.php:42
+msgid "Export"
+msgstr "エクスポート"
+
+#: src/Admin/Pages/ExportTab.php:66
+msgid "Export Email Logs"
+msgstr "メールログのエクスポート"
+
+#. translators: %s - search term.
+#: src/Admin/Pages/ActionSchedulerTab.php:130
+msgid "Search results for <strong>%s</strong>"
+msgstr "<strong>%s</strong> の検索結果"
+
+#: src/Admin/Pages/ActionSchedulerTab.php:122
+msgid "Action Scheduler library is also used by other plugins, like WPForms and WooCommerce, so you might see tasks that are not related to our plugin in the table below."
+msgstr "アクションスケジューラ (Action Scheduler) ライブラリは他のプラグインにも使用され、WPForms や WooCommerce などがそれに当たります。そのため下記の表には当社のプラグインとは無関係なタスクが見つかることがあります。"
+
+#: src/Admin/Notifications.php:445
+msgid "Notifications"
+msgstr "通知"
+
+#. translators: %s fixed string of 'N/A'.
+#: src/Admin/DashboardWidget.php:503
+msgid "Sent %s"
+msgstr "送信済 %s"
+
+#. translators: %s fixed string of 'N/A'.
+#: src/Admin/DashboardWidget.php:492
+msgid "Failed %s"
+msgstr "失敗 %s"
+
+#. translators: %s fixed string of 'N/A'.
+#: src/Admin/DashboardWidget.php:486
+msgid "Unconfirmed %s"
+msgstr "未確認 %s"
+
+#. translators: %s fixed string of 'N/A'.
+#: src/Admin/DashboardWidget.php:480
+msgid "Confirmed %s"
+msgstr "確認済 %s"
+
+#. translators: %d number of total emails sent.
+#: src/Admin/DashboardWidget.php:474
+msgid "%d total"
+msgstr "合計 %d"
+
+#: src/Admin/DashboardWidget.php:444
+msgid "Table cell icon"
+msgstr "テーブルセルのアイコン"
+
+#: src/Admin/DashboardWidget.php:395
+msgid "WordPress"
+msgstr "WordPress"
+
+#: src/Admin/DashboardWidget.php:387
+msgid "Color Scheme"
+msgstr "カラースキーム"
+
+#: src/Admin/DashboardWidget.php:382
+msgid "Line"
+msgstr "ライン"
+
+#: src/Admin/DashboardWidget.php:378
+msgid "Bar"
+msgstr "バー"
+
+#: src/Admin/DashboardWidget.php:374
+msgid "Graph Style"
+msgstr "グラフスタイル"
+
+#: src/Admin/DashboardWidget.php:348
+msgid "All Emails"
+msgstr "すべてのメール"
+
+#: src/Admin/DashboardWidget.php:346
+msgid "Select email type"
+msgstr "メールのタイプを選択"
+
+#: src/Admin/DashboardWidget.php:342
+msgid "Sent Emails"
+msgstr "送信済みメール"
+
+#: src/Admin/DashboardWidget.php:337
+msgid "Failed Emails"
+msgstr "送信失敗メール"
+
+#: src/Admin/DashboardWidget.php:336
+msgid "Unconfirmed Emails"
+msgstr "未確認メール"
+
+#: src/Admin/DashboardWidget.php:335
+msgid "Confirmed Emails"
+msgstr "確認済みメール"
+
+#. translators: %d - Number of days.
+#: src/Admin/DashboardWidget.php:319
+msgid "Last %d day"
+msgid_plural "Last %d days"
+msgstr[0] "過去%d日"
+
+#: src/Admin/Pages/ActionSchedulerTab.php:41
+#: src/Admin/Pages/ActionSchedulerTab.php:101
+msgid "Scheduled Actions"
+msgstr "予約済みアクション"
+
+#: src/Admin/DashboardWidget.php:314
+msgid "All Time"
+msgstr "全期間"
+
+#: src/Admin/DashboardWidget.php:312
+msgid "Select timespan"
+msgstr "タイムスパンを選択"
+
+#: src/Admin/DashboardWidget.php:252
+msgid "View Detailed Email Stats"
+msgstr "詳細メール統計を表示"
+
+#. translators: %s - URL to WPMailSMTP.com.
+#: src/Admin/DashboardWidget.php:287
+msgid "<a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Upgrade to Pro</a> for detailed stats, email logs, and more!"
+msgstr "<a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Pro 版にアップグレード</a>して詳細な統計、メールログ、さらに多くを利用しましょう !"
+
+#: src/Admin/Pages/Tools.php:41
+msgid "Tools"
+msgstr "ツール"
+
+#: src/SiteHealth.php:307
+msgid "Current from email domain"
+msgstr "現在の From のメールドメイン"
+
+#: src/SiteHealth.php:339
+msgid "Email domain issues detected"
+msgstr "メールドメインの問題が検出されました。"
+
+#: src/SiteHealth.php:312
+msgid "Email domain is configured correctly"
+msgstr "メールドメインが正常に設定されました。"
+
+#: src/SiteHealth.php:321
+msgid "All checks for your email domain were successful. It looks like everything is configured correctly."
+msgstr "すべてのメールドメインのチェㇰクが成功しました。設定はすべて正常と判定されています。"
+
+#: src/Admin/Pages/SettingsTab.php:108
+msgid "Launch Setup Wizard"
+msgstr "セットアップウィザードを起動"
+
+#: src/Admin/Pages/AboutTab.php:403
+msgid "TrustPulse"
+msgstr "TrustPulse"
+
+#: src/Admin/Pages/AboutTab.php:375 src/Admin/Pages/AboutTab.php:381
+msgid "Smash Balloon YouTube Feeds"
+msgstr "Smash Balloon YouTube Feeds"
+
+#: src/Admin/Pages/AboutTab.php:389 src/Admin/Pages/AboutTab.php:395
+msgid "Smash Balloon Twitter Feeds"
+msgstr "Smash Balloon Twitter Feeds"
+
+#: src/Admin/Pages/AboutTab.php:361 src/Admin/Pages/AboutTab.php:367
+msgid "Smash Balloon Facebook Feeds"
+msgstr "Smash Balloon Facebook Feeds"
+
+#: src/Admin/Pages/AboutTab.php:312 src/Admin/Pages/AboutTab.php:318
+msgid "SeedProd"
+msgstr "SeedProd"
+
+#: src/Admin/Pages/AboutTab.php:347 src/Admin/Pages/AboutTab.php:353
+msgid "Smash Balloon Instagram Feeds"
+msgstr "Smash Balloon Instagram Feeds"
+
+#: src/Admin/Pages/AboutTab.php:340
+msgid "PushEngage"
+msgstr "PushEngage"
+
+#: src/Admin/Pages/AboutTab.php:298 src/Admin/Pages/AboutTab.php:304
+msgid "AIOSEO"
+msgstr "AIOSEO"
+
+#: src/Admin/Pages/TestTab.php:1310
+msgid "Copied"
+msgstr "コピーしました"
+
+#: src/Admin/Pages/TestTab.php:1307
+msgid "Copy Error Log"
+msgstr "エラーログをコピー"
+
+#: src/Admin/Pages/TestTab.php:1303
+msgid "View Full Error Log"
+msgstr "すべてのエラーログを表示"
+
+#: src/Admin/Pages/TestTab.php:1298
+msgid "Please copy the error log message below into the support ticket."
+msgstr "下のエラーログのメッセージをサポートチケットにコピーしてください。"
+
+#: assets/languages/wp-mail-smtp-vue.php:713
+msgid "Paste your license key here"
+msgstr "ここにライセンスキーを貼り付けます"
+
+#: assets/languages/wp-mail-smtp-vue.php:23
+msgid "Return to Plugin Settings"
+msgstr "プラグイン設定に戻る"
+
+#: assets/languages/wp-mail-smtp-vue.php:659
+msgid "Upgrade Failed!"
+msgstr "アップグレードに失敗しました !"
+
+#: assets/languages/wp-mail-smtp-vue.php:656
+msgid "Successful Upgrade!"
+msgstr "アップグレードに成功しました !"
+
+#: assets/languages/wp-mail-smtp-vue.php:482
+msgid "Authorization Error!"
+msgstr "認証エラー !"
+
+#. Translators: Error status and error text.
+#: assets/languages/wp-mail-smtp-vue.php:458
+msgid "%1$s, %2$s"
+msgstr "%1$s、%2$s"
+
+#: assets/languages/wp-mail-smtp-vue.php:26
+msgid "Error Message:"
+msgstr "エラーメッセージ:"
+
+#: assets/languages/wp-mail-smtp-vue.php:436
+msgid "Installed"
+msgstr "インストール済み"
+
+#: assets/languages/wp-mail-smtp-vue.php:695
+msgid "Verify License Key"
+msgstr "ライセンスキーを確認"
+
+#: assets/languages/wp-mail-smtp-vue.php:650
+msgid "Successful Verification!"
+msgstr "検証に成功しました !"
+
+#: assets/languages/wp-mail-smtp-vue.php:479
+msgid "Successful Authorization"
+msgstr "認証成功"
+
+#: assets/languages/wp-mail-smtp-vue.php:163
+msgid "Submit Feedback"
+msgstr "フィードバックを送信"
+
+#: assets/languages/wp-mail-smtp-vue.php:681
+msgid "Continue"
+msgstr "次へ"
+
+#: assets/languages/wp-mail-smtp-vue.php:593
+msgid "Your Email Address"
+msgstr "あなたのメールアドレス"
+
+#: assets/languages/wp-mail-smtp-vue.php:653
+msgid "Verification Error!"
+msgstr "検証エラー !"
+
+#: assets/languages/wp-mail-smtp-vue.php:668
+msgid "Purchase Now"
+msgstr "今すぐ購入"
+
+#: assets/languages/wp-mail-smtp-vue.php:716
+msgid "It looks like we can't save the settings."
+msgstr "設定を保存できないようです。"
+
+#: assets/languages/wp-mail-smtp-vue.php:710
+msgid "License key input"
+msgstr "ライセンスキー入力"
+
+#: assets/languages/wp-mail-smtp-vue.php:707
+msgid "Pro badge"
+msgstr "Pro バッジ"
+
+#: assets/languages/wp-mail-smtp-vue.php:674
+msgid "Enter your WP Mail SMTP License Key"
+msgstr "WP Mail SMTP ライセンスキーのを入力"
+
+#: assets/languages/wp-mail-smtp-vue.php:671
+msgid "I'll do it later"
+msgstr "後で行います"
+
+#: assets/languages/wp-mail-smtp-vue.php:662
+msgid "Would you like to purchase the following features now?"
+msgstr "以下の機能を今すぐ購入しますか ?"
+
+#: assets/languages/wp-mail-smtp-vue.php:216
+msgid "Rate on WordPress.org"
+msgstr "WordPress.org で評価"
+
+#: assets/languages/wp-mail-smtp-vue.php:209
+msgid "Thanks for the feedback!"
+msgstr "フィードバックありがとうございます !"
+
+#: assets/languages/wp-mail-smtp-vue.php:206
+msgid "Star icon"
+msgstr "星アイコン"
+
+#: assets/languages/wp-mail-smtp-vue.php:196
+msgid "Upgrade to Pro Today"
+msgstr "今すぐ Pro 版にアップグレード"
+
+#: assets/languages/wp-mail-smtp-vue.php:284
+msgid "Enable Auto TLS"
+msgstr "自動 TLS を有効化"
+
+#: assets/languages/wp-mail-smtp-vue.php:602
+msgid "Yes, count me in"
+msgstr "はい、私もやりたいです !"
+
+#. Translators: Minimum and maximum number that can be used.
+#: assets/languages/wp-mail-smtp-vue.php:507
+msgid "Please enter a value between %1$s and %2$s"
+msgstr "%1$s～%2$sの間の値を入力してください"
+
+#: assets/languages/wp-mail-smtp-vue.php:172
+msgid "Congrats, you’ve successfully set up WP Mail SMTP!"
+msgstr "おめでとうございます。WP Mail SMTP の設定に成功しました !"
+
+#: assets/languages/wp-mail-smtp-vue.php:178
+msgid "Check out our other free WordPress plugins:"
+msgstr "他の無料の WordPress プラグインをチェックしてください:"
+
+#: assets/languages/wp-mail-smtp-vue.php:740
+msgid "Can't register the Amazon SES Identity"
+msgstr "Amazon SES Identity の登録ができません"
+
+#: assets/languages/wp-mail-smtp-vue.php:175
+msgid "Here’s what to do next:"
+msgstr "次に行うことは次のとおりです:"
+
+#: assets/languages/wp-mail-smtp-vue.php:608
+msgid "The following plugin will be installed for free: WPForms"
+msgstr "次のプラグインが無料でインストールされます: WPForms"
+
+#: assets/languages/wp-mail-smtp-vue.php:701
+msgid "The License Key format is incorrect. Please enter a valid key and try again."
+msgstr "ライセンスキーの書式が正しくありません。有効なキーを入力して再度試してください。"
+
+#: assets/languages/wp-mail-smtp-vue.php:510
+msgid "Value has to be a round number"
+msgstr "値は整数でなければなりません"
+
+#: assets/languages/wp-mail-smtp-vue.php:737
+msgid "Can't retrieve Amazon SES Identities."
+msgstr "Amazon SES Identity を受信できません"
+
+#: assets/languages/wp-mail-smtp-vue.php:734
+msgid "It looks like we can't retrieve Amazon SES Identities."
+msgstr "このシステム上で Amazon SES Identity を受けとれないようです。"
+
+#: assets/languages/wp-mail-smtp-vue.php:731
+msgid "It looks like we can't load the settings."
+msgstr "設定をロードできないようです。"
+
+#: assets/languages/wp-mail-smtp-vue.php:728
+msgid "It looks like we can't load authentication details."
+msgstr "認証の詳細をロードできないようです。"
+
+#: assets/languages/wp-mail-smtp-vue.php:725
+msgid "Network error encountered. SMTP plugin import failed!"
+msgstr "ネットワークエラーが発生しました。SMTP プラグインのインポートに失敗しました !"
+
+#: assets/languages/wp-mail-smtp-vue.php:722
+msgid "It looks like we can't import the plugin settings."
+msgstr "プラグインの設定のインポートができないようです。"
+
+#: assets/languages/wp-mail-smtp-vue.php:719
+msgid "Network error encountered. Settings not saved."
+msgstr "ネットワークエラーが発生しました。設定は保存されていません。"
+
+#: assets/languages/wp-mail-smtp-vue.php:526
+msgid "Verify Email"
+msgstr "メールアドレスを認証"
+
+#: assets/languages/wp-mail-smtp-vue.php:553
+msgid "Value"
+msgstr "値"
+
+#: assets/languages/wp-mail-smtp-vue.php:538
+msgid "Resend"
+msgstr "再送信"
+
+#: assets/languages/wp-mail-smtp-vue.php:569
+msgid "Please enter a valid email address"
+msgstr "有効なメールアドレスを入力してください"
+
+#: assets/languages/wp-mail-smtp-vue.php:550
+msgid "Name"
+msgstr "名前"
+
+#: assets/languages/wp-mail-smtp-vue.php:427
+msgid "Copied!"
+msgstr "コピーしました。"
+
+#: assets/languages/wp-mail-smtp-vue.php:384
+msgid "Application ID"
+msgstr "申請 ID"
+
+#: assets/languages/wp-mail-smtp-vue.php:62
+msgid "Let's Get Started"
+msgstr "始めましょう"
+
+#: assets/languages/wp-mail-smtp-vue.php:56
+msgid "Welcome to the WP Mail SMTP Setup Wizard!"
+msgstr "WP Mail SMTP セットアップウィザードへようこそ !"
+
+#: assets/languages/wp-mail-smtp-vue.php:566
+msgid "Please enter a domain"
+msgstr "ドメインを入力してください"
+
+#: assets/languages/wp-mail-smtp-vue.php:535
+msgid "View DNS"
+msgstr "DNS を表示"
+
+#: assets/languages/wp-mail-smtp-vue.php:563
+msgid "Verify Email Address"
+msgstr "メールアドレスを認証"
+
+#: assets/languages/wp-mail-smtp-vue.php:560
+msgid "Verify Domain"
+msgstr "ドメインを認証"
+
+#. Translators: name of the oAuth provider (Google, Microsoft, ...).
+#: assets/languages/wp-mail-smtp-vue.php:486
+msgid "Connect to %s"
+msgstr "%s と連携"
+
+#: assets/languages/wp-mail-smtp-vue.php:323
+msgid "Access Key ID"
+msgstr "アクセスキー ID"
+
+#: assets/languages/wp-mail-smtp-vue.php:378
+msgid "Save and Continue"
+msgstr "保存して続行"
+
+#: assets/languages/wp-mail-smtp-vue.php:371
+msgid "Choose Your SMTP Mailer"
+msgstr "SMTP メーラーを選択"
+
+#: assets/languages/wp-mail-smtp-vue.php:368
+msgid "is a PRO Feature"
+msgstr "PRO バージョンの機能です"
+
+#: assets/languages/wp-mail-smtp-vue.php:365
+msgid "Choose a Different Mailer"
+msgstr "別のメーラーを選択"
+
+#: src/Admin/Pages/SettingsTab.php:104
+msgid "Setup Wizard"
+msgstr "設定ウィザード"
+
+#: src/Admin/SetupWizard.php:477
+msgid "Contact Us"
+msgstr "お問い合わせ"
+
+#: assets/languages/wp-mail-smtp-vue.php:698
+#: src/Admin/Pages/SettingsTab.php:423
+msgid "Connect"
+msgstr "連携"
+
+#: src/Admin/Pages/SettingsTab.php:421
+msgid "Paste license key here"
+msgstr "ここにライセンスキーを貼り付けます"
+
+#: src/Admin/SetupWizard.php:253
+msgid "WP Mail SMTP &rsaquo; Setup Wizard"
+msgstr "WP Mail SMTP &rsaquo; 設定ウィザード"
+
+#. translators: %s - item state name.
+#: src/Admin/DomainChecker.php:183
+msgid "%s icon"
+msgstr "%s アイコン"
+
+#: src/Admin/DomainChecker.php:171
+msgid "Domain Check Results"
+msgstr "ドメインチェック結果"
+
+#: src/Admin/Pages/TestTab.php:610
+msgid "Save the plugin settings."
+msgstr "プラグイン設定を保存する。"
+
+#: src/Admin/Pages/TestTab.php:605
+msgid "It looks like your SendGrid API Key is invalid."
+msgstr "SendGrid API キーが無効のようです。"
+
+#: src/Admin/Pages/TestTab.php:603
+msgid "Invalid SendGrid API key"
+msgstr "無効な SendGrid API キー"
+
+#: assets/languages/wp-mail-smtp-vue.php:393 src/Admin/SetupWizard.php:449
+msgid "WP Mail SMTP logo"
+msgstr "WP Mail SMTP ロゴ"
+
+#: assets/languages/wp-mail-smtp-vue.php:65 src/Admin/SetupWizard.php:270
+msgid "Go back to the Dashboard"
+msgstr "ダッシュボードに戻る"
+
+#: src/Admin/SetupWizard.php:922
+msgid "All in One SEO"
+msgstr "All In One SEO"
+
+#: src/Connect.php:56
+msgid "Oops!"
+msgstr "エラーが発生しました。"
+
+#: assets/languages/wp-mail-smtp-vue.php:29 src/Connect.php:57
+msgid "OK"
+msgstr "OK"
+
+#: src/Connect.php:55
+msgid "Almost Done"
+msgstr "ほぼ完了しました"
+
+#: src/Providers/OptionsAbstract.php:359
+msgid "The password is encrypted in the database, but for improved security we recommend using your site's WordPress configuration file to set your password."
+msgstr "パスワードはデータベースで暗号化されていますが、セキュリティを向上させるためには、サイトの WordPress 設定ファイルを使ってパスワードを設定することをお勧めします。"
+
+#: src/Admin/Area.php:321
+msgid "Multisite"
+msgstr "マルチサイト"
+
+#: assets/languages/wp-mail-smtp-vue.php:743 src/Core.php:1005
+msgid "Loading"
+msgstr "読み込み中"
+
+#: src/Admin/Pages/VersusTab.php:249
+msgid "Optionally configure settings at the network level or manage separately for each subsite"
+msgstr "オプションでネットワークレベルでの設定やサブサイトごとの個別管理が可能"
+
+#: src/Admin/Pages/VersusTab.php:235
+msgid "Additional Mailer Options"
+msgstr "追加のメーラー設定"
+
+#: src/Admin/Pages/VersusTab.php:178
+msgid "Mailer Options"
+msgstr "メーラー設定"
+
+#: src/Admin/Pages/VersusTab.php:179
+msgid "WordPress Multisite"
+msgstr "WordPress マルチサイト"
+
+#: src/Providers/Zoho/Options.php:25
+msgid "Zoho Mail"
+msgstr "Zoho Mail"
+
+#: src/SiteHealth.php:175
+msgid "None selected"
+msgstr "何も選択されていません"
+
+#. translators: %s - WPMailSMTP.com Upgrade page URL.
+#: src/Admin/Education.php:69
+msgid "You’re using WP Mail SMTP Lite. To unlock more features consider <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">upgrading to Pro</a>."
+msgstr "WP Mail SMTP Lite を使用しています。さらに多くの機能のロックを解除するには、<a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Pro へのアップグレード</a>を検討してください。"
+
+#: src/Admin/Pages/MiscTab.php:213
+msgid "Allow Usage Tracking"
+msgstr "使用状況の追跡を許可"
+
+#: assets/languages/wp-mail-smtp-vue.php:605 src/Admin/Pages/MiscTab.php:221
+msgid "By allowing us to track usage data we can better help you because we know with which WordPress configurations, themes and plugins we should test."
+msgstr "使用データを追跡できるようにすることで、どの WordPress の設定、テーマ、プラグインをテストすべきかを知ることができるので、より適切にサポートできます。"
+
+#: src/Admin/Education.php:80
+msgid "Dismiss this message."
+msgstr "このメッセージを非表示にする。"
+
+#: src/Admin/Notifications.php:449
+msgid "Dismiss this message"
+msgstr "このメッセージを非表示にする"
+
+#: src/Admin/Notifications.php:458
+msgid "Next message"
+msgstr "次のメッセージ"
+
+#: src/Admin/Notifications.php:454
+msgid "Previous message"
+msgstr "前のメッセージ"
+
+#: src/Admin/Pages/AboutTab.php:159
+msgid "Plugin icon"
+msgstr "プラグインアイコン"
+
+#: src/Providers/PepipostAPI/Mailer.php:342
+msgid "Error"
+msgstr "エラー"
+
+#: src/SiteHealth.php:145
+msgid "DB tables"
+msgstr "DB テーブル"
+
+#: src/SiteHealth.php:147
+msgid "No DB tables found."
+msgstr "DB テーブルが見つかりません。"
+
+#: src/Providers/PepipostAPI/Mailer.php:341
+msgid "General error"
+msgstr "一般的エラー"
+
+#: src/Admin/Area.php:432
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: assets/languages/wp-mail-smtp-vue.php:32 src/Admin/Area.php:426
+msgid "Heads up!"
+msgstr "注意 !"
+
+#: src/Admin/Review.php:145
+msgid "I already did"
+msgstr "すでにしました"
+
+#: src/Admin/Area.php:433
+msgid "Warning icon"
+msgstr "警告アイコン"
+
+#: src/Admin/Review.php:133
+msgid "No thanks"
+msgstr "結構です"
+
+#: src/Admin/Review.php:122
+msgid "Yes"
+msgstr "はい"
+
+#. translators: %s - The URL to the constants support article.
+#: src/Admin/Pages/MiscTab.php:90
+msgid "Please read this <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">support article</a> if you want to enable this option using constants."
+msgstr "定数を使用してこのオプションを有効にしたい場合は、この<a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">サポート記事</a>をお読みください。"
+
+#: src/Admin/Pages/TestTab.php:1036
+msgid "SMTP.com API Error."
+msgstr "SMTP.com API エラー."
+
+#: src/Admin/Review.php:130
+msgid "Give Feedback"
+msgstr "フィードバックする"
+
+#: src/Providers/OptionsAbstract.php:362
+msgid "Learn More"
+msgstr "さらに詳しく"
+
+#: src/Providers/PepipostAPI/Options.php:53
+msgid "Get Started with Pepipost"
+msgstr "Pepipost を始めよう"
+
+#: assets/languages/wp-mail-smtp-vue.php:113
+#: src/Providers/SMTPcom/Options.php:122
+msgid "Sender Name"
+msgstr "送信者名"
+
+#: src/Providers/SMTPcom/Options.php:140
+msgid "Get Sender Name"
+msgstr "送信者名を取得"
+
+#: src/Providers/SMTPcom/Options.php:111
+msgid "Get API Key"
+msgstr "API キーを取得"
+
+#: src/Providers/SMTPcom/Options.php:68
+msgid "SMTP.com"
+msgstr "SMTP.com"
+
+#: src/Admin/Area.php:1093
+msgid "Premium Support"
+msgstr "プレミアムサポート"
+
+#: src/Admin/Pages/SettingsTab.php:300
+msgid "Don't see what you're looking for?"
+msgstr "お探しのものが見つかりませんか？"
+
+#: src/Providers/SMTPcom/Mailer.php:463
+msgid "Channel:"
+msgstr "チャンネル:"
+
+#: src/Providers/SMTPcom/Mailer.php:461
+msgid "Api Key:"
+msgstr "Api キー:"
+
+#: src/Admin/Area.php:1085
+msgid "Go to WP Mail SMTP Settings page"
+msgstr "WP Mail SMTP 設定ページに移動"
+
+#: src/SiteHealth.php:141
+msgid "Debug"
+msgstr "デバッグ"
+
+#: src/SiteHealth.php:197
+msgid "Current mailer"
+msgstr "現在のメーラー"
+
+#: src/SiteHealth.php:142
+msgid "No debug notices found."
+msgstr "デバッグ通知が見つかりませんでした。"
+
+#: src/SiteHealth.php:137
+msgid "License key type"
+msgstr "ライセンスキーの種類"
+
+#: src/SiteHealth.php:97
+msgid "Is WP Mail SMTP mailer setup complete?"
+msgstr "WP Mail SMTP メーラーのセットアップは完了していますか ?"
+
+#: src/Admin/Pages/AboutTab.php:332
+msgid "RafflePress Pro"
+msgstr "RafflePress Pro"
+
+#: src/SiteHealth.php:216
+msgid "Test email sending"
+msgstr "テストメールを送信中"
+
+#: src/SiteHealth.php:202
+msgid "WP Mail SMTP mailer setup is complete"
+msgstr "WP Mail SMTP メーラーの設定が完了しました"
+
+#: src/Admin/Pages/AboutTab.php:326
+msgid "RafflePress"
+msgstr "RafflePress"
+
+#: src/Admin/Pages/SettingsTab.php:302
+msgid "Suggest a Mailer"
+msgstr "メーラーを提案する"
+
+#: src/Providers/PepipostAPI/Options.php:115
+msgid "Get the API Key"
+msgstr "API キーを取得"
+
+#: src/Admin/Area.php:545
+msgid "Download"
+msgstr "ダウンロード"
+
+#: src/Providers/AmazonSES/Options.php:25
+msgid "Amazon SES"
+msgstr "Amazon SES"
+
+#: src/Providers/Outlook/Options.php:25
+msgid "Outlook"
+msgstr "Outlook"
+
+#: src/Admin/Area.php:439 src/Admin/SetupWizard.php:218
+msgid "Upgrade to Pro"
+msgstr "プロ版にアップグレード"
+
+#: src/Admin/Area.php:455 src/Admin/SetupWizard.php:234
+msgid "Already purchased?"
+msgstr "購入済みですか ?"
+
+#: src/Admin/Area.php:438
+msgid "%name% is a PRO Feature"
+msgstr "%name% は PRO 版の機能です"
+
+#: src/Admin/Pages/MiscTab.php:146
+msgid "Check this if you would like to hide warnings alerting of email delivery errors."
+msgstr "メール配信エラーの警告を非表示にしたい場合はチェックしてください。"
+
+#: src/Admin/Pages/MiscTab.php:130
+msgid "Hide Email Delivery Errors"
+msgstr "メール配信エラーの非表示"
+
+#: src/Admin/Pages/MiscTab.php:162
+msgid "<strong>This is not recommended</strong> and should only be done for staging or development sites."
+msgstr "<strong>これは推奨されません</strong> ステージングサイトまたは開発サイトでのみおこなうべきです。"
+
+#: src/Admin/Pages/ControlTab.php:92
+msgid "Unlock Email Controls"
+msgstr "メールコントロールのロックを解除"
+
+#: src/Admin/Pages/ControlTab.php:95
+msgid "Email Controls allows you to granularly manage emails sent by WordPress. "
+msgstr "メールコントロールでは、WordPress で送信されたメールを細かく管理することができます。"
+
+#: src/Admin/Pages/ControlTab.php:48
+msgid "Comment Notifications"
+msgstr "コメント通知"
+
+#: src/Admin/Pages/ControlTab.php:49
+msgid "Manage emails sent when comments are published or awaiting moderation."
+msgstr "コメントが公開されたとき、またはモデレートを待っているときに送信される電子メールを管理します。"
+
+#: src/Admin/Pages/ControlTab.php:54
+msgid "Manage emails sent when site admin's account has been changed."
+msgstr "サイト管理者のアカウントが変更された際に送信されるメールを管理します。"
+
+#: src/Admin/Pages/ControlTab.php:53
+msgid "Site Admin Email Change Notifications"
+msgstr "サイト管理者変更メール通知"
+
+#: src/Admin/Pages/ControlTab.php:58
+msgid "User Change Notifications"
+msgstr "ユーザー変更通知"
+
+#: src/Admin/Pages/ControlTab.php:59
+msgid "Limit emails triggered by password changed/reset, email changed, and more."
+msgstr "パスワードの変更/リセット、メールの変更などによってトリガーされるメールを制限します。"
+
+#: src/Admin/Pages/ControlTab.php:63
+msgid "Personal Data Requests Notifications"
+msgstr "個人データ要求通知"
+
+#: src/Admin/Pages/ControlTab.php:64
+msgid "Control emails for data requests and data removal actions."
+msgstr "データ要求とデータ削除アクションのためのメールを制御します。"
+
+#: src/Admin/Pages/ControlTab.php:68
+msgid "Automatic Update Notifications"
+msgstr "自動更新通知"
+
+#: src/Admin/Pages/ControlTab.php:69
+msgid "Manage emails sent by the core automatic update process."
+msgstr "コアの自動更新処理で送信されるメールを管理します。"
+
+#: src/Admin/Pages/ControlTab.php:73
+msgid "New User Notifications"
+msgstr "新規ユーザー通知"
+
+#: src/Admin/Pages/ControlTab.php:74
+msgid "Toggle emails sent to both user and site administrator about new user accounts."
+msgstr "新規ユーザーアカウントに関するメールをユーザーとサイト管理者の両方に送信するかどうかを切り替えます。"
+
+#: src/Providers/Sendinblue/Options.php:62
+msgid "Sendinblue"
+msgstr "Sendinblue"
+
+#: src/Admin/Pages/LogsTab.php:53
+msgid "Unlock Email Logging"
+msgstr "メールロギングのロック解除"
+
+#: src/Admin/Pages/LogsTab.php:56
+msgid "Keep track of every email sent from your WordPress site with email logging. "
+msgstr "メールロギングでは、WordPress サイトから送信されたすべてのメールを追跡します。"
+
+#: src/Admin/Pages/LogsTab.php:57
+msgid "Troubleshoot sending issues, recover lost emails, and more!"
+msgstr "送信問題のトラブルシューティング、紛失したメールの復旧など！"
+
+#: src/Providers/Sendinblue/Options.php:117
+msgid "Get v3 API Key"
+msgstr "v3 の API キーを取得"
+
+#. Plugin URI of the plugin
+msgid "https://wpmailsmtp.com/"
+msgstr "https://wpmailsmtp.com/"
+
+#: src/Admin/Area.php:537 src/Admin/Area.php:544
+#: src/Admin/Pages/AboutTab.php:231 src/Connect.php:54
+msgid "Activate"
+msgstr "有効化"
+
+#: src/Admin/Area.php:543
+msgid "Install and Activate"
+msgstr "インストールして有効化"
+
+#: src/Admin/Pages/SettingsTab.php:75
+msgid "License"
+msgstr "ライセンス"
+
+#: src/Admin/Pages/SettingsTab.php:86
+msgid "License Key"
+msgstr "ライセンスキー"
+
+#: src/Admin/Area.php:541
+msgid "Processing..."
+msgstr "処理中…"
+
+#: src/Admin/Pages/SettingsTab.php:78
+msgid "Your license key provides access to updates and support."
+msgstr "ライセンスキーを使用すると、アップデートやサポートへのアクセスが可能になります。"
+
+#: src/Admin/Pages/SettingsTab.php:377
+msgid "You're using WP Mail SMTP Lite - no license needed. Enjoy!"
+msgstr "WP Mail SMTP Lite を使用しています - ライセンスは必要ありません。楽しんでください。"
+
+#. translators: %s - WPMailSMTP.com upgrade URL.
+#: src/Admin/Pages/SettingsTab.php:383
+msgid "To unlock more features consider <strong><a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"wp-mail-smtp-upgrade-modal\">upgrading to PRO</a></strong>."
+msgstr "より多くの機能を解除するには、<strong><a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"wp-mail-smtp-upgrade-modal\">PRO へのアップグレード</a></strong>を検討してください。"
+
+#: src/Admin/Pages/SettingsTab.php:505
+msgid "Install WP Mail SMTP Pro plugin"
+msgstr "WP Mail SMTP Pro プラグインをインストール"
+
+#: src/Admin/Pages/SettingsTab.php:501
+msgid "Access to our world class support team"
+msgstr "世界クラスのサポートチームにアクセス"
+
+#: src/Admin/Pages/SettingsTab.php:490
+msgid "Pro Features:"
+msgstr "Pro 版の機能"
+
+#: src/Admin/Pages/SettingsTab.php:508
+msgid "Set up WP Mail SMTP Pro plugin"
+msgstr "WP Mail SMTP Pro プラグインを設定"
+
+#. Translators: %s - discount value $50
+#: src/Admin/Pages/SettingsTab.php:403
+msgid "As a valued WP Mail SMTP Lite user you receive <strong>%s off</strong>, automatically applied at checkout!"
+msgstr "WP Mail SMTP Lite をご利用の方は、チェックアウト時に自動的に適用される<strong>%s 割引</strong>を受けられます！"
+
+#: src/Admin/Pages/TestTab.php:91
+msgid "Enter email address where test email will be sent."
+msgstr "テストメールを送信するメールアドレスを入力してください。"
+
+#: src/Admin/Pages/VersusTab.php:180
+msgid "Customer Support"
+msgstr "カスタマーサポート"
+
+#: src/Admin/Pages/VersusTab.php:89
+msgid "Feature"
+msgstr "おすすめ"
+
+#: src/Admin/Pages/AboutTab.php:434
+msgid "Plugin activated."
+msgstr "プラグインを有効化しました。"
+
+#: src/Admin/Pages/VersusTab.php:263
+msgid "Priority Support"
+msgstr "優先サポート"
+
+#. translators: %s - status HTML text.
+#: src/Admin/Pages/AboutTab.php:173
+msgid "Status: %s"
+msgstr "ステータス: %s"
+
+#: src/Admin/Pages/ControlTab.php:27 src/Admin/Pages/VersusTab.php:177
+msgid "Email Controls"
+msgstr "メールコントロール"
+
+#: src/Admin/Pages/VersusTab.php:99
+msgid "Pro"
+msgstr "プロ版"
+
+#: src/Admin/Pages/AboutTab.php:263
+msgid "OptinMonster"
+msgstr "OptinMonster"
+
+#: src/Admin/SetupWizard.php:910
+msgid "Contact Forms by WPForms"
+msgstr "Contact Forms by WPForms"
+
+#: src/Admin/Area.php:540 src/Admin/Pages/AboutTab.php:228
+msgid "Inactive"
+msgstr "停止中"
+
+#: src/Admin/Pages/AboutTab.php:110
+msgid "The WPForms Team"
+msgstr "The WPForms Team"
+
+#: src/Admin/Pages/AboutTab.php:108
+msgid "The WPForms Team photo"
+msgstr "The WPForms Team の写真"
+
+#: src/Admin/Pages/AboutTab.php:284
+msgid "MonsterInsights"
+msgstr "MonsterInsights"
+
+#: src/Admin/Pages/AboutTab.php:290
+msgid "MonsterInsights Pro"
+msgstr "MonsterInsights Pro"
+
+#: src/Admin/Pages/AboutTab.php:520
+msgid "Plugin installed."
+msgstr "プラグインをインストールしました。"
+
+#: src/Admin/Pages/AboutTab.php:512 src/Connect.php:214 src/Connect.php:222
+#: src/Connect.php:291
+msgid "Plugin installed & activated."
+msgstr "プラグインをインストールして有効化しました。"
+
+#: src/Admin/Pages/AboutTab.php:451
+msgid "Could not install the plugin."
+msgstr "プラグインをインストールできませんでした。"
+
+#: src/Admin/Pages/AboutTab.php:276
+msgid "WPForms Pro"
+msgstr "WPForms Pro"
+
+#: src/Admin/Pages/AboutTab.php:422
+msgid "Could not activate the plugin. Please activate it from the Plugins page."
+msgstr "プラグインを有効化できませんでした。プラグインページから有効化してください。"
+
+#: src/Admin/Pages/VersusTab.php:257
+msgid "Limited Support"
+msgstr "限定サポート"
+
+#: src/Admin/Pages/AboutTab.php:77
+msgid "Our goal is to make reliable email deliverability easy for WordPress."
+msgstr "私達の目標は、WordPress で信頼できるメール配信を簡単にすることです。"
+
+#: src/Admin/Area.php:252 src/Admin/Area.php:253 src/Admin/Pages/Logs.php:48
+#: src/Admin/Pages/LogsTab.php:30 src/Admin/Pages/VersusTab.php:176
+msgid "Email Log"
+msgstr "メールログ"
+
+#: src/Admin/Pages/About.php:50 src/Admin/Pages/AboutTab.php:43
+msgid "About Us"
+msgstr "私たちについて"
+
+#. translators: %s - email address, as received from Google API.
+#: src/Providers/Gmail/Options.php:191
+msgid "Connected as %s"
+msgstr "%s として接続"
+
+#. translators: %s - plugin current license type.
+#: src/Admin/Pages/VersusTab.php:72
+msgid "%s vs Pro"
+msgstr "%s 対 Pro 版"
+
+#: src/Admin/Area.php:351 src/Admin/DashboardWidget.php:256
+#: src/Admin/Pages/ControlTab.php:119 src/Admin/Pages/ExportTab.php:138
+#: src/Admin/Pages/LogsTab.php:68
+msgid "Upgrade to WP Mail SMTP Pro"
+msgstr "WP Mail SMTP Pro にアップグレート"
+
+#. translators: %s - URL to SMTP documentation.
+#: src/Providers/SMTP/Options.php:29
+msgid "Use the SMTP details provided by your hosting provider or email service.<br><br>To see recommended settings for the popular services, as well as troubleshooting tips, check out our <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">SMTP documentation</a>."
+msgstr "ホスティング事業者または電子メールサービスが提供する SMTP の仕様を確認してください。<br><br>人気のあるサービスの推奨設定やトラブルシューティングのヒントについては、<a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">SMTP ドキュメンテーション</a>を参照してください。"
+
+#: src/Admin/Pages/TestTab.php:585 src/Admin/Pages/TestTab.php:627
+#: src/Admin/Pages/TestTab.php:729
+msgid "This means your web server was unable to connect to the host server."
+msgstr "これは、Web サーバーがホストサーバーに接続できなかったことを意味します。"
+
+#: assets/languages/wp-mail-smtp-vue.php:110
+#: src/Providers/PepipostAPI/Options.php:94
+#: src/Providers/Sendgrid/Options.php:63
+#: src/Providers/Sendinblue/Options.php:96 src/Providers/SMTPcom/Options.php:91
+msgid "API Key"
+msgstr "API キー"
+
+#: src/Admin/Area.php:307 src/Admin/Area.php:313
+#: src/Admin/Pages/SettingsTab.php:39
+msgid "General"
+msgstr "一般"
+
+#: assets/languages/wp-mail-smtp-vue.php:305
+#: src/Providers/OptionsAbstract.php:222
+msgid "None"
+msgstr "なし"
+
+#: src/Admin/Pages/SettingsTab.php:96
+msgid "Mail"
+msgstr "メール"
+
+#: src/Admin/Pages/TestTab.php:106 src/Providers/OptionsAbstract.php:277
+#: src/Providers/OptionsAbstract.php:299
+msgid "Off"
+msgstr "オフ"
+
+#: src/Admin/Pages/MiscTab.php:25
+msgid "Misc"
+msgstr "その他"
+
+#: src/Admin/Area.php:539 src/Admin/Pages/AboutTab.php:220
+msgid "Active"
+msgstr "有効"
+
+#: src/Admin/Pages/AboutTab.php:239
+msgid "Not Installed"
+msgstr "未インストール"
+
+#: src/Admin/Pages/SettingsTab.php:330
+msgid "Dismiss this notice"
+msgstr "この通知を非表示"
+
+#: src/SiteHealth.php:133
+msgid "Version"
+msgstr "バージョン"
+
+#: assets/languages/wp-mail-smtp-vue.php:308
+#: src/Providers/OptionsAbstract.php:231
+msgid "SSL"
+msgstr "SSL"
+
+#: assets/languages/wp-mail-smtp-vue.php:311
+#: src/Providers/OptionsAbstract.php:240
+msgid "TLS"
+msgstr "TLS"
+
+#: assets/languages/wp-mail-smtp-vue.php:299
+#: src/Providers/OptionsAbstract.php:321
+msgid "SMTP Password"
+msgstr "SMTP パスワード"
+
+#: assets/languages/wp-mail-smtp-vue.php:296
+#: src/Providers/OptionsAbstract.php:307
+msgid "SMTP Username"
+msgstr "SMTP ユーザー名"
+
+#: assets/languages/wp-mail-smtp-vue.php:417
+#: src/Providers/Mailgun/Options.php:131
+msgid "EU"
+msgstr "EU"
+
+#: assets/languages/wp-mail-smtp-vue.php:414
+#: src/Providers/Mailgun/Options.php:122
+msgid "US"
+msgstr "US"
+
+#: src/Admin/Pages/TestTab.php:105 src/Providers/OptionsAbstract.php:276
+#: src/Providers/OptionsAbstract.php:298
+msgid "On"
+msgstr "オン"
+
+#: src/Admin/Pages/TestTab.php:99
+msgid "HTML"
+msgstr "HTML"
+
+#: src/Admin/Pages/TestTab.php:85
+msgid "Send To"
+msgstr "送信先"
+
+#: src/Admin/Pages/TestTab.php:56
+msgid "Email Test"
+msgstr "メールテスト"
+
+#: src/Admin/Pages/MiscTab.php:195
+msgid "Uninstall WP Mail SMTP"
+msgstr "WP Mail SMTP をアンインストール"
+
+#: src/Admin/Pages/MiscTab.php:120
+msgid "Check this if you would like to hide plugin announcements and update details."
+msgstr "プラグインのアナウンスやアップデートの詳細を非表示にしたい場合にチェックしてください。"
+
+#: src/Admin/Pages/TestTab.php:133
+msgid "Send Email"
+msgstr "メールを送信"
+
+#: src/Providers/Mailgun/Options.php:25
+msgid "Mailgun"
+msgstr "Mailgun"
+
+#: src/Providers/Sendgrid/Options.php:26
+msgid "SendGrid"
+msgstr "SendGrid"
+
+#: src/Providers/SMTP/Options.php:25
+msgid "Other SMTP"
+msgstr "その他のSMTP"
+
+#: src/Admin/Pages/TestTab.php:760
+msgid "no"
+msgstr "いいえ"
+
+#: src/Admin/Pages/TestTab.php:1209
+msgid "Need support?"
+msgstr "サポートが必要ですか ?"
+
+#: assets/languages/wp-mail-smtp-vue.php:257 src/Providers/Gmail/Options.php:86
+msgid "Client ID"
+msgstr "クライアント ID"
+
+#: assets/languages/wp-mail-smtp-vue.php:260
+#: src/Providers/Gmail/Options.php:101
+msgid "Client Secret"
+msgstr "クライアントシークレット"
+
+#: assets/languages/wp-mail-smtp-vue.php:396
+#: src/Providers/Mailgun/Options.php:87
+msgid "Domain Name"
+msgstr "ドメイン名"
+
+#: assets/languages/wp-mail-smtp-vue.php:251
+#: src/Providers/Mailgun/Options.php:112
+msgid "Region"
+msgstr "地域"
+
+#. Author URI of the plugin
+msgid "https://wpforms.com/"
+msgstr "https://wpforms.com/"
+
+#: src/Admin/Pages/TestTab.php:644
+msgid "This means we were able to connect to your SMTP host, but were not able to proceed using the email/password in the settings."
+msgstr "これは、SMTP ホストに接続できましたが、設定のメール/パスワードを使用して続行できなかったことを意味します。"
+
+#: src/Admin/Pages/TestTab.php:645
+msgid "Typically this error is returned when the email or password is not correct or is not what the SMTP host is expecting."
+msgstr "通常、このエラーは、メールまたはパスワードが正しくない場合、または SMTP ホストが期待しているものと異なる場合に返されます。"
+
+#: src/Admin/Pages/TestTab.php:642
+msgid "Could not authenticate your SMTP account."
+msgstr "SMTP アカウントを認証できませんでした。"
+
+#: src/Admin/Pages/TestTab.php:631
+msgid "Contact your web hosting provider and inform them you are having issues making outbound connections."
+msgstr "ウェブホスティングプロバイダーに連絡して、アウトバウンド接続に問題があることを伝えてください。"
+
+#: src/Admin/Pages/TestTab.php:620
+msgid "Could not connect to your host."
+msgstr "ホストに接続できませんでした。"
+
+#: src/Admin/Pages/SettingsTab.php:155
+msgid "If you're using an email provider (Yahoo, Outlook.com, etc) this should be your email address for that account."
+msgstr "メールプロバイダ（Yahoo、Outlook.com など）を使用している場合は、そのアカウントのメールアドレスになります。"
+
+#: src/Admin/Pages/SettingsTab.php:158
+msgid "Please note that other plugins can change this, to prevent this use the setting below."
+msgstr "他のプラグインでも変更することができますので、これを防ぐために以下の設定を使用してください。"
+
+#: assets/languages/wp-mail-smtp-vue.php:133
+#: src/Admin/Pages/SettingsTab.php:172
+msgid "Force From Email"
+msgstr "このメールを強制使用"
+
+#: src/Admin/Pages/SettingsTab.php:181
+msgid "If checked, the From Email setting above will be used for all emails, ignoring values set by other plugins."
+msgstr "チェックを入れると、上記の「このメールを強制使用」設定は、他のプラグインで設定された値を無視して、すべてのメールに使用されます。"
+
+#: assets/languages/wp-mail-smtp-vue.php:127
+#: src/Admin/Pages/SettingsTab.php:217
+msgid "Force From Name"
+msgstr "この名前を強制使用"
+
+#: assets/languages/wp-mail-smtp-vue.php:142
+#: src/Admin/Pages/SettingsTab.php:203
+msgid "The name that emails are sent from."
+msgstr "メールの送信元の名前です。"
+
+#: src/Admin/Pages/SettingsTab.php:226
+msgid "If checked, the From Name setting above will be used for all emails, ignoring values set by other plugins."
+msgstr "チェックを入れると、上記の「この名前を強制使用」の設定は、他のプラグインで設定された値を無視して、すべてのメールに使用されます。"
+
+#: src/Admin/Pages/SettingsTab.php:249
+msgid "Return Path indicates where non-delivery receipts - or bounce messages - are to be sent."
+msgstr "Return-Path は、配信不能の受信（またはバウンスメッセージ）の送信先を示します。"
+
+#: assets/languages/wp-mail-smtp-vue.php:302
+#: src/Providers/OptionsAbstract.php:244
+msgid "For most servers TLS is the recommended option. If your SMTP provider offers both SSL and TLS options, we recommend using TLS."
+msgstr "ほとんどのサーバーでは TLS が推奨されています。SMTP プロバイダーが SSL と TLS の両方のオプションを提供している場合は、TLS の使用をお勧めします。"
+
+#: assets/languages/wp-mail-smtp-vue.php:281
+#: src/Providers/OptionsAbstract.php:266
+msgid "Auto TLS"
+msgstr "TLS 自動化"
+
+#: src/Providers/Mail/Options.php:37
+msgid "You currently have the native WordPress option selected. Please select any other Mailer option above to continue the setup."
+msgstr "現在 WordPress ネイティブオプションが選択されています。上記の他のメーラーオプションを選択して設定を続けてください。"
+
+#: assets/languages/wp-mail-smtp-vue.php:145
+#: src/Admin/Pages/SettingsTab.php:154
+msgid "The email address that emails are sent from."
+msgstr "メールの送信元となるメールアドレスです。"
+
+#: src/Admin/Pages/TestTab.php:109
+msgid "Send this email in HTML or in plain text format."
+msgstr "このメールを HTML またはプレーンテキスト形式で送信します。"
+
+#. translators: %1$s - WP.org link; %2$s - same WP.org link.
+#: src/Admin/Area.php:614
+msgid "Please rate <strong>WP Mail SMTP</strong> <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org</a> to help us spread the word. Thank you from the WP Mail SMTP team!"
+msgstr "<strong>WP Mail SMTP</strong> <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">WordPress.org</a> で <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> の評価をお願いします。WP Mail SMTP チームからの感謝の意を表します。"
+
+#: src/Admin/Pages/MiscTab.php:66
+msgid "Check this if you would like to stop sending all emails."
+msgstr "すべてのメールの送信を停止したい場合は、こちらにチェックを入れてください。"
+
+#: src/Admin/Pages/MiscTab.php:57
+msgid "Do Not Send"
+msgstr "送信しない"
+
+#: src/Admin/Pages/MiscTab.php:72
+msgid "Some plugins, like BuddyPress and Events Manager, are using their own email delivery solutions. By default, this option does not block their emails, as those plugins do not use default <code>wp_mail()</code> function to send emails."
+msgstr "BuddyPress や Event Manager のようないくつかのプラグインは、独自のメール配信ソリューションを使用しています。これらのプラグインは、メールを送信するためにデフォルトの <code>wp_mail()</code> 関数を使用していないので、デフォルトでは、このオプションは、それらのメールをブロックしません。"
+
+#: src/Admin/Pages/MiscTab.php:80
+msgid "You will need to consult with their documentation to switch them to use default WordPress email delivery."
+msgstr "WordPress のデフォルトのメール配信を使用するように切り替えるには、それらのドキュメントを参照する必要があります。"
+
+#: src/Admin/Pages/MiscTab.php:82
+msgid "Test emails are allowed to be sent, regardless of this option."
+msgstr "このオプションに関係なく、テストメールの送信は許可されています。"
+
+#: src/Admin/Pages/MiscTab.php:203
+msgid "Check this if you would like to remove ALL WP Mail SMTP data upon plugin deletion. All settings will be unrecoverable."
+msgstr "プラグイン削除時に全ての WP Mail SMTP データを削除したい場合にチェックしてください。すべての設定は復元できません。"
+
+#: src/Admin/Pages/MiscTab.php:111
+msgid "Hide Announcements"
+msgstr "お知らせを非表示"
+
+#: src/Providers/Mail/Options.php:25
+msgid "Default (none)"
+msgstr "デフォルト（無し）"
+
+#: assets/languages/wp-mail-smtp-vue.php:433
+msgid "Install"
+msgstr "インストール"
+
+#. Author of the plugin
+#: src/Admin/Pages/AboutTab.php:270
+msgid "WPForms"
+msgstr "WPForms"
+
+#: src/Admin/Area.php:431 src/Admin/PageAbstract.php:157
+msgid "Save Settings"
+msgstr "設定を保存"
+
+#: src/Admin/Pages/AboutTab.php:242
+msgid "Install Plugin"
+msgstr "プラグインをインストール"
+
+#: src/Providers/Gmail/Options.php:131
+msgid "Copy URL to clipboard"
+msgstr "URL をクリップボードにコピー"
+
+#: assets/languages/wp-mail-smtp-vue.php:439 src/Admin/Area.php:538
+#: src/Admin/Pages/AboutTab.php:223
+msgid "Activated"
+msgstr "有効化"
+
+#: src/Providers/Mailgun/Options.php:101
+msgid "Get a Domain Name"
+msgstr "ドメイン名を取得"
+
+#: src/Admin/Pages/MiscTab.php:272 src/Admin/Pages/SettingsTab.php:648
+msgid "Settings were successfully saved."
+msgstr "設定を保存しました。"
+
+#: src/Admin/Pages/TestTab.php:560
+msgid "SSL certificate issue."
+msgstr "SSL 証明書発行。"
+
+#: src/Admin/Pages/TestTab.php:608 src/Admin/Pages/TestTab.php:681
+msgid "Go to WP Mail SMTP plugin Settings page."
+msgstr "WP Mail SMTP プラグイン設定ページに移動する。"
+
+#: assets/languages/wp-mail-smtp-vue.php:293 src/Admin/Pages/TestTab.php:682
+msgid "Enable Authentication"
+msgstr "認証を有効化"
+
+#: src/Admin/Pages/TestTab.php:831 src/Admin/Pages/TestTab.php:880
+#: src/Admin/Pages/TestTab.php:900 src/Admin/Pages/TestTab.php:928
+#: src/Admin/Pages/TestTab.php:944 src/Admin/Pages/TestTab.php:996
+#: src/Admin/Pages/TestTab.php:1021
+msgid "Google API Error."
+msgstr "Google API エラー。"
+
+#: src/Providers/Sendgrid/Options.php:84
+msgid "Create API Key"
+msgstr "API キーを作成"
+
+#: assets/languages/wp-mail-smtp-vue.php:266
+#: src/Providers/Gmail/Options.php:145
+msgid "Authorization"
+msgstr "承認"
+
+#: src/Providers/Gmail/Options.php:123
+msgid "Authorized redirect URI"
+msgstr "許可されたリダイレクト URI"
+
+#: src/Providers/PepipostAPI/Options.php:61
+msgid "Pepipost"
+msgstr "Pepipost"
+
+#: assets/languages/wp-mail-smtp-vue.php:492
+#: src/Providers/Gmail/Options.php:182
+msgid "Remove Connection"
+msgstr "連携を削除"
+
+#: src/Admin/Pages/ExportTab.php:114
+msgid "Status"
+msgstr "ステータス"
+
+#: src/Admin/Pages/SettingsTab.php:250
+msgid "If unchecked, bounce messages may be lost."
+msgstr "チェックしない場合、バウンスしたメールは喪失するかもしれません。"
+
+#: src/Providers/Gmail/Options.php:176
+msgid "Click the button above to confirm authorization."
+msgstr "上のボタンをクリックして認証を確認してください。"
+
+#: src/Admin/Pages/TestTab.php:1184
+msgid "There was a problem while sending the test email."
+msgstr "テストメールの送信中に問題が発生しました。"
+
+#: assets/languages/wp-mail-smtp-vue.php:287
+#: src/Providers/OptionsAbstract.php:280
+msgid "By default, TLS encryption is automatically used if the server supports it (recommended). In some cases, due to server misconfigurations, this can cause issues and may need to be disabled."
+msgstr "デフォルトでは、サーバが TLS をサポートしていれば自動的に TLS 暗号化が使用されます (推奨) 。場合によっては、サーバの設定ミスにより問題が発生することがあり、これを無効にする必要があるかもしれません。"
+
+#: assets/languages/wp-mail-smtp-vue.php:359 src/Admin/Pages/ExportTab.php:118
+#: src/Admin/Pages/SettingsTab.php:258
+msgid "Mailer"
+msgstr "メーラー"
+
+#: src/Admin/Area.php:243 src/Admin/Area.php:244 src/Admin/Area.php:1086
+msgid "Settings"
+msgstr "設定"
+
+#: src/Admin/DashboardWidget.php:399
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: assets/languages/wp-mail-smtp-vue.php:275
+#: src/Providers/OptionsAbstract.php:212
+msgid "Encryption"
+msgstr "暗号化"
+
+#: assets/languages/wp-mail-smtp-vue.php:290
+#: src/Providers/OptionsAbstract.php:288
+msgid "Authentication"
+msgstr "認証"
+
+#: src/Admin/Pages/SettingsTab.php:236
+msgid "Return Path"
+msgstr "返信先"
+
+#: assets/languages/wp-mail-smtp-vue.php:272
+#: src/Providers/OptionsAbstract.php:198
+msgid "SMTP Host"
+msgstr "SMTP ホスト"
+
+#: assets/languages/wp-mail-smtp-vue.php:278
+#: src/Providers/OptionsAbstract.php:252
+msgid "SMTP Port"
+msgstr "SMTP ポート"
+
+#: src/Admin/Pages/SettingsTab.php:245
+msgid "Set the return-path to match the From Email"
+msgstr "送信元アドレスを返信先 (return-path) として設定"
+
+#: src/Providers/Gmail/Options.php:33
+msgid "Gmail"
+msgstr "Gmail"
+
+#. Plugin Name of the plugin
+#: src/Admin/Area.php:232 src/Admin/Area.php:233 src/Admin/Area.php:279
+#: src/Admin/Area.php:280 src/Admin/DashboardWidget.php:163
+#: src/Admin/DashboardWidget.php:391 src/SiteHealth.php:43
+msgid "WP Mail SMTP"
+msgstr "WP Mail SMTP"
+
+#: assets/languages/wp-mail-smtp-vue.php:130
+#: src/Admin/Pages/SettingsTab.php:121
+msgid "From Email"
+msgstr "送信元メールアドレス"
+
+#: assets/languages/wp-mail-smtp-vue.php:124 src/Admin/Pages/ExportTab.php:104
+#: src/Admin/Pages/SettingsTab.php:191
+msgid "From Name"
+msgstr "フォーム名"
+
+#: assets/languages/wp-mail-smtp-vue.php:199 src/Admin/Pages/TestTab.php:78
+#: src/SiteHealth.php:326
+msgid "Send a Test Email"
+msgstr "テストメールを送信"

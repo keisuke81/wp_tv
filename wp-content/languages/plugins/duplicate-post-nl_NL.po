@@ -1,0 +1,551 @@
+# Translation of Plugins - Yoast Duplicate Post - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Yoast Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-15 10:38:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Yoast Duplicate Post - Stable (latest release)\n"
+
+#: src/handlers/class-check-changes-handler.php:135
+msgid "Added"
+msgstr "Toegevoegd"
+
+#: src/handlers/class-check-changes-handler.php:134
+msgid "Removed"
+msgstr "Verwijderd"
+
+#: duplicate-post-admin.php:227
+msgid "Now also available in Elementor: the powerful Rewrite & Republish feature. Updating your content has never been easier!"
+msgstr "Nu ook beschikbaar in Elementor: de krachtige herschrijf & herpublicatie functie. Updaten van je inhoud is nog nooit zo eenvoudig geweest!"
+
+#: src/class-post-republisher.php:226
+msgid "An error occurred while deleting the Rewrite & Republish copy."
+msgstr "Er is een fout ontstaan bij het verwijderen van de herschrijf & herpublicatie kopie."
+
+#. Description of the plugin
+msgid "The go-to tool for cloning posts and pages, including the powerful Rewrite & Republish feature."
+msgstr "De go-to tool voor het klonen van berichten en pagina's, inclusief de krachtige functie Rewrite & Republish."
+
+#. translators: 1: The page title with a link to the frontend page, 2: The
+#. scheduled date and time.
+#: src/ui/class-classic-editor.php:271
+msgid "This rewritten page %1$s is now scheduled to replace the original page. It will be published on %2$s."
+msgstr "Deze herschreven pagina %1$s is nu gepland om de originele pagina te vervangen. Het wordt gepubliceerd op %2$s."
+
+#. translators: 1: The post title with a link to the frontend page, 2: The
+#. scheduled date and time.
+#: src/ui/class-classic-editor.php:258
+msgid "This rewritten post %1$s is now scheduled to replace the original post. It will be published on %2$s."
+msgstr "Dit herschreven bericht %1$s is nu gepland om het oorspronkelijke bericht te vervangen. Het wordt gepubliceerd op %2$s."
+
+#: src/ui/class-classic-editor.php:232 js/dist/duplicate-post-strings-412.js:1
+msgid "Schedule republish"
+msgstr "Plan opnieuw publiceren"
+
+#. translators: %s: Date on which the post is to be republished.
+#: src/ui/class-classic-editor.php:215
+msgid "Republish on: %s"
+msgstr "Opnieuw publiceren op: %s"
+
+#: src/ui/class-classic-editor.php:192
+msgid "Compare"
+msgstr "Vergelijken"
+
+#: src/ui/class-classic-editor.php:189
+msgid "Do you want to compare your changes with the original version before merging? Please save any changes first."
+msgstr "Wil je je wijzigingen vergelijken met de originele versie voordat je gaat samenvoegen? Sla eventuele wijzigingen eerst op."
+
+#. translators: %s: Original item link (to view or edit) or title.
+#: src/ui/class-post-states.php:66
+msgid "Rewrite & Republish of %s"
+msgstr "Herschrijven & Opnieuw publiceren van %s"
+
+#: src/ui/class-row-actions.php:150
+msgctxt "verb"
+msgid "Rewrite & Republish"
+msgstr "Herschrijven & Opnieuw publiceren"
+
+#. translators: %s: Post title.
+#: src/ui/class-row-actions.php:148
+msgid "Rewrite & Republish &#8220;%s&#8221;"
+msgstr "Herschrijven & Opnieuw publiceren &#8220;%s&#8221;"
+
+#: src/admin/views/options.php:192
+msgid "Show these links"
+msgstr "Laat deze links zien"
+
+#: src/admin/views/options.php:155
+msgid "Warning: users will be able to copy, rewrite and republish all posts, even those of other users."
+msgstr "Waarschuwing: gebruikers kunnen alle berichten kopiëren, herschrijven en opnieuw publiceren, zelfs die van andere gebruikers."
+
+#: src/admin/class-options.php:284 src/ui/class-admin-bar.php:110
+#: src/ui/class-admin-bar.php:129 src/ui/class-bulk-actions.php:80
+#: src/ui/class-classic-editor.php:164 js/dist/duplicate-post-edit-412.js:1
+msgid "Rewrite & Republish"
+msgstr "Herschrijf & Opnieuw publiceren"
+
+#: src/admin/class-options.php:239
+msgid "In a metabox in the Edit screen"
+msgstr "In een metabox in het bewerkingsscherm"
+
+#: src/admin/class-options.php:145
+msgid "Post format"
+msgstr "Bericht format"
+
+#: src/watchers/class-original-post-watcher.php:54
+msgid "The original post has been edited in the meantime. If you click \"Republish\", this rewritten post will replace the original post."
+msgstr "Het oorspronkelijke bericht is in de tussentijd bewerkt. Als je op \"Opnieuw publiceren\" klikt, vervangt dit herschreven bericht het oorspronkelijke bericht."
+
+#. translators: %s: Number of posts copied.
+#: src/watchers/class-bulk-actions-watcher.php:84
+msgid "%s post duplicated. You can now start rewriting your post in the duplicate of the original post. Once you choose to republish it your changes will be merged back into the original post."
+msgid_plural "%s posts duplicated. You can now start rewriting your posts in the duplicates of the original posts. Once you choose to republish them your changes will be merged back into the original post."
+msgstr[0] "%s bericht gedupliceerd. Je kunt nu beginnen met het herschrijven van je bericht in het duplicaat van het originele bericht. Zodra je ervoor kiest om het opnieuw te publiceren, worden je wijzigingen weer samengevoegd in het oorspronkelijke bericht."
+msgstr[1] "%s berichten gedupliceerd. Je kunt nu beginnen met het herschrijven van je berichten in de duplicaten van de originele berichten. Zodra je ervoor kiest om ze opnieuw te publiceren, worden je wijzigingen weer samengevoegd in het oorspronkelijke bericht."
+
+#: src/watchers/class-republished-post-watcher.php:69
+msgid "Your original post has been replaced with the rewritten post. You are now viewing the (rewritten) original post."
+msgstr "Je oorspronkelijke bericht is vervangen door het herschreven bericht. Je bekijkt nu het (herschreven) originele bericht."
+
+#. translators: %1$s: scheduled date of the copy, %2$s: scheduled time of the
+#. copy.
+#: src/watchers/class-copied-post-watcher.php:70
+msgid "A duplicate of this post was made, which is scheduled to replace this post on %1$s at %2$s."
+msgstr "Er is een duplicaat van dit bericht gemaakt, dat volgens de planning dit bericht op zal vervangen %1$s bij %2$s."
+
+#: src/watchers/class-copied-post-watcher.php:62
+msgid "A duplicate of this post was made. Please note that any changes you make to this post will be replaced when the duplicated version is republished."
+msgstr "Er is een duplicaat van dit bericht gemaakt. Houd er rekening mee dat alle wijzigingen die je in dit bericht aanbrengt, zullen worden vervangen wanneer de gedupliceerde versie opnieuw wordt gepubliceerd."
+
+#: src/watchers/class-copied-post-watcher.php:54
+msgid "You can only make one Rewrite & Republish duplicate at a time, and a duplicate of this post already exists in the trash. Permanently delete it if you want to make a new duplicate."
+msgstr "Je kunt er maar één duplicaat van Rewrite & Republish tegelijk maken, en een duplicaat van dit bericht bestaat al in de prullenbak. Verwijder het definitief als je een nieuw duplicaat wil maken."
+
+#: src/watchers/class-link-actions-watcher.php:118
+msgid "You can now start rewriting your post in this duplicate of the original post. If you click \"Republish\", this rewritten post will replace the original post."
+msgstr "Je kunt nu beginnen met het herschrijven van je bericht in dit duplicaat van het oorspronkelijke bericht. Als je op \"Opnieuw publiceren\" klikt, vervangt dit herschreven bericht het oorspronkelijke bericht."
+
+#: src/watchers/class-link-actions-watcher.php:102
+msgid "You can now start rewriting your post in this duplicate of the original post. If you click \"Republish\", your changes will be merged into the original post and you’ll be redirected there."
+msgstr "Je kunt nu beginnen met het herschrijven van je bericht in dit duplicaat van het oorspronkelijke bericht. Als je op \"Opnieuw publiceren\" klikt, worden je wijzigingen samengevoegd in het originele bericht en wordt je daarheen doorgestuurd."
+
+#: src/class-post-republisher.php:334
+msgid "An error occurred while republishing the post."
+msgstr "Er is een fout opgetreden bij het opnieuw publiceren van het bericht."
+
+#: src/class-post-republisher.php:87 src/ui/class-classic-editor.php:210
+#: js/dist/duplicate-post-strings-412.js:1
+msgid "Republish"
+msgstr "Opnieuw publiceren"
+
+#: src/handlers/class-link-handler.php:215
+msgid "You cannot create a copy for Rewrite & Republish if the original is not published or if it already has a copy."
+msgstr "Je kunt geen kopie maken voor Rewrite & Republish als het origineel niet is gepubliceerd of als het al een kopie heeft."
+
+#: src/handlers/class-link-handler.php:95
+#: src/handlers/class-link-handler.php:151
+#: src/handlers/class-link-handler.php:223
+msgid "Copy creation failed, could not create a copy."
+msgstr "Kopiëren mislukt, kan geen kopie maken."
+
+#: src/handlers/class-link-handler.php:87
+#: src/handlers/class-link-handler.php:143
+msgid "You cannot create a copy of a post which is intended for Rewrite & Republish."
+msgstr "Je kunt geen kopie maken van een bericht dat bedoeld is voor Rewrite & Republish."
+
+#: src/handlers/class-check-changes-handler.php:117
+msgid "&larr; Return to editor"
+msgstr "&larr; Keer terug naar de editor"
+
+#. translators: %s: original item link (to view or edit) or title.
+#: src/handlers/class-check-changes-handler.php:112
+msgid "Compare changes of duplicated post with the original (&#8220;%s&#8221;)"
+msgstr "Vergelijk wijzigingen van gedupliceerde bericht met het origineel (&#8220;%s&#8221;)"
+
+#: src/handlers/class-check-changes-handler.php:98
+msgid "Changes overview failed, could not find original post."
+msgstr "Wijzigingenoverzicht mislukt, kan origineel bericht niet vinden."
+
+#. translators: %s: post ID.
+#: src/handlers/class-check-changes-handler.php:85
+msgid "Changes overview failed, could not find post with ID %s."
+msgstr "Overzicht van wijzigingen mislukt, kan bericht met ID %s niet vinden."
+
+#: src/handlers/class-check-changes-handler.php:69
+msgid "No post has been supplied!"
+msgstr "Er is geen bericht geleverd!"
+
+#: duplicate-post-admin.php:621
+msgid "You aren't allowed to duplicate this post"
+msgstr "Je mag dit bericht niet dupliceren"
+
+#. translators: %s: Yoast Duplicate Post version.
+#: duplicate-post-admin.php:233
+msgid "Read more about what’s new in Yoast Duplicate Post %s!"
+msgstr "Lees meer over wat er nieuw is in Yoast Duplicate Post %s!"
+
+#: duplicate-post-admin.php:806
+msgid "Subscribe"
+msgstr "Inschrijven"
+
+#: src/admin/views/options.php:238
+msgid "Update notice"
+msgstr "Update bericht"
+
+#. translators: 1: Code start tag, 2: Code closing tag, 3: Link start tag to
+#. the template tag documentation, 4: Link closing tag.
+#: src/admin/views/options.php:218
+msgid "You can also use the template tag %1$sduplicate_post_clone_post_link( $link, $before, $after, $id )%2$s. %3$sMore info on the template tag%4$s."
+msgstr "Je kunt ook de template tag gebruiken %1$sduplicate_post_clone_post_link( $link, $before, $after, $id )%2$s. %3$sMeer info over de template tag%4$s."
+
+#. translators: %s: Post title.
+#: src/ui/class-row-actions.php:117
+msgid "New draft of &#8220;%s&#8221;"
+msgstr "Nieuw concept van &#8220;%s&#8221;"
+
+#: src/ui/class-row-actions.php:92
+msgctxt "verb"
+msgid "Clone"
+msgstr "Dupliceer"
+
+#. translators: %s: post title
+#: src/ui/class-metabox.php:96
+msgid "The original item this was copied from is: <span class=\"duplicate_post_original_item_title_span\">%s</span>"
+msgstr "Het originele item waar dit van gekopieerd was is: <span class=\"duplicate_post_original_item_title_span\">%s</span>"
+
+#: src/ui/class-column.php:135
+msgid "The original item this was copied from is: <span class=\"duplicate_post_original_item_title_span\"></span>"
+msgstr "Het originele item waar dit van gekopieerd was is: <span class=\"duplicate_post_original_item_title_span\"></span>"
+
+#: src/ui/class-column.php:130 src/ui/class-metabox.php:85
+msgid "Delete reference to original item."
+msgstr "Verwijder referentie naar het originele item."
+
+#: duplicate-post-admin.php:795
+msgid "Email Address"
+msgstr "E-mailadres"
+
+#. translators: 1: Yoast
+#: duplicate-post-admin.php:788
+msgid "If you want to stay up to date about all the exciting developments around Duplicate Post, subscribe to the %1$s newsletter!"
+msgstr "Als je op de hoogte wil blijven van alle opwindende ontwikkelingen rond Duplicate Post, abonneer je dan op de %1$s nieuwsbrief!"
+
+#. Author URI of the plugin
+msgid "https://yoast.com"
+msgstr "https://yoast.com"
+
+#. Author of the plugin
+msgid "Enrico Battocchi & Team Yoast"
+msgstr "Enrico Battocchi & Team Yoast"
+
+#. Plugin URI of the plugin
+msgid "https://yoast.com/wordpress/plugins/duplicate-post/"
+msgstr "https://yoast.com/wordpress/plugins/duplicate-post/"
+
+#. Plugin Name of the plugin
+msgid "Yoast Duplicate Post"
+msgstr "Yoast Duplicate Post"
+
+#. translators: %s: Post title.
+#: src/ui/class-row-actions.php:90
+msgid "Clone &#8220;%s&#8221;"
+msgstr "Kloon &#8220;%s&#8221;"
+
+#. translators: %s: Original item link (to view or edit) or title.
+#: src/ui/class-post-states.php:72
+msgid "Original: %s"
+msgstr "Origineel: %s"
+
+#: src/ui/class-column.php:72
+msgid "Original item"
+msgstr "Originele item"
+
+#: src/admin/class-options.php:259
+msgid "After the title in the Post list"
+msgstr "Na de titel in de Berichtenlijst"
+
+#: src/admin/class-options.php:252
+msgid "You'll also be able to delete the reference to the original item with a checkbox in Quick Edit"
+msgstr "Je kunt ook de verwijzing naar het originele item verwijderen met een selectievakje in Snel bewerken"
+
+#: src/admin/class-options.php:249
+msgid "In a column in the Post list"
+msgstr "In een kolom in de Berichtenlijst"
+
+#: src/admin/class-options.php:242
+msgid "You'll also be able to delete the reference to the original item with a checkbox"
+msgstr "Je kunt ook de verwijzing naar het originele item verwijderen met een selectievakje"
+
+#: src/admin/views/options.php:229
+msgid "Show original item:"
+msgstr "Toon originele item:"
+
+#: src/admin/views/options.php:22
+msgid "Settings sections"
+msgstr "Instellingen secties"
+
+#: duplicate-post.php:90
+msgid "Settings for Duplicate Post"
+msgstr "Instellingen voor Duplicate Post"
+
+#. translators: %s: post title
+#: src/class-utils.php:144
+msgid "View &#8220;%s&#8221;"
+msgstr "Bekijk &#8220;%s&#8221;"
+
+#. translators: %s: post title
+#: src/class-utils.php:135
+msgid "Preview &#8220;%s&#8221;"
+msgstr "Voorbeeld van &#8220;%s&#8221;"
+
+#. translators: %s: post title
+#: src/class-utils.php:124
+msgid "Edit &#8220;%s&#8221;"
+msgstr "Bewerk &#8220;%s&#8221;"
+
+#. translators: %s: Yoast Duplicate Post version.
+#: duplicate-post-admin.php:224
+msgid "What's new in Yoast Duplicate Post version %s:"
+msgstr "Wat is er nieuw in Yoast Duplicate Post versie %s:"
+
+#: src/handlers/class-link-handler.php:62
+#: src/handlers/class-link-handler.php:118
+#: src/handlers/class-link-handler.php:190
+msgid "Current user is not allowed to copy posts."
+msgstr "De huidige gebruiker heeft geen toestemming om berichten te kopiëren."
+
+#: src/admin/class-options.php:168
+msgid "you probably want this unchecked, unless you have very special requirements"
+msgstr "waarschijnlijk wil je dit uit hebben staan, tenzij je hele specifieke vereisten hebt"
+
+#: duplicate-post-admin.php:775
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: src/admin/class-options.php:265
+msgid "Show update notice"
+msgstr "Toon updatebericht"
+
+#: src/admin/class-options.php:310
+msgid "Bulk Actions"
+msgstr "Bulk acties"
+
+#: src/admin/class-options.php:220
+msgid "You can use * to match zero or more alphanumeric characters or underscores: e.g. field*"
+msgstr "Je kunt * gebruiken om nul of meerdere alfanumerieke karakters of liggende streepjes te matchen: bv. veld*"
+
+#: src/admin/class-options.php:189
+msgid "Menu order"
+msgstr "Menuvolgorde"
+
+#: src/admin/class-options.php:152
+msgid "Author"
+msgstr "Auteur"
+
+#: src/admin/class-options.php:138
+msgid "Template"
+msgstr "Template"
+
+#: src/admin/class-options.php:131
+msgid "Featured Image"
+msgstr "Uitgelichte afbeelding"
+
+#. translators: %s: Number of posts copied.
+#. translators: %s: Number of posts copied.
+#: src/watchers/class-bulk-actions-watcher.php:60
+#: src/watchers/class-link-actions-watcher.php:78
+msgid "%s item copied."
+msgid_plural "%s items copied."
+msgstr[0] "%s item gekopieerd."
+msgstr[1] "%s items gekopieerd."
+
+#: src/admin/views/options.php:176 src/admin/views/options.php:213
+msgid "Whether the links are displayed for custom post types registered by themes or plugins depends on their use of standard WordPress UI elements."
+msgstr "Of de links worden getoond voor aangepaste berichttypen die door thema's of plugins zijn geregistreerd, hangt af van het gebruik van de standaard WordPress UI elementen"
+
+#: src/admin/views/options.php:174
+msgid "Select the post types you want the plugin to be enabled for."
+msgstr "Selecteer de berichttypen waarvoor je de plugin wil gebruiken"
+
+#: src/admin/views/options.php:164 src/admin/views/options.php:168
+msgid "Enable for these post types"
+msgstr "Aanzetten voor deze berichttypes"
+
+#: src/admin/views/options.php:157
+msgid "Passwords and contents of password-protected posts may become visible to undesired users and visitors."
+msgstr "Wachtwoorden en de inhoud van met een wachtwoord beveiligde berichten kunnen zichtbaar worden voor ongewenste gebruikers en bezoekers"
+
+#: src/admin/views/options.php:129
+msgid "Show/hide private taxonomies"
+msgstr "Toon/verberg privé taxonomieën"
+
+#: src/admin/class-options.php:211
+msgid "Add this number to the original menu order (blank or zero to retain the value)"
+msgstr "Voeg dit nummer toe aan de originele menuvolgorde (leeg of 0 om waarde te behouden)"
+
+#: src/admin/class-options.php:209 src/admin/views/options.php:95
+msgid "Increase menu order by"
+msgstr "Verhoog menuvolgorde met"
+
+#: src/admin/class-options.php:183
+msgid "except pingbacks and trackbacks"
+msgstr "behalve pingbacks en trackbacks"
+
+#: src/admin/class-options.php:181
+msgid "Comments"
+msgstr "Reacties"
+
+#: src/admin/class-options.php:174
+msgid "Children"
+msgstr "Onderliggend"
+
+#: src/admin/class-options.php:166
+msgid "Attachments"
+msgstr "Bijlagen"
+
+#: src/admin/class-options.php:159
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: src/admin/class-options.php:124
+#: src/handlers/class-check-changes-handler.php:128
+msgid "Content"
+msgstr "Inhoud"
+
+#: src/admin/class-options.php:117
+#: src/handlers/class-check-changes-handler.php:129
+msgid "Excerpt"
+msgstr "Samenvatting"
+
+#: src/admin/class-options.php:110
+msgid "Slug"
+msgstr "Slug"
+
+#: src/admin/class-options.php:103
+msgid "Status"
+msgstr "Status"
+
+#: src/admin/class-options.php:96
+msgid "Date"
+msgstr "Datum"
+
+#: src/admin/class-options.php:89
+#: src/handlers/class-check-changes-handler.php:127
+msgid "Title"
+msgstr "Titel"
+
+#: src/admin/views/options.php:60 src/admin/views/options.php:63
+msgid "Post/page elements to copy"
+msgstr "Bericht/pagina-elementen om te kopiëren"
+
+#: src/admin/views/options.php:48 src/admin/views/options.php:189
+msgid "Display"
+msgstr "Toon"
+
+#: src/admin/views/options.php:39 src/admin/views/options.php:142
+msgid "Permissions"
+msgstr "Rechten"
+
+#: src/admin/views/options.php:30 src/admin/views/options.php:57
+msgid "What to copy"
+msgstr "Wat te kopiëren"
+
+#: duplicate-post-admin.php:627
+msgid "Copy features for this post type are not enabled in options page"
+msgstr "Kopieeropties voor dit berichttype zijn niet aangezet op de opties pagina"
+
+#: duplicate-post.php:91
+msgid "Settings"
+msgstr "Instellingen"
+
+#: src/admin/views/options.php:249
+msgid "Save changes"
+msgstr "Wijzigingen opslaan"
+
+#: src/admin/class-options.php:300
+msgid "Admin bar"
+msgstr "Toolbar"
+
+#: src/admin/class-options.php:305
+msgid "Edit screen"
+msgstr "Bewerk scherm"
+
+#: src/admin/class-options.php:295
+msgid "Post list"
+msgstr "Berichtenlijst"
+
+#: src/admin/views/options.php:204
+msgid "Show links in"
+msgstr "Toon links in"
+
+#: src/admin/views/options.php:146 src/admin/views/options.php:149
+msgid "Roles allowed to copy"
+msgstr "Rollen die mogen kopiëren"
+
+#: src/admin/class-options.php:204
+msgid "Suffix to be added after the title, e.g. \"(dup)\" (blank for no suffix)"
+msgstr "Achtervoegsel dat achter de titel wordt toegevoegd, bv. \"(kopie)\" (leeg voor geen achtervoegsel)"
+
+#: src/admin/class-options.php:202 src/admin/views/options.php:84
+msgid "Title suffix"
+msgstr "Titel achtervoegsel"
+
+#: src/admin/class-options.php:197
+msgid "Prefix to be added before the title, e.g. \"Copy of\" (blank for no prefix)"
+msgstr "Voorvoegsel dat voor de titel wordt toegevoegd, bv. \"Kopie van\" (leeg voor geen voorvoegsel)"
+
+#: src/admin/class-options.php:195 src/admin/views/options.php:73
+msgid "Title prefix"
+msgstr "Titel voorvoegsel"
+
+#: src/admin/views/options.php:118 src/admin/views/options.php:122
+msgid "Do not copy these taxonomies"
+msgstr "Kopieer deze taxonomieën niet"
+
+#: src/admin/class-options.php:219
+msgid "Comma-separated list of meta fields that must not be copied."
+msgstr "Komma gescheiden lijst van meta velden die niet gekopieerd moeten worden"
+
+#: src/admin/class-options.php:216 src/admin/views/options.php:107
+msgid "Do not copy these fields"
+msgstr "Kopieer deze velden niet"
+
+#: src/admin/class-options-page.php:81 src/ui/class-admin-bar.php:94
+#: src/ui/class-metabox.php:58
+msgid "Duplicate Post"
+msgstr "Duplicate Post"
+
+#: src/admin/class-options-page.php:80 src/admin/views/options.php:16
+msgid "Duplicate Post Options"
+msgstr "Duplicate Post instellingen"
+
+#: src/handlers/class-link-handler.php:79
+#: src/handlers/class-link-handler.php:135
+#: src/handlers/class-link-handler.php:207
+msgid "Copy creation failed, could not find original:"
+msgstr "Kopiëren mislukt, kon origineel niet vinden:"
+
+#: src/handlers/class-link-handler.php:67
+#: src/handlers/class-link-handler.php:123
+#: src/handlers/class-link-handler.php:195
+msgid "No post to duplicate has been supplied!"
+msgstr "Geen bericht opgegeven om te kopiëren!"
+
+#: src/admin/class-options.php:274 src/ui/class-row-actions.php:119
+msgid "New Draft"
+msgstr "Nieuw concept"
+
+#: duplicate-post-common.php:77 src/ui/class-admin-bar.php:102
+#: src/ui/class-admin-bar.php:119 src/ui/class-classic-editor.php:135
+#: js/dist/duplicate-post-edit-412.js:1
+msgid "Copy to a new draft"
+msgstr "Kopieer naar nieuw concept"
+
+#: src/admin/class-options.php:279 src/ui/class-bulk-actions.php:75
+msgid "Clone"
+msgstr "Kopieer"

@@ -1,0 +1,184 @@
+# Translation of Plugins - ImageMagick Engine - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - ImageMagick Engine - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-25 09:18:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - ImageMagick Engine - Stable (latest release)\n"
+
+#: imagemagick-engine.php:147
+msgid "Medium Large"
+msgstr "Mellanstor"
+
+#: imagemagick-engine.php:1168
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#: imagemagick-engine.php:1137
+msgid "None (use WP instead)"
+msgstr "Inget (använd WP istället)"
+
+#: imagemagick-engine.php:1136
+msgid "Size"
+msgstr "Storlek"
+
+#: imagemagick-engine.php:1135
+msgid "Quality"
+msgstr "Kvalité"
+
+#: imagemagick-engine.php:1134
+msgid "Optimize for"
+msgstr "Optimera för"
+
+#: imagemagick-engine.php:1127
+msgid "Set to 0-100. Higher value gives better image quality but larger file size. Leave empty for default value, computed dynamically."
+msgstr "S&auml;tt till 0-100. H&ouml;gre v&auml;rden ger b&auml;ttre bildkvalité men st&ouml;rre filstorlek. L&auml;mna tomt f&ouml;r automatiskt ber&auml;knat v&auml;rde."
+
+#: imagemagick-engine.php:1126
+msgid "Optimize for size"
+msgstr "Vid optimering f&ouml;r storlek"
+
+#: imagemagick-engine.php:1125
+msgid "Optimize for quality"
+msgstr "Vid optimering f&ouml;r kvalité"
+
+#: imagemagick-engine.php:1123
+msgid "ImageMagick quality"
+msgstr "ImageMagick bildkvalité"
+
+#: imagemagick-engine.php:1118
+msgid "Test path"
+msgstr "Testa sökväg"
+
+#: imagemagick-engine.php:1116
+msgid "Testing command..."
+msgstr "Testar kommando..."
+
+#: imagemagick-engine.php:1115
+msgid "Command not found"
+msgstr "Kommando hittades inte"
+
+#: imagemagick-engine.php:1112
+msgid "ImageMagick path"
+msgstr "ImageMagick sökväg"
+
+#: imagemagick-engine.php:1108
+msgid "Imagick PHP module not found"
+msgstr "Imagick PHP modul finns ej."
+
+#: imagemagick-engine.php:1108
+msgid "Imagick PHP module found"
+msgstr "Imagick PHP modul finns."
+
+#: imagemagick-engine.php:1089
+msgid "Image engine"
+msgstr "Bildmotor"
+
+#: imagemagick-engine.php:1078
+msgid "Enable enhanced image engine"
+msgstr "Aktivera ImageMagick Engine"
+
+#: imagemagick-engine.php:1030
+msgid "You must enable Javascript in order to proceed!"
+msgstr "Du måste tillåta Javascript i din webbläsare för att kunna fortsätta!"
+
+#: imagemagick-engine.php:1029 imagemagick-engine.php:1031
+msgid "Regenerating images"
+msgstr "Regenererar bilder"
+
+#: imagemagick-engine.php:1065
+msgid "(this can take a long time)"
+msgstr "(det här kan ta lång tid)"
+
+#: imagemagick-engine.php:1064
+msgid "Regenerate"
+msgstr "Skala om"
+
+#: imagemagick-engine.php:1061
+msgid "Resize will use standard WordPress functions."
+msgstr "Omskalningen kommer använda Wordpress standardfunktioner."
+
+#: imagemagick-engine.php:1057
+msgid "ImageMagick images too"
+msgstr "ImageMagick bilder också"
+
+#: imagemagick-engine.php:1047
+msgid "Sizes"
+msgstr "Bilder"
+
+#: imagemagick-engine.php:1042
+msgid "Regenerate Images"
+msgstr "Skala om bilder"
+
+#: imagemagick-engine.php:1028
+msgid "ImageMagick Engine Settings"
+msgstr "ImageMagick Engine Inställningar"
+
+#: imagemagick-engine.php:1022
+msgid "ImageMagick Engine is not enabled."
+msgstr "ImageMagick Engine är inte aktiverad."
+
+#: imagemagick-engine.php:1018
+msgid "No valid ImageMagick mode found! Please check %1$sFAQ%2$s for installation instructions."
+msgstr "Inget giltigt ImageMagick-läge hittades! Kolla in %1$sFAQ%2$s för installationsinstruktioner."
+
+#: imagemagick-engine.php:968
+msgid "Settings updated"
+msgstr "Inställningar uppdaterade"
+
+#: imagemagick-engine.php:861
+msgid "Resize using ImageMagick Engine"
+msgstr "Storleksändra med ImageMagick Engine"
+
+#: imagemagick-engine.php:857
+msgid "Resize image"
+msgstr "Storleksändra bild"
+
+#: imagemagick-engine.php:811 imagemagick-engine.php:1074
+msgid "Settings"
+msgstr "Inställningar"
+
+#: imagemagick-engine.php:797 imagemagick-engine.php:856
+msgid "Resized using ImageMagick Engine"
+msgstr "Omskalad av ImageMagick Engine"
+
+#: imagemagick-engine.php:796
+msgid "Failed to resize image!"
+msgstr "Kunde inte skala om bild!"
+
+#: imagemagick-engine.php:795
+msgid "Processed %d images"
+msgstr "Skalat om %d bilder"
+
+#: imagemagick-engine.php:794
+msgid "All done!"
+msgstr "Färdigt!"
+
+#: imagemagick-engine.php:793
+msgid "You dont have any images to regenerate"
+msgstr "Du har inga bilder att skala om"
+
+#: imagemagick-engine.php:148
+msgid "Large"
+msgstr "Stor"
+
+#: imagemagick-engine.php:146
+msgid "Medium"
+msgstr "Mellan"
+
+#: imagemagick-engine.php:145
+msgid "Thumbnail"
+msgstr "Miniatyr"
+
+#: imagemagick-engine.php:66
+msgid "ImageMagick command-line"
+msgstr "ImageMagick kommando"
+
+#: imagemagick-engine.php:65 imagemagick-engine.php:1105
+msgid "Imagick PHP module"
+msgstr "Imagick PHP modul"

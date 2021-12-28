@@ -1,0 +1,171 @@
+# Translation of Plugins - Imsanity - Stable (latest release) in Polish
+# This file is distributed under the same license as the Plugins - Imsanity - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-15 16:28:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pl\n"
+"Project-Id-Version: Plugins - Imsanity - Stable (latest release)\n"
+
+#: settings.php:323 settings.php:741
+msgid "If searching repeatedly returns the same images, deep scanning will check the actual image dimensions instead of relying on metadata from the database."
+msgstr "W przypadku wyszukiwania tych samych obrazków, głębokie skanowanie sprawdzi rzeczywisty obraz, zamiast polegać na metadanych z bazy danych."
+
+#: settings.php:322 settings.php:740
+msgid "Deep Scan"
+msgstr "Głębokie skanowanie"
+
+#. translators: 1: File-name of the image 2: the error message, translated
+#. elsewhere
+#: libs/utils.php:216
+msgid "wp_get_image_editor missing"
+msgstr "nie odnaleziono wp_get_image_editor"
+
+#. translators: 1: File-name of the image 2: the error message, translated
+#. elsewhere
+#: libs/utils.php:201 libs/utils.php:208 libs/utils.php:216 libs/utils.php:223
+msgid "ERROR: %1$s (%2$s)"
+msgstr "BŁĄD: %1$s (%2$s)"
+
+#: settings.php:103
+msgid "Image"
+msgstr "Obrazek"
+
+#: settings.php:76 settings.php:78
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: settings.php:278 settings.php:287 settings.php:295 settings.php:695
+#: settings.php:704 settings.php:712
+msgid "Max Height"
+msgstr "Maksymalna wysokość"
+
+#: settings.php:277 settings.php:286 settings.php:294 settings.php:694
+#: settings.php:703 settings.php:711
+msgid "Max Width"
+msgstr "Maksymalna szerokość"
+
+#. Description of the plugin
+msgid "Imsanity stops insanely huge image uploads"
+msgstr "Imsanity wyłącza zapisywanie przez WordPressa dużego oryginału przesyłanego obrazu."
+
+#. Plugin Name of the plugin
+#: settings.php:37 settings.php:57
+msgid "Imsanity"
+msgstr "Imsanity"
+
+#: settings.php:732
+msgid "Convert PNG To JPG"
+msgstr "Konwertować pliki PNG do JPG?"
+
+#: settings.php:724
+msgid "Convert BMP To JPG"
+msgstr "Konwertować pliki BMP do JPG?"
+
+#: settings.php:316 settings.php:718
+msgid "JPG image quality"
+msgstr "Jakość pliku JPG"
+
+#: settings.php:676
+msgid "Imsanity settings have been configured by the server administrator. There are no site-specific settings available."
+msgstr "Ustawienia Imsanity zostały skonfigurowane przez administratora serwera. Ustawienia zaawansowane nie są dostępne."
+
+#: settings.php:654
+msgid "Search Images..."
+msgstr "Szukaj obrazów"
+
+#: settings.php:637
+msgid "Bulk Resize Images"
+msgstr "Wsadowa zmiana rozmiaru obrazów"
+
+#: settings.php:605
+msgid "Imsanity Settings"
+msgstr "Ustawienia wtyczki Imsanity"
+
+#: settings.php:328
+msgid "Update Settings"
+msgstr "Zaktualizuj ustawienia"
+
+#: settings.php:308
+msgid "Convert PNG to JPG"
+msgstr "Konwertować pliki PNG do JPG?"
+
+#: settings.php:303 settings.php:311 settings.php:727 settings.php:735
+msgid "No"
+msgstr "Nie"
+
+#: settings.php:302 settings.php:310 settings.php:726 settings.php:734
+msgid "Yes"
+msgstr "Tak"
+
+#: settings.php:300
+msgid "Convert BMP to JPG"
+msgstr "Konwertować pliki BMP do JPG?"
+
+#: settings.php:292 settings.php:709
+msgid "Images uploaded elsewhere (Theme headers, backgrounds, logos, etc)"
+msgstr "Obrazy przesłane w inne miejsca (nagłówki skórki, tła, loga, itp)"
+
+#: settings.php:284 settings.php:701
+msgid "Images uploaded directly to the Media Library"
+msgstr "Obrazy przesłane bezpośrednio do biblioteki mediów"
+
+#: settings.php:275 settings.php:692
+msgid "Images uploaded within a Page/Post"
+msgstr "Obrazy przesłane podczas tworzenia strony lub wpisu"
+
+#: settings.php:268
+msgid "Use global Imsanity settings (below) for all sites"
+msgstr "Użyj globalnych ustawień Imsanity (poniżej) dla wszystkich stron"
+
+#: settings.php:267
+msgid "Allow each site to configure Imsanity settings"
+msgstr "Zezwól każdej stronie na zmianę ustawień Imsanity"
+
+#: settings.php:264
+msgid "Global Settings Override"
+msgstr "Ustawienia globalne zostały nadpisane"
+
+#: settings.php:381
+msgid "Imsanity network settings saved."
+msgstr "Ustawienia globalne zapisano."
+
+#: settings.php:56 settings.php:239
+msgid "Imsanity Network Settings"
+msgstr "Ustawienia globalne Imsanity"
+
+#: settings.php:36
+msgid "Imsanity Plugin Settings"
+msgstr "Ustawienia wtyczki Imsanity"
+
+#. translators: %s: the image filename
+#: libs/imagecreatefrombmp.php:35
+msgid "imagecreatefrombmp: %s is not a bitmap!"
+msgstr "imagecreatefrombmp: %s nie jest bitmapą!"
+
+#. translators: %s: the image filename
+#: libs/imagecreatefrombmp.php:21 libs/imagecreatefrombmp.php:27
+msgid "imagecreatefrombmp: Can not open %s!"
+msgstr "imagecreatefrombmp: Nie można otworzyć %s!"
+
+#. translators: %s: File-name of the image
+#: class-imsanity-cli.php:86 libs/utils.php:231
+msgid "SKIPPED: %s (Resize not required)"
+msgstr "POMINIĘTY: %s (Przetworzenie nie jest wymagane)"
+
+#. translators: %s: File-name of the image
+#: libs/utils.php:189
+msgid "OK: %s"
+msgstr "OK: %s"
+
+#: ajax.php:127
+msgid "Missing ID Parameter"
+msgstr "Brak parametru ID"
+
+#: settings.php:745
+msgid "Save Changes"
+msgstr "Zapisz zmiany"

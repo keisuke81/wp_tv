@@ -1,0 +1,476 @@
+# Translation of Plugins - Coming Soon Page, Maintenance Mode &amp; Landing Pages by SeedProd - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Coming Soon Page, Maintenance Mode &amp; Landing Pages by SeedProd - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-25 11:17:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Coming Soon Page, Maintenance Mode &amp; Landing Pages by SeedProd - Stable (latest release)\n"
+
+#: resources/data-templates/basic-page.php:458
+msgid "After text"
+msgstr "Efter text"
+
+#: resources/data-templates/basic-page.php:455
+msgid "Before text"
+msgstr "Före text"
+
+#: app/functions-utils.php:424
+msgid "Facebook Page"
+msgstr "Facebook-sida"
+
+#: app/functions-utils.php:387
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: app/functions-utils.php:328
+msgid "Pricing Table"
+msgstr "Pristabell"
+
+#: app/functions-utils.php:287
+msgid "Image Carousel"
+msgstr "Bildkarusell"
+
+#: app/functions-utils.php:247
+msgid "Animated Headline"
+msgstr "Animerad rubrik"
+
+#: app/functions-utils.php:598
+msgid "Top Rated Products"
+msgstr "Högst rankade produkter"
+
+#: app/functions-utils.php:589
+msgid "Featured Products"
+msgstr "Utvalda produkter"
+
+#: app/functions-utils.php:579
+msgid "Best Selling Products"
+msgstr "Bästsäljande produkter"
+
+#: app/functions-utils.php:567
+msgid "Sale Products"
+msgstr "Produkter på rea"
+
+#: app/functions-utils.php:556
+msgid "Recent Products"
+msgstr "Senaste produkter"
+
+#: app/functions-utils.php:544
+msgid "Products Grid"
+msgstr "Produktrutnät"
+
+#: app/functions-utils.php:531
+msgid "Cart"
+msgstr "Varukorg"
+
+#: app/functions-utils.php:519
+msgid "Checkout"
+msgstr "Kassa"
+
+#: app/functions-utils.php:509
+msgid "Add To Cart"
+msgstr "Lägg till i varukorg"
+
+#: app/functions-utils.php:358
+msgid "Accordion"
+msgstr "Dragspel"
+
+#: app/functions-utils.php:277
+msgid "Testimonials"
+msgstr "Omdömen"
+
+#: app/settings.php:103
+msgid "Error Updating App Settings"
+msgstr "Fel vid uppdatering av appinställningar"
+
+#: app/settings.php:97
+msgid "App Settings Updated"
+msgstr "Appinställningar uppdaterade"
+
+#: app/routes.php:93 app/routes.php:94
+msgid "Request a Feature"
+msgstr "Begär en funktion"
+
+#: app/bootstrap.php:397
+msgid "Back to WordPress Editor"
+msgstr "Tillbaka till WordPress-redigeraren"
+
+#: app/functions-utils.php:376
+msgid "Login Form"
+msgstr "Inloggningsformulär"
+
+#: resources/views/debug.php:27
+msgid "Debug Tools"
+msgstr "Felsökningsverktyg"
+
+#: app/routes.php:140 app/routes.php:141
+msgid "Debug"
+msgstr "Felsök"
+
+#: app/routes.php:131 app/routes.php:132
+msgid "Import/Export"
+msgstr "Importera/exportera"
+
+#: app/routes.php:122 app/routes.php:123
+msgid "Builder"
+msgstr "Byggare"
+
+#: app/routes.php:103 app/routes.php:104
+msgid "Get Pro"
+msgstr "Skaffa Pro"
+
+#: app/routes.php:84 app/routes.php:85
+msgid "About Us"
+msgstr "Om oss"
+
+#: app/routes.php:75 app/routes.php:76
+msgid "Growth Tools"
+msgstr "Tillväxtverktyg"
+
+#: app/routes.php:39 app/routes.php:40
+msgid "Pages"
+msgstr "Sidor"
+
+#: app/settings.php:69
+msgid "Error Updating Settings"
+msgstr "Fel vid uppdatering av inställningar"
+
+#: app/settings.php:64
+msgid "Settings Updated"
+msgstr "Inställningar uppdaterade"
+
+#: app/functions-addons.php:182 app/functions-addons.php:230
+msgid "Inactive"
+msgstr "Inaktiv"
+
+#: app/functions-addons.php:144
+msgid "Could not activate addon. Please activate from the Plugins page."
+msgstr "Utökningen kunde inte aktiveras. Aktivera från tilläggssidan."
+
+#: app/functions-addons.php:139
+msgid "Addon activated."
+msgstr "Utökning aktiverad."
+
+#: app/functions-addons.php:137
+msgid "Plugin activated."
+msgstr "Tillägg aktiverat."
+
+#: app/functions-addons.php:109
+msgid "Could not deactivate the addon. Please deactivate from the Plugins page."
+msgstr "Utökningen kunde inte inaktiveras. Inaktivera från tilläggssidan."
+
+#: app/functions-addons.php:105
+msgid "Addon deactivated."
+msgstr "Utökning inaktiverad."
+
+#: app/functions-addons.php:103
+msgid "Plugin deactivated."
+msgstr "Tillägg inaktiverat."
+
+#: app/lpage.php:799
+msgid "<br><br>Please enter a valid license key to access the themes. You can still proceed to create a page with the default theme.<br> <a class='seedprod_no_themes' href='?theme=0'>Click to continue &#8594;</a>"
+msgstr "<br><br>Ange en giltig licensnyckel för att få åtkomst till teman. Du kan fortfarande fortsätta att skapa en sida med standardtemat.<br><a class='seedprod_no_themes' href='?theme=0'>Klicka för att fortsätta →</a>"
+
+#: app/lpage.php:674
+msgid "Ended"
+msgstr "Avslutade"
+
+#: app/lpage.php:672
+msgid "Starts in"
+msgstr "Startar om"
+
+#: app/lpage.php:128 app/lpage.php:130
+msgid "New Page"
+msgstr "Ny sida"
+
+#: app/license.php:135
+msgid "Invalid License Key."
+msgstr "Ogiltig licensnyckel."
+
+#: app/license.php:130
+msgid "You currently have the <strong>%s</strong> license."
+msgstr "Du har för närvarande <strong>%s</strong>-licensen."
+
+#: app/license.php:68
+msgid "License Key is Required."
+msgstr "Licensnyckel är obligatoriskt."
+
+#: app/license.php:12
+msgid "Upgrade PHP"
+msgstr "Uppgradera PHP"
+
+#: app/bootstrap.php:396 app/functions-utils.php:1161
+msgid "Edit with SeedProd"
+msgstr "Redigera med SeedProd"
+
+#: app/functions-utils.php:639
+msgid "Select Time"
+msgstr "Välj tid"
+
+#: app/functions-utils.php:367
+msgid "Shortcode"
+msgstr "Kortkod"
+
+#: app/functions-utils.php:349
+msgid "Star Rating"
+msgstr "Stjärnbetyg"
+
+#: app/functions-utils.php:340
+msgid "Anchor"
+msgstr "Ankare"
+
+#: app/functions-utils.php:320
+msgid "Nav Menu"
+msgstr "Navigeringsmeny"
+
+#: app/functions-utils.php:310
+msgid "Icon Box"
+msgstr "Ikonruta"
+
+#: app/functions-utils.php:300
+msgid "Image Box"
+msgstr "Bildruta"
+
+#: app/functions-utils.php:268
+msgid "Icon"
+msgstr "Ikon"
+
+#: app/functions-utils.php:259
+msgid "Progress Bar"
+msgstr "Förloppsindikator"
+
+#: app/functions-utils.php:238
+msgid "Social Sharing"
+msgstr "Social delning"
+
+#: app/functions-utils.php:230
+msgid "Social Profiles"
+msgstr "Sociala profiler"
+
+#: app/functions-utils.php:221
+msgid "Countdown"
+msgstr "Nedräkning"
+
+#: app/functions-utils.php:212
+msgid "Optin Form"
+msgstr "Opt-in-formulär"
+
+#: app/functions-utils.php:203
+msgid "Contact Form"
+msgstr "Kontaktformulär"
+
+#: app/functions-utils.php:183
+msgid "Spacer"
+msgstr "Distanselement"
+
+#: app/functions-utils.php:174
+msgid "Divider"
+msgstr "Avdelare"
+
+#: app/functions-utils.php:166
+msgid "Video"
+msgstr "Video"
+
+#: app/functions-utils.php:158
+msgid "Image"
+msgstr "Bild"
+
+#: app/functions-utils.php:150
+msgid "Button"
+msgstr "Knapp"
+
+#: app/functions-utils.php:142
+msgid "List"
+msgstr "Lista"
+
+#: app/functions-utils.php:104
+msgid "Column"
+msgstr "Kolumn"
+
+#: app/functions-utils.php:46
+msgid "SuperAdmin"
+msgstr "Superadmin"
+
+#: app/review.php:111
+msgid "~ John Turner<br>Co-Founder of SeedProd"
+msgstr "~ John Turner<br>Medgrundare av SeedProd"
+
+#: app/review.php:110
+msgid "That’s awesome! Could you please do me a BIG favor and give it a 5-star rating on WordPress to help us spread the word and boost our motivation?"
+msgstr "Häftigt! Kan du göra mig en STOR tjänst och ge tillägget ett 5-stjärnigt betyg på WordPress för att berätta för andra om oss och öka vår motivation?"
+
+#: app/review.php:106
+msgid "No thanks"
+msgstr "Nej tack"
+
+#: app/review.php:105
+msgid "Give Feedback"
+msgstr "Ge feedback"
+
+#: app/review.php:103
+msgid "We're sorry to hear you aren't enjoying SeedProd. We would love a chance to improve. Could you take a minute and let us know what we can do better?"
+msgstr "Vad synd att du inte gillar SeedProd. Vi vill gärna bli bättre. Skulle du vilja ägna en minut åt att berätta för oss hur vi kan bli bättre?"
+
+#: app/review.php:99
+msgid "Not Really"
+msgstr "Inte riktigt"
+
+#: app/review.php:96
+msgid "Are you enjoying SeedProd?"
+msgstr "Gillar du SeedProd?"
+
+#: app/render-csp-mm.php:276
+msgid "Please create your Coming Soon Page in the plugin settings."
+msgstr "Skapa din ”Kommer snart”-sida i tilläggsinställningarna."
+
+#: app/render-csp-mm.php:271
+msgid "Please create enter your redirect url in the plugin settings."
+msgstr "Ange din omdirigerings-URL i tilläggsinställningarna."
+
+#: app/includes/upgrade.php:181
+msgid "Pro version installed but needs to be activated from the Plugins page inside your WordPress admin."
+msgstr "Pro-version är installerad men måste aktiveras från sidan för tillägg i din WordPress-adminpanel."
+
+#: app/includes/upgrade.php:120 app/includes/upgrade.php:126
+#: app/includes/upgrade.php:177
+msgid "Plugin installed & activated."
+msgstr "Tillägg installerat och aktiverat."
+
+#: app/includes/upgrade.php:88
+msgid "Could not install upgrade. Please download from seedprod.com and install manually."
+msgstr "Kunde inte installera uppgradering. Ladda ner från seedprod.com och installera manuellt."
+
+#: app/includes/upgrade.php:43
+msgid "Pro version is already installed."
+msgstr "Pro-version är redan installerad."
+
+#: app/includes/upgrade.php:24 app/includes/upgrade.php:157
+msgid "You are not licensed."
+msgstr "Du är inte licenserad."
+
+#: app/includes/upgrade.php:11
+msgid "You are not allowed to install plugins."
+msgstr "Du saknar behörighet att installera tillägg."
+
+#: resources/views/debug.php:1
+msgid "System Information"
+msgstr "Systeminformation"
+
+#: resources/data-templates/basic-page.php:1096
+msgid "Name"
+msgstr "Namn"
+
+#: resources/data-templates/basic-page.php:1096
+msgid "Enter Your Name"
+msgstr "Ange ditt namn"
+
+#: resources/data-templates/basic-page.php:1095
+msgid "Email"
+msgstr "E-post"
+
+#: resources/data-templates/basic-page.php:1095
+msgid "Enter Your Email"
+msgstr "Ange din e-post"
+
+#: resources/data-templates/basic-page.php:419
+#: resources/data-templates/basic-page.php:456
+msgid "My Awesome Headline"
+msgstr "Min fantastiska rubrik"
+
+#: resources/data-templates/basic-page.php:327
+#: resources/data-templates/basic-page.php:376
+msgid "My Feature or Benefit"
+msgstr "Min funktion eller fördel"
+
+#. Plugin Name of the plugin
+msgid "Coming Soon Page, Maintenance Mode & Landing Pages by SeedProd"
+msgstr "Coming Soon Page, Maintenance Mode & Landing Pages by SeedProd"
+
+#: app/functions-utils.php:192
+msgid "Giveaway"
+msgstr "Gåva"
+
+#: app/includes/skin.php:82 app/includes/skin53.php:82
+msgid "There was an error installing the addon. Please try again."
+msgstr "Det var ett fel när utökningen skulle installeras. Försök igen."
+
+#: app/functions-addons.php:177 app/functions-addons.php:225
+msgid "Active"
+msgstr "Aktiv"
+
+#: app/functions-addons.php:188 app/functions-addons.php:236
+msgid "Not Installed"
+msgstr "Inte installerat"
+
+#: app/routes.php:57 app/routes.php:58
+msgid "Subscribers"
+msgstr "Prenumeranter"
+
+#: app/routes.php:66 app/routes.php:67
+msgid "Settings"
+msgstr "Inställningar"
+
+#: app/review.php:115
+msgid "I already did"
+msgstr "Jag har redan gjort det"
+
+#: app/review.php:114
+msgid "Nope, maybe later"
+msgstr "Nej, kanske senare"
+
+#: app/review.php:113
+msgid "Ok, you deserve it"
+msgstr "Ok, du förtjänar det"
+
+#: app/bootstrap.php:333
+msgid "Please rate <strong>SeedProd</strong> <a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%2$s\" target=\"_blank\">WordPress.org</a> to help us spread the word. Thank you from the SeedProd team!"
+msgstr "Ge gärna betyget <a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> till <strong>SeedProd</strong> på <a href=\"%2$s\" target=\"_blank\">WordPress.org</a> för att låta fler få veta. Tack från teamet bakom SeedProd!"
+
+#: app/functions-utils.php:500
+msgid "Custom HTML"
+msgstr "Anpassad HTML"
+
+#. Author of the plugin
+msgid "SeedProd"
+msgstr "SeedProd"
+
+#. Description of the plugin
+msgid "The #1 Coming Soon Page, Under Construction & Maintenance Mode plugin for WordPress."
+msgstr "#1-tillägget för ”Kommer snart”-, ”Under konstruktion”- och ”Underhåll”-sidor för WordPress."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.seedprod.com"
+msgstr "https://www.seedprod.com"
+
+#: app/routes.php:48 app/routes.php:49 app/routes.php:113 app/routes.php:114
+msgid "Templates"
+msgstr "Mallar"
+
+#: app/functions-utils.php:134
+msgid "Text"
+msgstr "Text"
+
+#: app/functions-utils.php:122
+msgid "Headline"
+msgstr "Rubrik"
+
+#: app/review.php:98
+msgid "Yes"
+msgstr "Ja"
+
+#: app/backwards/csp4-functions.php:10
+msgid "Please enter your settings."
+msgstr "Ange dina inställningar."
+
+#: app/admin-bar-menu.php:42
+msgid "Maintenance Mode Active"
+msgstr "Underhållsläget aktivt"
+
+#: app/admin-bar-menu.php:40
+msgid "Coming Soon Mode Active"
+msgstr "Kommer snart-läge aktivt"

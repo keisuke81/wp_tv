@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Stop the Bokettch\n"
+"POT-Creation-Date: 2013-06-17 18:45+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: 
+"X-Poedit-SearchPath-0: stop-the-bokettch\n"
+
+#: stop-the-bokettch/stop-the-bokettch.php:9
+msgid "This is a plugin for displaying an alert notification to the ToolBar if you have checked \"Discourage search engines from indexing this site\" of Site Visibility Options. So This is very useful for missed check options."
+msgstr ""
+
+#: stop-the-bokettch/stop-the-bokettch.php:28
+msgid "default.png"
+msgstr ""
+
+#: stop-the-bokettch/stop-the-bokettch.php:66
+msgid "Are you sure to publish the post?"
+msgstr ""
+
+#: stop-the-bokettch/stop-the-bokettch.php:73
+msgid "NO INDEX"
+msgstr ""
+
+#: stop-the-bokettch/stop-the-bokettch.php:136
+msgid "Confirmation of publish post"
+msgstr ""
+
+#: stop-the-bokettch/stop-the-bokettch.php:146
+msgid "Disable"
+msgstr ""

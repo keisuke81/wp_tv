@@ -1,0 +1,198 @@
+# Translation of Plugins - WebSub (FKA. PubSubHubbub) - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - WebSub (FKA. PubSubHubbub) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-24 12:36:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - WebSub (FKA. PubSubHubbub) - Stable (latest release)\n"
+
+#. Author of the plugin
+msgid "PubSubHubbub Team"
+msgstr "PubSubHubbub Team"
+
+#. Plugin Name of the plugin
+msgid "WebSub (FKA. PubSubHubbub)"
+msgstr "WebSub (FKA. PubSubHubbub)"
+
+#: templates/settings-page.php:2
+msgid "(FKA. PubSubhubbub)"
+msgstr "(FKA. PubSubhubbub)"
+
+#: templates/settings-page.php:2
+msgid "WebSub"
+msgstr "WebSub"
+
+#. Author URI of the plugin
+msgid "https://github.com/pubsubhubbub/wordpress-pubsubhubbub"
+msgstr "https://github.com/pubsubhubbub/wordpress-pubsubhubbub"
+
+#: includes/class-pubsubhubbub-admin.php:129
+msgid "<a href=\"https://notiz.blog/donate\">Donate</a>"
+msgstr "<a href=\"https://notiz.blog/donate\"> Doneer </a>"
+
+#: includes/class-pubsubhubbub-admin.php:127
+msgid "<a href=\"https://www.w3.org/community/ostatus/\">OStatus <small>(W3C Community)</small></a>"
+msgstr "<a href=\"https://www.w3.org/community/ostatus/\"> OStatus <small> (W3C-community) </small> </a>"
+
+#: includes/class-pubsubhubbub-admin.php:126
+msgid "<a href=\"https://indieweb.org/WebSub\">IndieWeb <small>(Wiki)</small></a>"
+msgstr "<a href=\"https://indieweb.org/WebSub\"> IndieWeb <small> (Wiki) </small> </a>"
+
+#: includes/class-pubsubhubbub-admin.php:117
+msgid "Try out \"<a href=\"https://wordpress.org/plugins/ostatus-for-wordpress/\" target=\"_blank\">OStatus for WordPress</a>\"!"
+msgstr "Probeer\"<a href=\"https://wordpress.org/plugins/ostatus-for-wordpress/\" target=\"_blank\"> OStatus voor WordPress </a>\"!"
+
+#: includes/class-pubsubhubbub-admin.php:116
+msgid "OStatus for WordPress"
+msgstr "OStatus voor WordPress"
+
+#: includes/class-pubsubhubbub-admin.php:113
+msgid " OStatus lets people on different social networks follow each other. It applies a group of related protocols (PubSubHubbub, ActivityStreams, Salmon, Portable Contacts, and Webfinger) to this problem in what we believe is a simple and obvious way. OStatus is a minimal specification for distributed status updates or microblogging.<br />Many social applications can be modelled with status updates, however. Practically any software that generates RSS or Atom feeds could be OStatus-enabled. Travel networks, event invitation systems, wikis, photo-sharing systems, social news sites, social music sites, podcasting servers, blogs, version control systems, and general purpose social networks would all be candidates for OStatus use. "
+msgstr "Met OStatus kunnen mensen op verschillende sociale netwerken elkaar volgen. Het past een groep gerelateerde protocollen (PubSubHubbub, ActivityStreams, Salmon, Portable Contacts en Webfinger) toe op dit probleem op een naar onze mening eenvoudige en voor de hand liggende manier. OStatus is een minimale specificatie voor gedistribueerde statusupdates of microblogging. <br /> Veel sociale applicaties kunnen echter gemodelleerd worden met statusupdates. Vrijwel alle software die RSS- of Atom-feeds genereert, kan OStatus ondersteunen. Reisnetwerken, uitnodigingssystemen voor evenementen, wiki's, afbeelding-uitwisselingssystemen, sociale nieuwssites, sociale muzieksites, podcastservers, blogs, versiecontrolesystemen en algemene sociale netwerken zouden allemaal kandidaten zijn voor OStatus-gebruik."
+
+#: includes/class-pubsubhubbub-admin.php:112
+msgid "OStatus"
+msgstr "OStatus"
+
+#: includes/class-pubsubhubbub-admin.php:109
+msgid "Fediverse is a portmanteau of \"federation\" and \"universe\". It is a common, informal name for a somewhat broad federation of social network servers whose main purpose is microblogging, the sharing of short, public messages.<br />By running social network software that supports a standard set of protocols called ActivityPub, independently run servers can connect to the Fediverse, allowing its users to follow and receive short messages from each other, regardless of which particular ActivityPub server implementation they are running. The Fediverse is built on Free Software. Some of its social networks are vaguely Twitter-ish in style (for example Mastodon, or GNU Social, similar in activities and their microblogging function), while other federated platforms include more communication and transaction options that are instead comparable to Google+ or Facebook (such as is the case with Friendica). (Wikipedia)"
+msgstr "Fediverse is een samenvoeging van\"federation\" en\"universe\". Het is een algemene, informele naam voor een enigszins brede federatie van sociale netwerkservers met als belangrijkste doel microblogging, het delen van korte, openbare berichten. <br /> Door sociale netwerksoftware uit te voeren die een standaardset protocollen ondersteunt, onafhankelijk ActivityPub genaamd uitgevoerde servers kunnen verbinding maken met het Fediverse, waardoor de gebruikers korte berichten van elkaar kunnen volgen en ontvangen, ongeacht welke specifieke ActivityPub-serverimplementatie ze gebruiken. De Fediverse is gebouwd op Vrije Software. Sommige van zijn sociale netwerken zijn vaag Twitter-achtig van stijl (bijvoorbeeld Mastodon of GNJe Social, vergelijkbaar in activiteiten en hun microblogfunctie), terwijl andere federatieve platforms meer communicatie- en transactieopties bevatten die in plaats daarvan vergelijkbaar zijn met Google+ of Facebook (zoals zoals het geval is bij Friendica). (Wikipedia)"
+
+#: includes/class-pubsubhubbub-admin.php:106
+msgid "WebSub is one of the building blocks of OStauts, wich is the base of the Fediverse."
+msgstr "WebSub is een van de bouwstenen van OStauts, de basis van het Fediverse."
+
+#: includes/class-pubsubhubbub-admin.php:104
+#: includes/class-pubsubhubbub-admin.php:108
+msgid "The Fediverse"
+msgstr "Het Fediversum"
+
+#: includes/class-pubsubhubbub-admin.php:96
+msgid "Try out \"<a href=\"https://wordpress.org/plugins/indieweb/\" target=\"_blank\">IndieWeb for WordPress</a>\""
+msgstr "Probeer\"<a href=\"https://wordpress.org/plugins/indieweb/\" target=\"_blank\"> IndieWeb voor WordPress </a>\""
+
+#: includes/class-pubsubhubbub-admin.php:95
+msgid "IndieWeb for WordPress"
+msgstr "IndieWeb voor WordPress"
+
+#: includes/class-pubsubhubbub-admin.php:80
+msgid "WebSub is a proposed standard of the IndieWeb stack."
+msgstr "WebSub is een voorgestelde standaard van de IndieWeb-stack."
+
+#: templates/settings-page.php:17
+msgid "Hubs <small>(one per line)</small>"
+msgstr "Hubs <small> (één per regel) </small>"
+
+#: templates/settings-page.php:6
+msgid "Publisher Settings"
+msgstr "Uitgeversinstellingen"
+
+#: includes/class-pubsubhubbub-publisher.php:54
+msgid "Please specify a topic url"
+msgstr "Geef een onderwerp-URL op"
+
+#. translators: %s is the $hub_url
+#: includes/class-pubsubhubbub-publisher.php:50
+msgid "The specified hub url does not appear to be valid: %s"
+msgstr "De opgegeven hub-URL lijkt niet geldig te zijn: %s"
+
+#: includes/class-pubsubhubbub-publisher.php:45
+msgid "Please specify a hub url"
+msgstr "Geef een hub-URL op"
+
+#: includes/class-pubsubhubbub-admin.php:125
+msgid "<a href=\"https://www.w3.org/TR/websub/\">W3C Spec</a>"
+msgstr "<a href=\"https://www.w3.org/TR/websub/\"> W3C-specificatie </a>"
+
+#: includes/class-pubsubhubbub-admin.php:124
+msgid "<a href=\"https://websub.rocks/\">Test suite</a>"
+msgstr "<a href=\"https://websub.rocks/\">Testsuite </a>"
+
+#: includes/class-pubsubhubbub-admin.php:123
+msgid "For more information:"
+msgstr "Voor meer informatie:"
+
+#: includes/class-pubsubhubbub-admin.php:92
+msgid "You can post anything you want, in any format you want, with no one monitoring you. In addition, you share simple readable links such as example.com/ideas. These links are permanent and will always work."
+msgstr "Je kan alles plaatsen wat je maar wilt, in elk gewenst formaat, zonder dat iemand je in de gaten houdt. Daarnaast deel je eenvoudig leesbare links zoals example.com/ideas. Deze links zijn permanent en zullen altijd werken."
+
+#: includes/class-pubsubhubbub-admin.php:91
+msgid "You are in control"
+msgstr "Je hebt de controle"
+
+#: includes/class-pubsubhubbub-admin.php:88
+msgid "Your articles and status messages can go to all services, not just one, allowing you to engage with everyone. Even replies and likes on other services can come back to your site so they’re all in one place."
+msgstr "Je artikelen en statusberichten kunnen naar alle services gaan, niet slechts één, zodat je met iedereen kan communiceren. Zelfs antwoorden en vind-ik-leuks op andere services kunnen terugkomen op je site, zodat ze allemaal op één plek staan."
+
+#: includes/class-pubsubhubbub-admin.php:87
+msgid "You are better connected"
+msgstr "Je bent beter verbonden"
+
+#: includes/class-pubsubhubbub-admin.php:84
+msgid "When you post something on the web, it should belong to you, not a corporation. Too many companies have gone out of business and lost all of their users’ data. By joining the IndieWeb, your content stays yours and in your control."
+msgstr "Wanneer je iets op internet plaatst, moet het van jou zijn, niet van een bedrijf. Te veel bedrijven zijn failliet gegaan en hebben alle gegevens van hun gebruikers verloren. Door lid te worden van het IndieWeb, blijft je inhoud van jou en heb jij de controle."
+
+#: includes/class-pubsubhubbub-admin.php:83
+msgid "Your content is yours"
+msgstr "Je inhoud is van jou"
+
+#: includes/class-pubsubhubbub-admin.php:81
+msgid "The IndieWeb is a people-focused alternative to the \"corporate web\"."
+msgstr "De IndieWeb is een mensgericht alternatief voor het \"bedrijfsweb\"."
+
+#: includes/class-pubsubhubbub-admin.php:78
+msgid "The IndieWeb"
+msgstr "The IndieWeb"
+
+#: includes/class-pubsubhubbub-admin.php:70
+msgid "A WebSub Hub is an implementation that handles subscription requests and distributes the content to subscribers when the corresponding topic URL has been updated. Hubs MUST support subscription requests with a secret and deliver authenticated requests when requested. Hubs MUST deliver the full contents of the topic URL in the request, and MAY reduce the payload to a diff if the content type supports it."
+msgstr "Een WebSub Hub is een implementatie die abonnementsaanvragen verwerkt en de inhoud naar abonnees distribueert wanneer de bijbehorende onderwerp-URL is bijgewerkt. Hubs MOETEN abonnementsaanvragen met een geheim ondersteunen en geverifieerde verzoeken afleveren wanneer daarom wordt gevraagd. Hubs MOETEN de volledige inhoud van de onderwerp-URL in de aanvraag leveren en KAN de payload tot een diff verminderen als het inhoudstype dit ondersteunt."
+
+#: includes/class-pubsubhubbub-admin.php:69
+msgid "Hub"
+msgstr "Hub"
+
+#: includes/class-pubsubhubbub-admin.php:66
+msgid "A WebSub Subscriber is an implementation that discovers the hub and topic URL given a resource URL, subscribes to updates at the hub, and accepts content distribution requests from the hub. The subscriber MAY support authenticated content distribution."
+msgstr "Een WebSub-abonnee is een implementatie die de hub- en onderwerp-URL ontdekt die een bron-URL hebtgekregen, zich abonneert op updates op de hub en verzoeken voor inhoudsdistributie van de hub accepteert. De abonnee KAN de distributie van geverifieerde inhoud ondersteunen."
+
+#: includes/class-pubsubhubbub-admin.php:65
+msgid "Subscriber"
+msgstr "Abonnee"
+
+#: includes/class-pubsubhubbub-admin.php:62 templates/settings-page.php:8
+msgid "A WebSub Publisher is an implementation that advertises a topic and hub URL on one or more resource URLs."
+msgstr "Een WebSub-uitgever is een implementatie die een onderwerp en hub-URL adverteert op een of meer bron-URL's."
+
+#: includes/class-pubsubhubbub-admin.php:61
+msgid "Publisher"
+msgstr "Uitgever"
+
+#: includes/class-pubsubhubbub-admin.php:58
+msgid "Terms"
+msgstr "Voorwaarden"
+
+#: includes/class-pubsubhubbub-admin.php:51
+msgid "WebSub provides a common mechanism for communication between publishers of any kind of Web content and their subscribers, based on HTTP web hooks. Subscription requests are relayed through hubs, which validate and verify the request. Hubs then distribute new and updated content to subscribers when it becomes available. WebSub was previously known as PubSubHubbub."
+msgstr "WebSub biedt een gemeenschappelijk mechanisme voor communicatie tussen uitgevers van alle soorten webinhoud en hun abonnees, op basis van HTTP-webhaken. Abonnementsverzoeken worden doorgestuurd via hubs, die het verzoek valideren en verifiëren. Hubs distribueren vervolgens nieuwe en bijgewerkte inhoud aan abonnees wanneer deze beschikbaar komt. WebSub stond voorheen bekend als PubSubHubbub."
+
+#: includes/class-pubsubhubbub-admin.php:50
+msgid "Overview"
+msgstr "Overzicht"
+
+#: includes/class-pubsubhubbub-admin.php:39
+msgid "The WebSub/PubSubHubbub endpoints"
+msgstr "De WebSub/PubSubHubbub-eindpunten"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/pubsubhubbub/wordpress-pubsubhubbub/"
+msgstr "https://github.com/pubsubhubbub/wordpress-pubsubhubbub/"
+
+#. Description of the plugin
+msgid "A better way to tell the world when your blog is updated."
+msgstr "Een betere manier om de wereld te vertellen wanneer je blog wordt bijgewerkt."

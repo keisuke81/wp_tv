@@ -1,0 +1,433 @@
+# Translation of Plugins - Yoast Duplicate Post - Stable (latest release) in Norwegian (Bokmål)
+# This file is distributed under the same license as the Plugins - Yoast Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-02 00:41:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Plugins - Yoast Duplicate Post - Stable (latest release)\n"
+
+#: src/handlers/class-check-changes-handler.php:135
+msgid "Added"
+msgstr "Lagt til"
+
+#: src/handlers/class-check-changes-handler.php:134
+msgid "Removed"
+msgstr "Fjernet"
+
+#: src/ui/class-classic-editor.php:232
+msgid "Schedule republish"
+msgstr "Planlegg publisering på nytt"
+
+#. translators: %s: Date on which the post is to be republished.
+#: src/ui/class-classic-editor.php:215
+msgid "Republish on: %s"
+msgstr "Publiser på nytt: %s"
+
+#: src/ui/class-classic-editor.php:192
+msgid "Compare"
+msgstr "Sammenlikne"
+
+#. translators: %s: Original item link (to view or edit) or title.
+#: src/ui/class-post-states.php:66
+msgid "Rewrite & Republish of %s"
+msgstr "Omskriving  og publisering på nytt av %s"
+
+#: src/ui/class-row-actions.php:150
+msgctxt "verb"
+msgid "Rewrite & Republish"
+msgstr "Omskriv og publiser på nytt"
+
+#. translators: %s: Post title.
+#: src/ui/class-row-actions.php:148
+msgid "Rewrite & Republish &#8220;%s&#8221;"
+msgstr "Omskriv og publiser på nytt &#8220;%s&#8221;"
+
+#: src/admin/views/options.php:192
+msgid "Show these links"
+msgstr "Vis disse lenkene"
+
+#: src/admin/class-options.php:284 src/ui/class-bulk-actions.php:80
+#: src/ui/class-admin-bar.php:110 src/ui/class-admin-bar.php:129
+#: src/ui/class-classic-editor.php:164
+msgid "Rewrite & Republish"
+msgstr "Omskriv og publiser på nytt"
+
+#: src/admin/class-options.php:239
+msgid "In a metabox in the Edit screen"
+msgstr "I en metaboks på redigerisskjermen"
+
+#: src/admin/class-options.php:145
+msgid "Post format"
+msgstr "Innleggsformat"
+
+#: src/class-post-republisher.php:87 src/ui/class-classic-editor.php:210
+msgid "Republish"
+msgstr "Publiser på nytt"
+
+#: src/handlers/class-check-changes-handler.php:117
+msgid "&larr; Return to editor"
+msgstr "&larr; Tilbake til redigering"
+
+#: duplicate-post-admin.php:806
+msgid "Subscribe"
+msgstr "Abonner"
+
+#: src/admin/views/options.php:238
+msgid "Update notice"
+msgstr "Oppdateringsmerknad"
+
+#. translators: 1: Code start tag, 2: Code closing tag, 3: Link start tag to
+#. the template tag documentation, 4: Link closing tag.
+#: src/admin/views/options.php:218
+msgid "You can also use the template tag %1$sduplicate_post_clone_post_link( $link, $before, $after, $id )%2$s. %3$sMore info on the template tag%4$s."
+msgstr "Du kan også bruke mal-elementet %1$sduplicate_post_clone_post_link( $link, $before, $after, $id )%2$s. %3$sMer info om mal-elementet%4$s."
+
+#. translators: %s: Post title.
+#: src/ui/class-row-actions.php:117
+msgid "New draft of &#8220;%s&#8221;"
+msgstr "Ny kladd av &#8220;%s&#8221;"
+
+#: src/ui/class-row-actions.php:92
+msgctxt "verb"
+msgid "Clone"
+msgstr "Klone"
+
+#. translators: %s: post title
+#: src/ui/class-metabox.php:96
+msgid "The original item this was copied from is: <span class=\"duplicate_post_original_item_title_span\">%s</span>"
+msgstr "Det originale elementet dette var kopiert fra er: <span class=\"duplicate_post_original_item_title_span\">%s</span>"
+
+#: src/ui/class-column.php:135
+msgid "The original item this was copied from is: <span class=\"duplicate_post_original_item_title_span\"></span>"
+msgstr "Det originale elementet dette var kopiert fra er: <span class=\"duplicate_post_original_item_title_span\"></span>"
+
+#: src/ui/class-column.php:130 src/ui/class-metabox.php:85
+msgid "Delete reference to original item."
+msgstr "Slett referansen til det originale elementet."
+
+#: duplicate-post-admin.php:795
+msgid "Email Address"
+msgstr "E-postadresse"
+
+#. translators: 1: Yoast
+#: duplicate-post-admin.php:788
+msgid "If you want to stay up to date about all the exciting developments around Duplicate Post, subscribe to the %1$s newsletter!"
+msgstr "Om du ønsker å holde deg  oppdatert om alle den spennende utviklingehn rundt Dupliser innlegg, abonner på nyhetsbrevet %1$s!"
+
+#. Author URI of the plugin
+msgid "https://yoast.com"
+msgstr "https://yoast.com"
+
+#. Author of the plugin
+msgid "Enrico Battocchi & Team Yoast"
+msgstr "Enrico Battocchi & Team Yoast"
+
+#. Plugin URI of the plugin
+msgid "https://yoast.com/wordpress/plugins/duplicate-post/"
+msgstr "https://yoast.com/wordpress/plugins/duplicate-post/"
+
+#. Plugin Name of the plugin
+msgid "Yoast Duplicate Post"
+msgstr "Yoast Dupliser innlegg"
+
+#. translators: %s: Post title.
+#: src/ui/class-row-actions.php:90
+msgid "Clone &#8220;%s&#8221;"
+msgstr "Kopier &#8220;%s&#8221;"
+
+#. translators: %s: Original item link (to view or edit) or title.
+#: src/ui/class-post-states.php:72
+msgid "Original: %s"
+msgstr "Original: %s"
+
+#: src/ui/class-column.php:72
+msgid "Original item"
+msgstr "Originalt element"
+
+#: src/admin/class-options.php:259
+msgid "After the title in the Post list"
+msgstr "Etter overskriften i oversikten over innlegg"
+
+#: src/admin/class-options.php:252
+msgid "You'll also be able to delete the reference to the original item with a checkbox in Quick Edit"
+msgstr "Du vil også kunne slette referansen til det originale elementet med en avkrysningsboks i hurtigredigering"
+
+#: src/admin/class-options.php:249
+msgid "In a column in the Post list"
+msgstr "I en kolonne i oversikten over innlegg"
+
+#: src/admin/class-options.php:242
+msgid "You'll also be able to delete the reference to the original item with a checkbox"
+msgstr "Du vil også kunne slette referansen til det originale elementet med en avkrysningsboks"
+
+#: src/admin/views/options.php:229
+msgid "Show original item:"
+msgstr "Vis originalt element:"
+
+#: src/admin/views/options.php:22
+msgid "Settings sections"
+msgstr "Innstillingssesksjoner"
+
+#: duplicate-post.php:90
+msgid "Settings for Duplicate Post"
+msgstr "Innstillinger for Kopier innlegg"
+
+#. translators: %s: post title
+#: src/class-utils.php:144
+msgid "View &#8220;%s&#8221;"
+msgstr "Vis &#8220;%s&#8221;"
+
+#. translators: %s: post title
+#: src/class-utils.php:135
+msgid "Preview &#8220;%s&#8221;"
+msgstr "Forhåndsvis &#8220;%s&#8221;"
+
+#. translators: %s: post title
+#: src/class-utils.php:124
+msgid "Edit &#8220;%s&#8221;"
+msgstr "Rediger &#8220;%s&#8221;"
+
+#. translators: %s: Yoast Duplicate Post version.
+#: duplicate-post-admin.php:224
+msgid "What's new in Yoast Duplicate Post version %s:"
+msgstr "Hva som er nytt i Yast Dupliser innlegg versjon %s:"
+
+#: src/handlers/class-link-handler.php:62
+#: src/handlers/class-link-handler.php:118
+#: src/handlers/class-link-handler.php:190
+msgid "Current user is not allowed to copy posts."
+msgstr "Denne brukeren har ikke rettigheter til å kopiere innlegg."
+
+#: src/admin/class-options.php:168
+msgid "you probably want this unchecked, unless you have very special requirements"
+msgstr "du vil mest sannsynlig ikke ha behov for dette, unntatt hvis du har spesielle krav"
+
+#: duplicate-post-admin.php:775
+msgid "Documentation"
+msgstr "Dokumentasjon"
+
+#: src/admin/class-options.php:265
+msgid "Show update notice"
+msgstr "Vis oppdateringsnotis"
+
+#: src/admin/class-options.php:310
+msgid "Bulk Actions"
+msgstr "Massehandlinger"
+
+#: src/admin/class-options.php:220
+msgid "You can use * to match zero or more alphanumeric characters or underscores: e.g. field*"
+msgstr "Du kan bruke * for å få treff på null eller flere alfanumeriske tegn eller understreker: eks. felt*"
+
+#: src/admin/class-options.php:189
+msgid "Menu order"
+msgstr "Menyrekkefølge"
+
+#: src/admin/class-options.php:152
+msgid "Author"
+msgstr "Forfatter"
+
+#: src/admin/class-options.php:138
+msgid "Template"
+msgstr "Mal"
+
+#: src/admin/class-options.php:131
+msgid "Featured Image"
+msgstr "Fremhevet bilde"
+
+#. translators: %s: Number of posts copied.
+#: src/watchers/class-link-actions-watcher.php:78
+#: src/watchers/class-bulk-actions-watcher.php:60
+msgid "%s item copied."
+msgid_plural "%s items copied."
+msgstr[0] "%s element kopiert."
+msgstr[1] "%s elementer kopiert."
+
+#: src/admin/views/options.php:176 src/admin/views/options.php:213
+msgid "Whether the links are displayed for custom post types registered by themes or plugins depends on their use of standard WordPress UI elements."
+msgstr "Om lenkene vises for egendefinerte innholdstyper registrert av temaer eller utvidelser kommer an på deres bruk av WordPress' standardelementer for brukergrensesnitt."
+
+#: src/admin/views/options.php:174
+msgid "Select the post types you want the plugin to be enabled for."
+msgstr "Velg innholdstypene du ønsker at utvidelsen skal være aktivert for."
+
+#: src/admin/views/options.php:164 src/admin/views/options.php:168
+msgid "Enable for these post types"
+msgstr "Aktiver for disse innholdstypene"
+
+#: src/admin/views/options.php:157
+msgid "Passwords and contents of password-protected posts may become visible to undesired users and visitors."
+msgstr "Passord on innhold i passordbeskyttede innlegg kan bli synlig for uønskede brukere og besøkende."
+
+#: src/admin/views/options.php:129
+msgid "Show/hide private taxonomies"
+msgstr "Vis/skjul private taksonomier"
+
+#: src/admin/class-options.php:211
+msgid "Add this number to the original menu order (blank or zero to retain the value)"
+msgstr "Legg til dette nummeret i den originale menyrekkefølgen (blant eller null for å beholde verdien)"
+
+#: src/admin/class-options.php:209 src/admin/views/options.php:95
+msgid "Increase menu order by"
+msgstr "Øk menyrekkefølge med"
+
+#: src/admin/class-options.php:183
+msgid "except pingbacks and trackbacks"
+msgstr "unntatt tilbakeping og tilbaketråkk"
+
+#: src/admin/class-options.php:181
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: src/admin/class-options.php:174
+msgid "Children"
+msgstr "Under-innlegg"
+
+#: src/admin/class-options.php:166
+msgid "Attachments"
+msgstr "Vedlegg"
+
+#: src/admin/class-options.php:159
+msgid "Password"
+msgstr "Passord"
+
+#: src/handlers/class-check-changes-handler.php:128
+#: src/admin/class-options.php:124
+msgid "Content"
+msgstr "Innhold"
+
+#: src/handlers/class-check-changes-handler.php:129
+#: src/admin/class-options.php:117
+msgid "Excerpt"
+msgstr "Utdrag"
+
+#: src/admin/class-options.php:110
+msgid "Slug"
+msgstr "Permalenke"
+
+#: src/admin/class-options.php:103
+msgid "Status"
+msgstr "Status"
+
+#: src/admin/class-options.php:96
+msgid "Date"
+msgstr "Dato"
+
+#: src/handlers/class-check-changes-handler.php:127
+#: src/admin/class-options.php:89
+msgid "Title"
+msgstr "Tittel"
+
+#: src/admin/views/options.php:60 src/admin/views/options.php:63
+msgid "Post/page elements to copy"
+msgstr "Innlegg-/sideelementer som skal kopieres"
+
+#: src/admin/views/options.php:48 src/admin/views/options.php:189
+msgid "Display"
+msgstr "Vis"
+
+#: src/admin/views/options.php:39 src/admin/views/options.php:142
+msgid "Permissions"
+msgstr "Tillatelser"
+
+#: src/admin/views/options.php:30 src/admin/views/options.php:57
+msgid "What to copy"
+msgstr "Hva skal kopieres"
+
+#: duplicate-post-admin.php:627
+msgid "Copy features for this post type are not enabled in options page"
+msgstr "Kopieringsfunksjoner for denne innholdstypen er ikke aktivert i alternativer"
+
+#: duplicate-post.php:91
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: src/admin/views/options.php:249
+msgid "Save changes"
+msgstr "Lagre endringer"
+
+#: src/admin/class-options.php:300
+msgid "Admin bar"
+msgstr "Adminbar"
+
+#: src/admin/class-options.php:305
+msgid "Edit screen"
+msgstr "Redigeringsskjerm"
+
+#: src/admin/class-options.php:295
+msgid "Post list"
+msgstr "Innleggsliste"
+
+#: src/admin/views/options.php:204
+msgid "Show links in"
+msgstr "Vis lenker i"
+
+#: src/admin/views/options.php:146 src/admin/views/options.php:149
+msgid "Roles allowed to copy"
+msgstr "Roller som kan kopiere"
+
+#: src/admin/class-options.php:204
+msgid "Suffix to be added after the title, e.g. \"(dup)\" (blank for no suffix)"
+msgstr "Suffiks som legges til opprinnelig tittel, f.eks. \"(kopi)\" (tom for ingen suffiks)"
+
+#: src/admin/class-options.php:202 src/admin/views/options.php:84
+msgid "Title suffix"
+msgstr "Tittelsuffiks"
+
+#: src/admin/class-options.php:197
+msgid "Prefix to be added before the title, e.g. \"Copy of\" (blank for no prefix)"
+msgstr "Prefiks som legges til før opprinnelig tittel, f.eks. \"Kopi av\" (tom for ingen prefiks)"
+
+#: src/admin/class-options.php:195 src/admin/views/options.php:73
+msgid "Title prefix"
+msgstr "Tittelprefiks"
+
+#: src/admin/views/options.php:118 src/admin/views/options.php:122
+msgid "Do not copy these taxonomies"
+msgstr "Ikke kopier følgende taksonomier"
+
+#: src/admin/class-options.php:219
+msgid "Comma-separated list of meta fields that must not be copied."
+msgstr "Kommaseparert liste over meta-felt som ikke får kopieres."
+
+#: src/admin/class-options.php:216 src/admin/views/options.php:107
+msgid "Do not copy these fields"
+msgstr "Ikke kopier disse feltene"
+
+#: src/admin/class-options-page.php:81 src/ui/class-admin-bar.php:94
+#: src/ui/class-metabox.php:58
+msgid "Duplicate Post"
+msgstr "Dupliser innlegg"
+
+#: src/admin/class-options-page.php:80 src/admin/views/options.php:16
+msgid "Duplicate Post Options"
+msgstr "Alternativer for dupliserte innlegg"
+
+#: src/handlers/class-link-handler.php:79
+#: src/handlers/class-link-handler.php:135
+#: src/handlers/class-link-handler.php:207
+msgid "Copy creation failed, could not find original:"
+msgstr "Kopiering feilet, kunne ikke finne originalen:"
+
+#: src/handlers/class-link-handler.php:67
+#: src/handlers/class-link-handler.php:123
+#: src/handlers/class-link-handler.php:195
+msgid "No post to duplicate has been supplied!"
+msgstr "Intet innlegg for kopiering har blitt oppgitt!"
+
+#: src/admin/class-options.php:274 src/ui/class-row-actions.php:119
+msgid "New Draft"
+msgstr "Ny kladd"
+
+#: src/ui/class-admin-bar.php:102 src/ui/class-admin-bar.php:119
+#: src/ui/class-classic-editor.php:135 duplicate-post-common.php:77
+msgid "Copy to a new draft"
+msgstr "Kopier til en ny kladd"
+
+#: src/admin/class-options.php:279 src/ui/class-bulk-actions.php:75
+msgid "Clone"
+msgstr "Klone"

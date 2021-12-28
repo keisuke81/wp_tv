@@ -1,0 +1,158 @@
+# Translation of Plugins - WebSub (FKA. PubSubHubbub) - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - WebSub (FKA. PubSubHubbub) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-21 09:47:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - WebSub (FKA. PubSubHubbub) - Stable (latest release)\n"
+
+#: templates/settings-page.php:2
+msgid "(FKA. PubSubhubbub)"
+msgstr "(früher PubSubhubbub)"
+
+#: templates/settings-page.php:2
+msgid "WebSub"
+msgstr "WebSub"
+
+#. Author URI of the plugin
+msgid "https://github.com/pubsubhubbub/wordpress-pubsubhubbub"
+msgstr "https://github.com/pubsubhubbub/wordpress-pubsubhubbub"
+
+#: includes/class-pubsubhubbub-admin.php:129
+msgid "<a href=\"https://notiz.blog/donate\">Donate</a>"
+msgstr "<a href=\"https://notiz.blog/donate\">Donate</a>"
+
+#: includes/class-pubsubhubbub-admin.php:127
+msgid "<a href=\"https://www.w3.org/community/ostatus/\">OStatus <small>(W3C Community)</small></a>"
+msgstr "<a href=\"https://www.w3.org/community/ostatus/\">OStatus <small>(W3C Community)</small></a>"
+
+#: includes/class-pubsubhubbub-admin.php:126
+msgid "<a href=\"https://indieweb.org/WebSub\">IndieWeb <small>(Wiki)</small></a>"
+msgstr "<a href=\"https://indieweb.org/WebSub\">IndieWeb <small>(Wiki)</small></a>"
+
+#: includes/class-pubsubhubbub-admin.php:117
+msgid "Try out \"<a href=\"https://wordpress.org/plugins/ostatus-for-wordpress/\" target=\"_blank\">OStatus for WordPress</a>\"!"
+msgstr "Probier \"<a href=\"https://wordpress.org/plugins/ostatus-for-wordpress/\" target=\"_blank\">OStatus für WordPress</a>\" aus!"
+
+#: includes/class-pubsubhubbub-admin.php:116
+msgid "OStatus for WordPress"
+msgstr "OStatus für WordPress"
+
+#: includes/class-pubsubhubbub-admin.php:112
+msgid "OStatus"
+msgstr "OStatus"
+
+#: includes/class-pubsubhubbub-admin.php:106
+msgid "WebSub is one of the building blocks of OStauts, wich is the base of the Fediverse."
+msgstr "WebSub ist einer der Bausteine von OStauts, welches die Basis des Fediverse ist."
+
+#: includes/class-pubsubhubbub-admin.php:104
+#: includes/class-pubsubhubbub-admin.php:108
+msgid "The Fediverse"
+msgstr "Das Fediverse"
+
+#: includes/class-pubsubhubbub-admin.php:96
+msgid "Try out \"<a href=\"https://wordpress.org/plugins/indieweb/\" target=\"_blank\">IndieWeb for WordPress</a>\""
+msgstr "Probier \"<a href=\"https://wordpress.org/plugins/indieweb/\" target=\"_blank\">IndieWeb für WordPress</a>\" aus."
+
+#: includes/class-pubsubhubbub-admin.php:95
+msgid "IndieWeb for WordPress"
+msgstr "IndieWeb für WordPress"
+
+#: includes/class-pubsubhubbub-admin.php:80
+msgid "WebSub is a proposed standard of the IndieWeb stack."
+msgstr "WebSub ist ein vorgeschlagener Standard des IndieWeb-Stacks."
+
+#: templates/settings-page.php:17
+msgid "Hubs <small>(one per line)</small>"
+msgstr "Hubs <small>(eines pro Linie)</small>"
+
+#: includes/class-pubsubhubbub-publisher.php:85
+msgid "Please specify a topic url"
+msgstr "Bitte geben Sie eine Themen-URL an"
+
+#. translators: %s is the $hub_url
+#: includes/class-pubsubhubbub-publisher.php:81
+msgid "The specified hub url does not appear to be valid: %s"
+msgstr "Die angegebene Hub-URL scheint nicht gültig zu sein: %s"
+
+#: includes/class-pubsubhubbub-publisher.php:76
+msgid "Please specify a hub url"
+msgstr "Bitte geben Sie eine Hub-URL an"
+
+#: includes/class-pubsubhubbub-admin.php:125
+msgid "<a href=\"https://www.w3.org/TR/websub/\">W3C Spec</a>"
+msgstr "<a href=\"https://www.w3.org/TR/websub/\">W3C Spec</a>"
+
+#: includes/class-pubsubhubbub-admin.php:124
+msgid "<a href=\"https://websub.rocks/\">Test suite</a>"
+msgstr "<a href=\"https://websub.rocks/\">Test suite</a>"
+
+#: includes/class-pubsubhubbub-admin.php:123
+msgid "For more information:"
+msgstr "Für weitere Informationen:"
+
+#: includes/class-pubsubhubbub-admin.php:92
+msgid "You can post anything you want, in any format you want, with no one monitoring you. In addition, you share simple readable links such as example.com/ideas. These links are permanent and will always work."
+msgstr "Du kannst alles posten, was du willst, in jedem Format, das du willst, ohne dass dich jemand überwacht. Außerdem teilst du einfache lesbare Links wie example.com/ideas. Diese Links sind dauerhaft und werden immer funktionieren."
+
+#: includes/class-pubsubhubbub-admin.php:91
+msgid "You are in control"
+msgstr "Du hast die Kontrolle"
+
+#: includes/class-pubsubhubbub-admin.php:88
+msgid "Your articles and status messages can go to all services, not just one, allowing you to engage with everyone. Even replies and likes on other services can come back to your site so they’re all in one place."
+msgstr "Deine Artikel und Statusnachrichten können sich auf alle Dienste beziehen, nicht nur auf einen. So kannst du mit jedem Kontakt aufnehmen. Auch Antworten und Likes auf anderen Diensten können auf deine Website zurück verweisen, sodass sie alle an einem Ort sind."
+
+#: includes/class-pubsubhubbub-admin.php:87
+msgid "You are better connected"
+msgstr "Du bist besser vernetzt"
+
+#: includes/class-pubsubhubbub-admin.php:83
+msgid "Your content is yours"
+msgstr "Dein Inhalt gehört dir"
+
+#: includes/class-pubsubhubbub-admin.php:81
+msgid "The IndieWeb is a people-focused alternative to the \"corporate web\"."
+msgstr "Das IndieWeb ist eine auf Menschen fokussierte Alternative zum \"Corporate Web\"."
+
+#: includes/class-pubsubhubbub-admin.php:78
+msgid "The IndieWeb"
+msgstr "Das IndieWeb"
+
+#: includes/class-pubsubhubbub-admin.php:69
+msgid "Hub"
+msgstr "Hub"
+
+#: includes/class-pubsubhubbub-admin.php:58
+msgid "Terms"
+msgstr "Begriffe"
+
+#: includes/class-pubsubhubbub-admin.php:50
+msgid "Overview"
+msgstr "Übersicht"
+
+#: includes/class-pubsubhubbub-admin.php:39
+msgid "The WebSub/PubSubHubbub endpoints"
+msgstr "Die WebSub/PubSubHubbub Endpunkte"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/pubsubhubbub/wordpress-pubsubhubbub/"
+msgstr "https://github.com/pubsubhubbub/wordpress-pubsubhubbub/"
+
+#. Plugin Name of the plugin
+msgid "WebSub/PubSubHubbub"
+msgstr "WebSub/PubSubHubbub"
+
+#. Author of the plugin
+msgid "Josh Fraser and Matthias Pfefferle"
+msgstr "Josh Fraser und Matthias Pfefferle"
+
+#. Description of the plugin
+msgid "A better way to tell the world when your blog is updated."
+msgstr "Ein besserer Weg um der Welt mitzuteilen, dass sich etwas auf deinem Blog geändert hat."

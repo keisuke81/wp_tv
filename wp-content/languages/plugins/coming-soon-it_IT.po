@@ -1,0 +1,242 @@
+# Translation of Plugins - Coming Soon Page, Maintenance Mode &amp; Landing Pages by SeedProd - Stable (latest release) in Italian
+# This file is distributed under the same license as the Plugins - Coming Soon Page, Maintenance Mode &amp; Landing Pages by SeedProd - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-24 22:23:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: it\n"
+"Project-Id-Version: Plugins - Coming Soon Page, Maintenance Mode &amp; Landing Pages by SeedProd - Stable (latest release)\n"
+
+#: resources/views/debug.php:24
+msgid "Debug Tools"
+msgstr "Strumenti di debug"
+
+#: app/routes.php:125 app/routes.php:126
+msgid "Debug"
+msgstr "Debug"
+
+#: app/routes.php:116 app/routes.php:117
+msgid "Import/Export"
+msgstr "Importa/Esporta"
+
+#: app/routes.php:40 app/routes.php:41
+msgid "Pages"
+msgstr "Pagine"
+
+#: app/settings.php:40
+msgid "Error Updating Settings"
+msgstr "Errore durante l'aggiornamento delle impostazioni"
+
+#: app/settings.php:35
+msgid "Settings Updated"
+msgstr "Impostazioni aggiornate"
+
+#: app/functions-addons.php:188 app/functions-addons.php:230
+msgid "Inactive"
+msgstr "Non attivo"
+
+#: app/functions-addons.php:148
+msgid "Addon activated."
+msgstr "Add-on attivato."
+
+#: app/functions-addons.php:146
+msgid "Plugin activated."
+msgstr "Plugin attivato."
+
+#: app/functions-addons.php:112
+msgid "Addon deactivated."
+msgstr "Add-on disattivato."
+
+#: app/functions-addons.php:110
+msgid "Plugin deactivated."
+msgstr "Plugin disattivato."
+
+#: app/lpage.php:119 app/lpage.php:121
+msgid "New Page"
+msgstr "Nuova pagina"
+
+#: app/license.php:133
+msgid "Invalid License Key."
+msgstr "Chiave di licenza non valida."
+
+#: app/license.php:13
+msgid "Upgrade PHP"
+msgstr "Aggiorna PHP"
+
+#: app/functions-utils.php:164
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: app/functions-utils.php:158
+msgid "Anchor"
+msgstr "Ancora"
+
+#: app/functions-utils.php:156
+msgid "Nav Menu"
+msgstr "Menu di navigazione"
+
+#: app/functions-utils.php:149
+msgid "Icon"
+msgstr "Icona"
+
+#: app/functions-utils.php:147
+msgid "Progress Bar"
+msgstr "Barra di avanzamento"
+
+#: app/functions-utils.php:144
+msgid "Social Sharing"
+msgstr "Condivisione social"
+
+#: app/functions-utils.php:143
+msgid "Social Profiles"
+msgstr "Profili social"
+
+#: app/functions-utils.php:140
+msgid "Countdown"
+msgstr "Conto alla rovescia"
+
+#: app/functions-utils.php:125
+msgid "Video"
+msgstr "Video"
+
+#: app/functions-utils.php:124
+msgid "Image"
+msgstr "Immagine"
+
+#: app/functions-utils.php:123
+msgid "Button"
+msgstr "Pulsante"
+
+#: app/functions-utils.php:122
+msgid "List"
+msgstr "Elenco"
+
+#: app/functions-utils.php:105
+msgid "Column"
+msgstr "Colonna"
+
+#: app/review.php:112
+msgid "~ John Turner<br>Co-Founder of SeedProd"
+msgstr "~ John Turner<br>Co-fondatore di SeedProd"
+
+#: app/review.php:107
+msgid "No thanks"
+msgstr "No grazie"
+
+#: app/includes/upgrade.php:115 app/includes/upgrade.php:121
+#: app/includes/upgrade.php:172
+msgid "Plugin installed & activated."
+msgstr "Plugin installato e attivato."
+
+#: resources/views/debug.php:1
+msgid "System Information"
+msgstr "Informazioni di sistema"
+
+#: resources/data-templates/basic-page.php:659
+msgid "Name"
+msgstr "Nome"
+
+#: resources/data-templates/basic-page.php:659
+msgid "Enter Your Name"
+msgstr "Inserisci il tuo nome"
+
+#: resources/data-templates/basic-page.php:658
+msgid "Email"
+msgstr "Email"
+
+#: resources/data-templates/basic-page.php:658
+msgid "Enter Your Email"
+msgstr "Inserisci la tua email"
+
+#. Plugin Name of the plugin
+msgid "Coming Soon Page, Maintenance Mode & Landing Pages by SeedProd"
+msgstr "Coming Soon Page, Maintenance Mode & Landing Pages by SeedProd"
+
+#: app/functions-utils.php:131
+msgid "Giveaway"
+msgstr "Giveaway"
+
+#: app/includes/skin53.php:88 app/includes/skin.php:88
+msgid "There was an error installing the addon. Please try again."
+msgstr "Si è verificato un errore durante l'installazione dell'add-on. Riprova."
+
+#: app/functions-addons.php:186 app/functions-addons.php:228
+msgid "Active"
+msgstr "Attivo"
+
+#: app/functions-addons.php:191 app/functions-addons.php:233
+msgid "Not Installed"
+msgstr "Non installato"
+
+#: app/routes.php:50 app/routes.php:51
+msgid "Subscribers"
+msgstr "Sottoscrittori"
+
+#: app/routes.php:59 app/routes.php:60
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: app/review.php:116
+msgid "I already did"
+msgstr "L'ho già fatto"
+
+#: app/review.php:115
+msgid "Nope, maybe later"
+msgstr "No, magari più tardi"
+
+#: app/review.php:114
+msgid "Ok, you deserve it"
+msgstr "Ok, te lo meriti"
+
+#: app/bootstrap.php:309
+msgid "Please rate <strong>SeedProd</strong> <a href=\"%s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%s\" target=\"_blank\">WordPress.org</a> to help us spread the word. Thank you from the SeedProd team!"
+msgstr "Valuta <strong>Coming Soon Page & Maintenance Mode by SeedProd</strong> <a href=\"%s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> su <a href=\"%s\" target=\"_blank\">WordPress.org</a> per aiutare a spargere la voce. Grazie dal team SeedProd!"
+
+#: app/functions-utils.php:166
+msgid "Custom HTML"
+msgstr "HTML personalizzato"
+
+#. Author of the plugin
+msgid "SeedProd"
+msgstr "SeedProd"
+
+#. Description of the plugin
+msgid "The #1 Coming Soon Page, Under Construction & Maintenance Mode plugin for WordPress."
+msgstr "Il plugin WordPress n°1 per le modalità coming soon, in costruzione e manutenzione."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.seedprod.com"
+msgstr "https://www.seedprod.com"
+
+#: app/routes.php:97 app/routes.php:98
+msgid "Templates"
+msgstr "Template"
+
+#: app/functions-utils.php:121
+msgid "Text"
+msgstr "Testo"
+
+#: app/functions-utils.php:116
+msgid "Headline"
+msgstr "Intestazione"
+
+#: app/review.php:99
+msgid "Yes"
+msgstr "Sì"
+
+#: app/backwards/csp4-functions.php:11
+msgid "Please enter your settings."
+msgstr "Inserisci le tue impostazioni."
+
+#: app/admin-bar-menu.php:44
+msgid "Maintenance Mode Active"
+msgstr "Modalità manutenzione attiva"
+
+#: app/admin-bar-menu.php:42
+msgid "Coming Soon Mode Active"
+msgstr "Modalità Coming soon attiva"

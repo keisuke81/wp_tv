@@ -1,0 +1,546 @@
+# Translation of Plugins - Yoast Duplicate Post - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Yoast Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-21 13:39:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Yoast Duplicate Post - Stable (latest release)\n"
+
+#: src/handlers/class-check-changes-handler.php:135
+msgid "Added"
+msgstr "追加されました"
+
+#: src/handlers/class-check-changes-handler.php:134
+msgid "Removed"
+msgstr "削除されました"
+
+#: duplicate-post-admin.php:227
+msgid "Now also available in Elementor: the powerful Rewrite & Republish feature. Updating your content has never been easier!"
+msgstr "Elementor でも利用できるようになりました: 強力な書き換え & 再公開機能。 コンテンツの更新がこれまでになく簡単になりました。"
+
+#: src/class-post-republisher.php:226
+msgid "An error occurred while deleting the Rewrite & Republish copy."
+msgstr "書き換え & 再公開コピーの削除中にエラーが発生しました。"
+
+#. Description of the plugin
+msgid "The go-to tool for cloning posts and pages, including the powerful Rewrite & Republish feature."
+msgstr "強力な書き換えと再公開機能を含む、投稿と固定ページ複製用の頼りになるツール。"
+
+#. translators: 1: The page title with a link to the frontend page, 2: The
+#. scheduled date and time.
+#: src/ui/class-classic-editor.php:271
+msgid "This rewritten page %1$s is now scheduled to replace the original page. It will be published on %2$s."
+msgstr "この書き換え済みページ %1$s は、元のページを置き換えるよう予約されています。%2$sに公開されます。"
+
+#. translators: 1: The post title with a link to the frontend page, 2: The
+#. scheduled date and time.
+#: src/ui/class-classic-editor.php:258
+msgid "This rewritten post %1$s is now scheduled to replace the original post. It will be published on %2$s."
+msgstr "この書き換え済み投稿 %1$s は、元の投稿を置き換えるよう予約されています。%2$sに公開されます。"
+
+#: src/ui/class-classic-editor.php:232
+msgid "Schedule republish"
+msgstr "再公開予約"
+
+#. translators: %s: Date on which the post is to be republished.
+#: src/ui/class-classic-editor.php:215
+msgid "Republish on: %s"
+msgstr "再公開日: %s"
+
+#: src/ui/class-classic-editor.php:192
+msgid "Compare"
+msgstr "比較"
+
+#: src/ui/class-classic-editor.php:189
+msgid "Do you want to compare your changes with the original version before merging? Please save any changes first."
+msgstr "統合する前に、変更点を元のバージョンと比較しますか ? 最初に変更を保存してください。"
+
+#. translators: %s: Original item link (to view or edit) or title.
+#: src/ui/class-post-states.php:66
+msgid "Rewrite & Republish of %s"
+msgstr "%s の書き換え & 再公開"
+
+#: src/ui/class-row-actions.php:150
+msgctxt "verb"
+msgid "Rewrite & Republish"
+msgstr "書き換え & 再公開"
+
+#. translators: %s: Post title.
+#: src/ui/class-row-actions.php:148
+msgid "Rewrite & Republish &#8220;%s&#8221;"
+msgstr "「%s」を書き換え & 再公開"
+
+#: src/admin/views/options.php:192
+msgid "Show these links"
+msgstr "リンクを表示"
+
+#: src/admin/views/options.php:155
+msgid "Warning: users will be able to copy, rewrite and republish all posts, even those of other users."
+msgstr "警告: ユーザーは他のユーザーの投稿も含め、すべての投稿を複製、書き換え、再公開できるようになります。"
+
+#: src/admin/class-options.php:284 src/ui/class-bulk-actions.php:80
+#: src/ui/class-admin-bar.php:110 src/ui/class-admin-bar.php:129
+#: src/ui/class-classic-editor.php:164
+msgid "Rewrite & Republish"
+msgstr "書き換え & 再公開"
+
+#: src/admin/class-options.php:239
+msgid "In a metabox in the Edit screen"
+msgstr "編集画面のメタボックス内"
+
+#: src/admin/class-options.php:145
+msgid "Post format"
+msgstr "投稿フォーマット"
+
+#: src/watchers/class-original-post-watcher.php:54
+msgid "The original post has been edited in the meantime. If you click \"Republish\", this rewritten post will replace the original post."
+msgstr "その間に元の投稿が編集されました。「再公開」をクリックすると、この書き換えられた投稿が元の投稿に置き換わります。"
+
+#. translators: %s: Number of posts copied.
+#: src/watchers/class-bulk-actions-watcher.php:84
+msgid "%s post duplicated. You can now start rewriting your post in the duplicate of the original post. Once you choose to republish it your changes will be merged back into the original post."
+msgid_plural "%s posts duplicated. You can now start rewriting your posts in the duplicates of the original posts. Once you choose to republish them your changes will be merged back into the original post."
+msgstr[0] "%s件の投稿を複製しました。これで、元の投稿の複製を使って投稿の書き換えを開始できます。再公開を選択すると、変更は元の投稿に統合されます。"
+
+#: src/watchers/class-republished-post-watcher.php:69
+msgid "Your original post has been replaced with the rewritten post. You are now viewing the (rewritten) original post."
+msgstr "元の投稿は書き換え済み投稿と置き換えられています。現在、(書き換え済みの) 元の投稿を表示しています。"
+
+#. translators: %1$s: scheduled date of the copy, %2$s: scheduled time of the
+#. copy.
+#: src/watchers/class-copied-post-watcher.php:70
+msgid "A duplicate of this post was made, which is scheduled to replace this post on %1$s at %2$s."
+msgstr "この投稿の複製が作成されました。%1$s @ %2$s にこの投稿を置き換える予定です。"
+
+#: src/watchers/class-copied-post-watcher.php:62
+msgid "A duplicate of this post was made. Please note that any changes you make to this post will be replaced when the duplicated version is republished."
+msgstr "この投稿の複製が作成されました。この投稿に加えた変更は、複製版が再公開された際に置き換えられることに注意してください。"
+
+#: src/watchers/class-copied-post-watcher.php:54
+msgid "You can only make one Rewrite & Republish duplicate at a time, and a duplicate of this post already exists in the trash. Permanently delete it if you want to make a new duplicate."
+msgstr "一度に複製できるのは1つの書き換えと再公開のみであり、この記事の複製はすでにゴミ箱にあります。新しい複製を作成する場合は、完全に削除してください。"
+
+#: src/watchers/class-link-actions-watcher.php:118
+msgid "You can now start rewriting your post in this duplicate of the original post. If you click \"Republish\", this rewritten post will replace the original post."
+msgstr "これで、元の投稿のこの複製で投稿の書き換えを開始できます。「再公開」をクリックすると、書き換えた投稿が元の投稿を置き換えます。"
+
+#: src/watchers/class-link-actions-watcher.php:102
+msgid "You can now start rewriting your post in this duplicate of the original post. If you click \"Republish\", your changes will be merged into the original post and you’ll be redirected there."
+msgstr "これで、元の投稿のこの複製で投稿の書き換えを開始できます。「再公開」をクリックすると、変更が元の投稿に統合され、そこにリダイレクトされます。"
+
+#: src/class-post-republisher.php:334
+msgid "An error occurred while republishing the post."
+msgstr "記事の再公開中にエラーが発生しました。"
+
+#: src/class-post-republisher.php:87 src/ui/class-classic-editor.php:210
+msgid "Republish"
+msgstr "再公開"
+
+#: src/handlers/class-link-handler.php:215
+msgid "You cannot create a copy for Rewrite & Republish if the original is not published or if it already has a copy."
+msgstr "オリジナル版が公開されていない場合、またはすでに複製がある場合は、書き換え & 再公開用の複製を作成できません。"
+
+#: src/handlers/class-link-handler.php:95
+#: src/handlers/class-link-handler.php:151
+#: src/handlers/class-link-handler.php:223
+msgid "Copy creation failed, could not create a copy."
+msgstr "複製の作成に失敗しました。複製を作成できませんでした。"
+
+#: src/handlers/class-link-handler.php:87
+#: src/handlers/class-link-handler.php:143
+msgid "You cannot create a copy of a post which is intended for Rewrite & Republish."
+msgstr "書き換え & 再公開用の投稿の複製を作成することはできません。"
+
+#: src/handlers/class-check-changes-handler.php:117
+msgid "&larr; Return to editor"
+msgstr "&larr; エディターに戻る"
+
+#. translators: %s: original item link (to view or edit) or title.
+#: src/handlers/class-check-changes-handler.php:112
+msgid "Compare changes of duplicated post with the original (&#8220;%s&#8221;)"
+msgstr "複製投稿の変更を元の投稿と比較 (「%s」)"
+
+#: src/handlers/class-check-changes-handler.php:98
+msgid "Changes overview failed, could not find original post."
+msgstr "変更の概要を取得できません。元の投稿が見つかりませんでした。"
+
+#. translators: %s: post ID.
+#: src/handlers/class-check-changes-handler.php:85
+msgid "Changes overview failed, could not find post with ID %s."
+msgstr "変更の概要を取得できません。ID %s の投稿が見つかりませんでした。"
+
+#: src/handlers/class-check-changes-handler.php:69
+msgid "No post has been supplied!"
+msgstr "投稿が指定されていません。"
+
+#: duplicate-post-admin.php:621
+msgid "You aren't allowed to duplicate this post"
+msgstr "この投稿を複製する権限がありません"
+
+#. translators: %s: Yoast Duplicate Post version.
+#: duplicate-post-admin.php:233
+msgid "Read more about what’s new in Yoast Duplicate Post %s!"
+msgstr "Yoast Duplicate Post %s の変更点についてさらに読む。"
+
+#: duplicate-post-admin.php:806
+msgid "Subscribe"
+msgstr "購読"
+
+#: src/admin/views/options.php:238
+msgid "Update notice"
+msgstr "更新通知"
+
+#. translators: 1: Code start tag, 2: Code closing tag, 3: Link start tag to
+#. the template tag documentation, 4: Link closing tag.
+#: src/admin/views/options.php:218
+msgid "You can also use the template tag %1$sduplicate_post_clone_post_link( $link, $before, $after, $id )%2$s. %3$sMore info on the template tag%4$s."
+msgstr "テンプレートタグ %1$sduplicate_post_clone_post_link( $link, $before, $after, $id )%2$s も使用できます。%3$sテンプレートタグの詳細情報%4$s。"
+
+#. translators: %s: Post title.
+#: src/ui/class-row-actions.php:117
+msgid "New draft of &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221; の新規下書き"
+
+#: src/ui/class-row-actions.php:92
+msgctxt "verb"
+msgid "Clone"
+msgstr "複製"
+
+#. translators: %s: post title
+#: src/ui/class-metabox.php:96
+msgid "The original item this was copied from is: <span class=\"duplicate_post_original_item_title_span\">%s</span>"
+msgstr "複製元の項目: <span class=\"duplicate_post_original_item_title_span\">%s</span>"
+
+#: src/ui/class-column.php:135
+msgid "The original item this was copied from is: <span class=\"duplicate_post_original_item_title_span\"></span>"
+msgstr "複製元の項目: <span class=\"duplicate_post_original_item_title_span\"></span>"
+
+#: src/ui/class-column.php:130 src/ui/class-metabox.php:85
+msgid "Delete reference to original item."
+msgstr "元の項目への参照を削除します。"
+
+#: duplicate-post-admin.php:795
+msgid "Email Address"
+msgstr "メールアドレス"
+
+#. translators: 1: Yoast
+#: duplicate-post-admin.php:788
+msgid "If you want to stay up to date about all the exciting developments around Duplicate Post, subscribe to the %1$s newsletter!"
+msgstr "Duplicate Post に関するすべての開発最新情報を入手したい場合は、%1$s ニュースレターを購読してください。"
+
+#. Author URI of the plugin
+msgid "https://yoast.com"
+msgstr "https://yoast.com"
+
+#. Author of the plugin
+msgid "Enrico Battocchi & Team Yoast"
+msgstr "Enrico Battocchi & Team Yoast"
+
+#. Plugin URI of the plugin
+msgid "https://yoast.com/wordpress/plugins/duplicate-post/"
+msgstr "https://yoast.com/wordpress/plugins/duplicate-post/"
+
+#. Plugin Name of the plugin
+msgid "Yoast Duplicate Post"
+msgstr "Yoast Duplicate Post"
+
+#. translators: %s: Post title.
+#: src/ui/class-row-actions.php:90
+msgid "Clone &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221; を複製"
+
+#. translators: %s: Original item link (to view or edit) or title.
+#: src/ui/class-post-states.php:72
+msgid "Original: %s"
+msgstr "複製元: %s"
+
+#: src/ui/class-column.php:72
+msgid "Original item"
+msgstr "複製元の項目"
+
+#: src/admin/class-options.php:259
+msgid "After the title in the Post list"
+msgstr "投稿一覧の各タイトルの後に表示"
+
+#: src/admin/class-options.php:252
+msgid "You'll also be able to delete the reference to the original item with a checkbox in Quick Edit"
+msgstr "クイック編集のチェックボックスを使って、元の項目への参照を削除することもできます"
+
+#: src/admin/class-options.php:249
+msgid "In a column in the Post list"
+msgstr "投稿一覧にカラムを追加して表示"
+
+#: src/admin/class-options.php:242
+msgid "You'll also be able to delete the reference to the original item with a checkbox"
+msgstr "チェックボックスを使って、元の項目への参照を削除することもできます"
+
+#: src/admin/views/options.php:229
+msgid "Show original item:"
+msgstr "複製元を表示: "
+
+#: src/admin/views/options.php:22
+msgid "Settings sections"
+msgstr "設定のセクション"
+
+#: duplicate-post.php:90
+msgid "Settings for Duplicate Post"
+msgstr "Duplicate Post の設定"
+
+#. translators: %s: post title
+#: src/class-utils.php:144
+msgid "View &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221; を表示"
+
+#. translators: %s: post title
+#: src/class-utils.php:135
+msgid "Preview &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221; をプレビュー"
+
+#. translators: %s: post title
+#: src/class-utils.php:124
+msgid "Edit &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221; を編集"
+
+#. translators: %s: Yoast Duplicate Post version.
+#: duplicate-post-admin.php:224
+msgid "What's new in Yoast Duplicate Post version %s:"
+msgstr "Yoast Duplicate Post バージョン %s の変更点:"
+
+#: src/handlers/class-link-handler.php:62
+#: src/handlers/class-link-handler.php:118
+#: src/handlers/class-link-handler.php:190
+msgid "Current user is not allowed to copy posts."
+msgstr "現在のユーザーは投稿をコピーする権限がありません。"
+
+#: src/admin/class-options.php:168
+msgid "you probably want this unchecked, unless you have very special requirements"
+msgstr "特別な要件でない限り、チェックしないことをお勧めします"
+
+#: duplicate-post-admin.php:775
+msgid "Documentation"
+msgstr "ドキュメント"
+
+#: src/admin/class-options.php:265
+msgid "Show update notice"
+msgstr "更新通知を表示する"
+
+#: src/admin/class-options.php:310
+msgid "Bulk Actions"
+msgstr "一括操作"
+
+#: src/admin/class-options.php:220
+msgid "You can use * to match zero or more alphanumeric characters or underscores: e.g. field*"
+msgstr "*を使用して、0個以上の英数字またはアンダースコアと一致させることができます。例. field*"
+
+#: src/admin/class-options.php:189
+msgid "Menu order"
+msgstr "メニュー順"
+
+#: src/admin/class-options.php:152
+msgid "Author"
+msgstr "作成者"
+
+#: src/admin/class-options.php:138
+msgid "Template"
+msgstr "テンプレート"
+
+#: src/admin/class-options.php:131
+msgid "Featured Image"
+msgstr "アイキャッチ画像"
+
+#. translators: %s: Number of posts copied.
+#: src/watchers/class-link-actions-watcher.php:78
+#: src/watchers/class-bulk-actions-watcher.php:60
+msgid "%s item copied."
+msgid_plural "%s items copied."
+msgstr[0] "%s アイテムがコピーされます。"
+
+#: src/admin/views/options.php:176 src/admin/views/options.php:213
+msgid "Whether the links are displayed for custom post types registered by themes or plugins depends on their use of standard WordPress UI elements."
+msgstr "テーマまたはプラグインによって登録されたカスタム投稿タイプのリンクが表示されるかどうかは、それらが標準の WordPress UI 要素を使っているかどうかによります。"
+
+#: src/admin/views/options.php:174
+msgid "Select the post types you want the plugin to be enabled for."
+msgstr "プラグインを有効化したい投稿タイプを選択してください。"
+
+#: src/admin/views/options.php:164 src/admin/views/options.php:168
+msgid "Enable for these post types"
+msgstr "これらの投稿タイプに対して有効化"
+
+#: src/admin/views/options.php:157
+msgid "Passwords and contents of password-protected posts may become visible to undesired users and visitors."
+msgstr "対象ではないユーザーや訪問者に対し、パスワード保護された投稿のパスワードとコンテンツが閲覧可能になる可能性があります。"
+
+#: src/admin/views/options.php:129
+msgid "Show/hide private taxonomies"
+msgstr "タクソノミーの表示 / 非表示を切り替える"
+
+#: src/admin/class-options.php:211
+msgid "Add this number to the original menu order (blank or zero to retain the value)"
+msgstr "元のメニューの順序にこの数字を追加 (同じ値にする場合は空または0を入力)"
+
+#: src/admin/class-options.php:209 src/admin/views/options.php:95
+msgid "Increase menu order by"
+msgstr "メニュー順を増加する数"
+
+#: src/admin/class-options.php:183
+msgid "except pingbacks and trackbacks"
+msgstr "ピンバックとトラックバック以外"
+
+#: src/admin/class-options.php:181
+msgid "Comments"
+msgstr "コメント"
+
+#: src/admin/class-options.php:174
+msgid "Children"
+msgstr "子要素"
+
+#: src/admin/class-options.php:166
+msgid "Attachments"
+msgstr "添付ファイル"
+
+#: src/admin/class-options.php:159
+msgid "Password"
+msgstr "パスワード"
+
+#: src/handlers/class-check-changes-handler.php:128
+#: src/admin/class-options.php:124
+msgid "Content"
+msgstr "コンテンツ"
+
+#: src/handlers/class-check-changes-handler.php:129
+#: src/admin/class-options.php:117
+msgid "Excerpt"
+msgstr "抜粋"
+
+#: src/admin/class-options.php:110
+msgid "Slug"
+msgstr "スラッグ"
+
+#: src/admin/class-options.php:103
+msgid "Status"
+msgstr "状態"
+
+#: src/admin/class-options.php:96
+msgid "Date"
+msgstr "日付"
+
+#: src/handlers/class-check-changes-handler.php:127
+#: src/admin/class-options.php:89
+msgid "Title"
+msgstr "タイトル"
+
+#: src/admin/views/options.php:60 src/admin/views/options.php:63
+msgid "Post/page elements to copy"
+msgstr "複製する投稿/ページの要素"
+
+#: src/admin/views/options.php:48 src/admin/views/options.php:189
+msgid "Display"
+msgstr "表示"
+
+#: src/admin/views/options.php:39 src/admin/views/options.php:142
+msgid "Permissions"
+msgstr "権限"
+
+#: src/admin/views/options.php:30 src/admin/views/options.php:57
+msgid "What to copy"
+msgstr "複製元"
+
+#: duplicate-post-admin.php:627
+msgid "Copy features for this post type are not enabled in options page"
+msgstr "この投稿タイプに対する複製機能が設定ページで有効化されていません"
+
+#: duplicate-post.php:91
+msgid "Settings"
+msgstr "設定"
+
+#: src/admin/views/options.php:249
+msgid "Save changes"
+msgstr "変更を保存"
+
+#: src/admin/class-options.php:300
+msgid "Admin bar"
+msgstr "管理バー"
+
+#: src/admin/class-options.php:305
+msgid "Edit screen"
+msgstr "編集画面"
+
+#: src/admin/class-options.php:295
+msgid "Post list"
+msgstr "投稿一覧"
+
+#: src/admin/views/options.php:204
+msgid "Show links in"
+msgstr "リンクを表示する場所"
+
+#: src/admin/views/options.php:146 src/admin/views/options.php:149
+msgid "Roles allowed to copy"
+msgstr "複製可能な権限"
+
+#: src/admin/class-options.php:204
+msgid "Suffix to be added after the title, e.g. \"(dup)\" (blank for no suffix)"
+msgstr "タイトルの後に追加するテキスト 例: \"(複製) \" (何も付けたくない場合は空欄)"
+
+#: src/admin/class-options.php:202 src/admin/views/options.php:84
+msgid "Title suffix"
+msgstr "タイトルの接尾辞"
+
+#: src/admin/class-options.php:197
+msgid "Prefix to be added before the title, e.g. \"Copy of\" (blank for no prefix)"
+msgstr "タイトルの前に追加するテキスト 例: \"複製: \" (何も付けたくない場合は空欄)"
+
+#: src/admin/class-options.php:195 src/admin/views/options.php:73
+msgid "Title prefix"
+msgstr "タイトルの接頭辞"
+
+#: src/admin/views/options.php:118 src/admin/views/options.php:122
+msgid "Do not copy these taxonomies"
+msgstr "複製しないタクソノミー"
+
+#: src/admin/class-options.php:219
+msgid "Comma-separated list of meta fields that must not be copied."
+msgstr "複製しないメタフィールドのコンマ区切りリスト。"
+
+#: src/admin/class-options.php:216 src/admin/views/options.php:107
+msgid "Do not copy these fields"
+msgstr "複製しないカスタムフィールド"
+
+#: src/admin/class-options-page.php:81 src/ui/class-admin-bar.php:94
+#: src/ui/class-metabox.php:58
+msgid "Duplicate Post"
+msgstr "Duplicate Post"
+
+#: src/admin/class-options-page.php:80 src/admin/views/options.php:16
+msgid "Duplicate Post Options"
+msgstr "Duplicate Post 設定"
+
+#: src/handlers/class-link-handler.php:79
+#: src/handlers/class-link-handler.php:135
+#: src/handlers/class-link-handler.php:207
+msgid "Copy creation failed, could not find original:"
+msgstr "複製の作成に失敗しました。複製元が見つかりません:"
+
+#: src/handlers/class-link-handler.php:67
+#: src/handlers/class-link-handler.php:123
+#: src/handlers/class-link-handler.php:195
+msgid "No post to duplicate has been supplied!"
+msgstr "複製元の投稿が指定されていません !"
+
+#: src/admin/class-options.php:274 src/ui/class-row-actions.php:119
+msgid "New Draft"
+msgstr "新規下書き"
+
+#: src/ui/class-admin-bar.php:102 src/ui/class-admin-bar.php:119
+#: src/ui/class-classic-editor.php:135 duplicate-post-common.php:77
+msgid "Copy to a new draft"
+msgstr "新規下書きとして複製"
+
+#: src/admin/class-options.php:279 src/ui/class-bulk-actions.php:75
+msgid "Clone"
+msgstr "複製"

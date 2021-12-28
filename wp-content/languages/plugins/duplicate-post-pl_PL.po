@@ -1,0 +1,299 @@
+# Translation of Plugins - Yoast Duplicate Post - Stable (latest release) in Polish
+# This file is distributed under the same license as the Plugins - Yoast Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-22 11:48:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pl\n"
+"Project-Id-Version: Plugins - Yoast Duplicate Post - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://yoast.com"
+msgstr "https://yoast.com"
+
+#. translators: %s: Post title.
+#: src/ui/class-row-actions.php:117
+msgid "New draft of &#8220;%s&#8221;"
+msgstr "Nowy szkic &#8220;%s&#8221;"
+
+#: src/ui/class-column.php:130 src/ui/class-metabox.php:85
+msgid "Delete reference to original item."
+msgstr "Usuń odniesienia do oryginalnego elementu."
+
+#. Author of the plugin
+msgid "Enrico Battocchi & Team Yoast"
+msgstr "Enrico Battocchi i zespół Yoast"
+
+#. Plugin URI of the plugin
+msgid "https://yoast.com/wordpress/plugins/duplicate-post/"
+msgstr "https://yoast.com/wordpress/plugins/duplicate-post/"
+
+#: src/admin/views/options.php:238
+msgid "Update notice"
+msgstr "Informacja o aktualizacji"
+
+#: duplicate-post-admin.php:795
+msgid "Email Address"
+msgstr "Adres e-mail"
+
+#: src/ui/class-row-actions.php:92
+msgctxt "verb"
+msgid "Clone"
+msgstr "Powiel"
+
+#. translators: %s: Post title.
+#: src/ui/class-row-actions.php:90
+msgid "Clone &#8220;%s&#8221;"
+msgstr "Klonuj &#8220;%s&#8221;"
+
+#: src/ui/class-column.php:72
+msgid "Original item"
+msgstr "Oryginalny element"
+
+#: src/admin/class-options.php:249
+msgid "In a column in the Post list"
+msgstr "W kolumnie na liście wpisów"
+
+#: src/admin/class-options.php:259
+msgid "After the title in the Post list"
+msgstr "Po tytule na liście wpisów"
+
+#. translators: %s: post title
+#: src/class-utils.php:124
+msgid "Edit &#8220;%s&#8221;"
+msgstr "Edytuj &#8222;%s&#8221;"
+
+#. translators: %s: Original item link (to view or edit) or title.
+#: src/ui/class-post-states.php:72
+msgid "Original: %s"
+msgstr "Oryginalnie: %s"
+
+#. translators: %s: post title
+#: src/class-utils.php:135
+msgid "Preview &#8220;%s&#8221;"
+msgstr "Podejrzyj &#8222;%s&#8221;"
+
+#. translators: %s: post title
+#: src/class-utils.php:144
+msgid "View &#8220;%s&#8221;"
+msgstr "Zobacz &#8222;%s&#8221;"
+
+#: src/handlers/class-link-handler.php:62
+#: src/handlers/class-link-handler.php:118
+#: src/handlers/class-link-handler.php:190
+msgid "Current user is not allowed to copy posts."
+msgstr "Użytkownik nie posiada uprawnień do duplikowania wpisów."
+
+#: duplicate-post-admin.php:775
+msgid "Documentation"
+msgstr "Dokumentacja"
+
+#: src/admin/class-options.php:168
+msgid "you probably want this unchecked, unless you have very special requirements"
+msgstr "prawdopodobnie nie chcesz włączać tej opcji, dopóki nie masz bardzo specyficznych wymagań"
+
+#: src/admin/class-options.php:265
+msgid "Show update notice"
+msgstr "Pokaż powiadomienie o aktualizacji"
+
+#: src/admin/class-options.php:152
+msgid "Author"
+msgstr "Autor"
+
+#: src/admin/class-options.php:138
+msgid "Template"
+msgstr "Szablon"
+
+#: src/admin/class-options.php:220
+msgid "You can use * to match zero or more alphanumeric characters or underscores: e.g. field*"
+msgstr "Możesz użyć znaku * aby dopasować zero lub więcej znaków alfanumerycznych lub znaków podłogi: np. field*"
+
+#: src/admin/class-options.php:131
+msgid "Featured Image"
+msgstr "Obrazek wyróżniający"
+
+#: src/admin/class-options.php:310
+msgid "Bulk Actions"
+msgstr "Działania masowe"
+
+#: src/admin/class-options.php:189
+msgid "Menu order"
+msgstr "Kolejność w menu"
+
+#. translators: %s: Number of posts copied.
+#: src/watchers/class-link-actions-watcher.php:78
+#: src/watchers/class-bulk-actions-watcher.php:60
+msgid "%s item copied."
+msgid_plural "%s items copied."
+msgstr[0] "%s element skopiowany."
+msgstr[1] "%s elementy skopiowane"
+msgstr[2] "%s elementów skopiowanych"
+
+#: src/admin/class-options.php:103
+msgid "Status"
+msgstr "Status"
+
+#: src/handlers/class-check-changes-handler.php:127
+#: src/admin/class-options.php:89
+msgid "Title"
+msgstr "Tytuł"
+
+#: src/admin/class-options.php:96
+msgid "Date"
+msgstr "Data"
+
+#: src/admin/class-options.php:159
+msgid "Password"
+msgstr "Hasło"
+
+#: src/admin/views/options.php:39 src/admin/views/options.php:142
+msgid "Permissions"
+msgstr "Uprawnienia"
+
+#: src/admin/views/options.php:30 src/admin/views/options.php:57
+msgid "What to copy"
+msgstr "Co kopiować"
+
+#: src/admin/views/options.php:164 src/admin/views/options.php:168
+msgid "Enable for these post types"
+msgstr "Włącz dla tych typów wpisów"
+
+#: src/admin/views/options.php:129
+msgid "Show/hide private taxonomies"
+msgstr "Pokaż/ukryj prywatne taksonomie"
+
+#: src/admin/class-options.php:211
+msgid "Add this number to the original menu order (blank or zero to retain the value)"
+msgstr "Dodaj tę liczbę do oryginalnej wartości kolejności w menu (puste pole lub zero zachowa obecną wartość)"
+
+#: src/admin/class-options.php:209 src/admin/views/options.php:95
+msgid "Increase menu order by"
+msgstr "Zwiększ pole kolejności menu o"
+
+#: src/admin/class-options.php:183
+msgid "except pingbacks and trackbacks"
+msgstr "Z wyjątkiem pingbacków i trackbacków"
+
+#: src/admin/class-options.php:181
+msgid "Comments"
+msgstr "Komentarze"
+
+#: src/admin/class-options.php:174
+msgid "Children"
+msgstr "Elementy potomne"
+
+#: src/admin/class-options.php:166
+msgid "Attachments"
+msgstr "Załączniki"
+
+#: src/admin/class-options.php:110
+msgid "Slug"
+msgstr "Uproszczona nazwa"
+
+#: duplicate-post-admin.php:627
+msgid "Copy features for this post type are not enabled in options page"
+msgstr "Funkcja kopiowania dla tego typu wpisów nie jest włączona w ekranie opcji"
+
+#: src/handlers/class-check-changes-handler.php:129
+#: src/admin/class-options.php:117
+msgid "Excerpt"
+msgstr "Zajawka"
+
+#: src/admin/views/options.php:60 src/admin/views/options.php:63
+msgid "Post/page elements to copy"
+msgstr "Elementy strony/wpis do zduplikowania"
+
+#: src/handlers/class-check-changes-handler.php:128
+#: src/admin/class-options.php:124
+msgid "Content"
+msgstr "Treść"
+
+#: src/admin/views/options.php:48 src/admin/views/options.php:189
+msgid "Display"
+msgstr "Wyświetlacz"
+
+#: duplicate-post.php:91
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: src/admin/class-options.php:274 src/ui/class-row-actions.php:119
+msgid "New Draft"
+msgstr "Nowy szkic"
+
+#: src/admin/views/options.php:118 src/admin/views/options.php:122
+msgid "Do not copy these taxonomies"
+msgstr "Nie kopiuj tych taksonomii"
+
+#: src/admin/class-options.php:197
+msgid "Prefix to be added before the title, e.g. \"Copy of\" (blank for no prefix)"
+msgstr "Prefiks dodawany do oryginalnego tytułu, np \"Kopia \" (pozostaw puste aby nie używać prefiksu)"
+
+#: src/admin/class-options.php:202 src/admin/views/options.php:84
+msgid "Title suffix"
+msgstr "Sufiks tytułu"
+
+#: src/admin/class-options.php:204
+msgid "Suffix to be added after the title, e.g. \"(dup)\" (blank for no suffix)"
+msgstr "Tekst dodawany na końcu oryginalnego tytułu, np. \"(kopia)\" (pozostaw puste aby nie dodawać sufiksu)"
+
+#: src/admin/views/options.php:146 src/admin/views/options.php:149
+msgid "Roles allowed to copy"
+msgstr "Jakie role mogą tworzyć kopie"
+
+#: src/admin/views/options.php:204
+msgid "Show links in"
+msgstr "Pokazuj linki w"
+
+#: src/admin/class-options.php:305
+msgid "Edit screen"
+msgstr "Ekranie edycji"
+
+#: src/admin/class-options.php:279 src/ui/class-bulk-actions.php:75
+msgid "Clone"
+msgstr "Powiel"
+
+#: src/handlers/class-link-handler.php:79
+#: src/handlers/class-link-handler.php:135
+#: src/handlers/class-link-handler.php:207
+msgid "Copy creation failed, could not find original:"
+msgstr "Nie udało się powielić kreacji, ponieważ nie znaleziono oryginału:"
+
+#: src/admin/class-options.php:295
+msgid "Post list"
+msgstr "Lista wpisów"
+
+#: src/admin/class-options.php:300
+msgid "Admin bar"
+msgstr "Pasku administratora"
+
+#: src/admin/class-options.php:216 src/admin/views/options.php:107
+msgid "Do not copy these fields"
+msgstr "Nie kopiuj tych pól"
+
+#: src/admin/class-options.php:195 src/admin/views/options.php:73
+msgid "Title prefix"
+msgstr "Przedrostek tytułu"
+
+#: src/admin/class-options-page.php:81 src/ui/class-admin-bar.php:94
+#: src/ui/class-metabox.php:58
+msgid "Duplicate Post"
+msgstr "Powielanie wpisów"
+
+#: src/admin/class-options-page.php:80 src/admin/views/options.php:16
+msgid "Duplicate Post Options"
+msgstr "Opcje"
+
+#: src/handlers/class-link-handler.php:67
+#: src/handlers/class-link-handler.php:123
+#: src/handlers/class-link-handler.php:195
+msgid "No post to duplicate has been supplied!"
+msgstr "Brak postów do powielania!"
+
+#: src/ui/class-admin-bar.php:102 src/ui/class-admin-bar.php:119
+#: src/ui/class-classic-editor.php:135 duplicate-post-common.php:77
+msgid "Copy to a new draft"
+msgstr "Skopiuj do nowego szkicu"

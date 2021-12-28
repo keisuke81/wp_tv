@@ -1,0 +1,1781 @@
+# Translation of Plugins - Export any WordPress data to XML/CSV - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Export any WordPress data to XML/CSV - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-08-13 14:13:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Export any WordPress data to XML/CSV - Stable (latest release)\n"
+
+#: views/admin/export/template.php:6
+msgid "Drag & Drop"
+msgstr "ドラッグ & ドロップ"
+
+#: actions/wp_ajax_wpae_upgrade_notice.php:102
+msgid "User Export Add-On is not installed"
+msgstr "User Export Add-On がインストールされていない"
+
+#: actions/wp_ajax_wpae_upgrade_notice.php:99
+msgid "Already own the Pro version?"
+msgstr "すでに Pro 版をお持ちですか？"
+
+#: actions/wp_ajax_wpae_upgrade_notice.php:97
+msgid "Install on as many sites<br>as you like."
+msgstr "好きなだけ<br>多くのサイトにインストールできます。"
+
+#: actions/wp_ajax_wpae_upgrade_notice.php:97
+msgid "Unlimited Sites"
+msgstr "無制限のサイト"
+
+#: views/admin/export/process.php:8 views/admin/manage/update.php:21
+msgid "Confirm & Run"
+msgstr "確認 & 実行"
+
+#: actions/wp_ajax_wpae_upgrade_notice.php:96
+msgid "Get help from a team<br>of experts."
+msgstr "専門家<br>チームのサポートを受けることができます。"
+
+#: actions/wp_ajax_wpae_upgrade_notice.php:96
+msgid "World Class Support"
+msgstr "ワールドクラスのサポート"
+
+#: actions/wp_ajax_wpae_upgrade_notice.php:95
+msgid "Pay once and get<br>updates for life."
+msgstr "一度お支払いいただくと<br>生涯にわたってアップデートをご利用いただけます。"
+
+#: actions/wp_ajax_wpae_upgrade_notice.php:95
+msgid "Lifetime Updates"
+msgstr "生涯の更新"
+
+#: actions/wp_ajax_wpae_upgrade_notice.php:94
+msgid "No questions,<br> full refund."
+msgstr "質問はありません<br>全額返金します。"
+
+#: actions/wp_ajax_wpae_upgrade_notice.php:94
+msgid "90 Day Guarantee"
+msgstr "90日間保証"
+
+#: actions/wp_ajax_wpae_upgrade_notice.php:90
+msgid "Trusted by over 200,000 happy users"
+msgstr "200,000人以上のユーザーに支持されています"
+
+#: actions/wp_ajax_wpae_upgrade_notice.php:88
+msgid "Upgrade to Pro"
+msgstr "プロ版にアップグレード"
+
+#: actions/wp_ajax_wpae_upgrade_notice.php:83
+msgid "Create any CSV or XML"
+msgstr "任意の CSV や XML を作成"
+
+#: actions/wp_ajax_wpae_upgrade_notice.php:82
+msgid "Drag & drop interface"
+msgstr "ドラッグ ＆ ドロップインターフェース"
+
+#: actions/wp_ajax_wpae_upgrade_notice.php:81
+msgid "Export all user data"
+msgstr "すべてのユーザーデータのエクスポート"
+
+#: actions/wp_ajax_wpae_upgrade_notice.php:76
+msgid "Exporting Users is a Pro Feature"
+msgstr "ユーザーのエクスポートはプロの機能"
+
+#: actions/wp_ajax_wpae_upgrade_notice.php:84
+msgid "WooCommerce, ACF and more"
+msgstr "WooCommerce、ACF など"
+
+#: actions/wp_ajax_wpae_upgrade_notice.php:77
+msgid "Purchase a Pro package to export users, along with<br>many other powerful features."
+msgstr "Pro パッケージを購入すると、ユーザーをエクスポートしたり、<br>その他多くの強力な機能を利用することができます。"
+
+#: views/admin/manage/index.php:404
+msgid "Edit"
+msgstr "編集"
+
+#: views/admin/manage/index.php:440
+msgid "Delete Permanently"
+msgstr "完全に削除"
+
+#: views/admin/manage/index.php:439
+msgid "Restore"
+msgstr "復元"
+
+#: views/admin/manage/index.php:405
+msgid "Run Export"
+msgstr "エクスポートの実行"
+
+#: views/admin/manage/index.php:383
+msgid "never"
+msgstr "なし"
+
+#: views/admin/manage/index.php:407
+msgid "Cancel Cron"
+msgstr "Cron をキャンセル"
+
+#: views/admin/manage/index.php:85 views/admin/manage/index.php:443
+msgid "Apply"
+msgstr "適用"
+
+#: views/admin/manage/index.php:82 views/admin/manage/index.php:435
+msgid "Bulk Actions"
+msgstr "一括操作"
+
+#: views/admin/manage/index.php:63
+msgid "Summary"
+msgstr "概要"
+
+#: views/admin/manage/index.php:61
+msgid "Query"
+msgstr "クエリー"
+
+#: views/admin/manage/index.php:59
+msgid "Name"
+msgstr "名前"
+
+#: views/admin/manage/index.php:58
+msgid "ID"
+msgstr "ID"
+
+#: views/admin/manage/update.php:95
+msgid "Edit Template"
+msgstr "テンプレートを編集"
+
+#: views/admin/manage/index.php:392
+msgid "settings edited since last run"
+msgstr "前回の実行以降に編集された設定"
+
+#: views/admin/manage/index.php:386
+msgid "Format: %s"
+msgstr "フォーマット: %s"
+
+#: views/admin/manage/index.php:365
+msgid "Export currently in progress"
+msgstr "現在進行中のエクスポート"
+
+#: views/admin/manage/index.php:336
+msgid "triggered with cron"
+msgstr "cronでトリガー"
+
+#: views/admin/manage/index.php:326
+msgid "Y/m/d g:i a"
+msgstr "Y年n月j日 g:i a"
+
+#: views/admin/manage/index.php:309
+msgid "Post Types: "
+msgstr "投稿タイプ:"
+
+#: views/admin/export/options.php:21 views/admin/manage/index.php:167
+msgid "Export Settings"
+msgstr "エクスポート設定"
+
+#: views/admin/manage/index.php:166
+msgid "Edit Export"
+msgstr "エクスポートの編集"
+
+#: views/admin/manage/scheduling.php:31 views/admin/manage/scheduling.php:43
+msgid "Example:"
+msgstr "例:"
+
+#: views/admin/manage/scheduling.php:25
+msgid "Trigger Script"
+msgstr "トリガースクリプト"
+
+#: views/admin/manage/scheduling.php:17
+msgid "Export File URL"
+msgstr "エクスポートファイルの URL"
+
+#: views/admin/manage/scheduling.php:15
+msgid "Run the execution script frequently. Once per two minutes is recommended."
+msgstr "実行スクリプトを頻繁に実行してください。2分に1回程度の実行を推奨します。"
+
+#: views/admin/manage/scheduling.php:14
+msgid "Execution Script URL"
+msgstr "実行スクリプトの URL"
+
+#: views/admin/manage/scheduling.php:10
+msgid "Trigger Script URL"
+msgstr "トリガースクリプトの URL"
+
+#: views/admin/manage/scheduling.php:35
+msgid "Execution Script"
+msgstr "実行スクリプト"
+
+#: views/admin/manage/scheduling.php:20
+msgid "Export Bundle URL"
+msgstr "エクスポートバンドルの URL"
+
+#: views/admin/export/index.php:233
+msgid "Comment Query"
+msgstr "コメントクエリー"
+
+#: views/admin/export/index.php:227
+msgid "Post Type Query"
+msgstr "投稿タイプクエリー"
+
+#: views/admin/export/index.php:228
+msgid "User Query"
+msgstr "ユーザークエリー"
+
+#: views/admin/manage/scheduling.php:2
+msgid "Cron Scheduling"
+msgstr "Cron スケジューリング"
+
+#: views/admin/export/index.php:145
+msgid "Select taxonomy"
+msgstr "タクソノミーを選択"
+
+#: views/admin/export/index.php:103
+msgid "Choose a post type..."
+msgstr "投稿タイプの選択 ..."
+
+#: views/admin/export/index.php:95
+msgid "WooCommerce Reviews"
+msgstr "WooCommerce レビュー"
+
+#: views/admin/export/template.php:412
+msgid "Help"
+msgstr "ヘルプ"
+
+#: views/admin/export/template.php:400
+msgid "XML Editor"
+msgstr "XML エディター"
+
+#: views/admin/export/index.php:39
+msgid "WP_Query Results"
+msgstr "WP_Query の結果"
+
+#: views/admin/export/index.php:35
+msgid "Specific Post Type"
+msgstr "特定の投稿タイプ"
+
+#: views/admin/export/index.php:32
+msgid "First, choose what to export."
+msgstr "まず、何をエクスポートするかを選択します。"
+
+#: views/admin/export/template.php:622
+msgid "Custom XML Feeds"
+msgstr "カスタム XML フィード"
+
+#: views/admin/export/template.php:370
+msgid "Custom XML Feed"
+msgstr "カスタム XML フィード"
+
+#: views/admin/manage/index.php:350
+msgid "currently processing with cron"
+msgstr "現在 cron で処理中"
+
+#: views/admin/manage/index.php:136
+msgid "No previous exports found."
+msgstr "以前のエクスポートは見つかりませんでした。"
+
+#: views/admin/manage/index.php:65
+msgid "Info & Options"
+msgstr "情報とオプション"
+
+#: views/admin/manage/index.php:48 views/admin/manage/index.php:51
+msgid "Search Exports"
+msgstr "エクスポートの検索"
+
+#: views/admin/manage/delete.php:1
+msgid "Delete Export"
+msgstr "エクスポートの削除"
+
+#: views/admin/manage/index.php:296 views/admin/manage/templates.php:2
+msgid "Download Import Templates"
+msgstr "インポートテンプレートのダウンロード"
+
+#: views/admin/export/template.php:613 views/admin/export/template.php:623
+msgid "Edit Export Field"
+msgstr "エクスポートフィールドの編集"
+
+#: views/admin/export/template.php:337
+msgid "Feed"
+msgstr "フィード"
+
+#: views/admin/export/template.php:351
+msgid "CSV File"
+msgstr "CSV ファイル"
+
+#: views/admin/export/template.php:333
+msgid "Spreadsheet"
+msgstr "スプレッドシート"
+
+#: views/admin/manage/index.php:384
+msgid "%d Records Exported"
+msgstr "%d エクスポートされたレコード"
+
+#: views/admin/manage/index.php:383
+msgid "Last run: %s"
+msgstr "前回の実行: %s"
+
+#: views/admin/manage/index.php:343 views/admin/manage/index.php:358
+#: views/admin/manage/index.php:372
+msgid "last activity %s ago"
+msgstr "最後のアクティビティ %s 前"
+
+#: views/admin/manage/index.php:379
+msgid "Export Attempt at %s"
+msgstr "%s でのエクスポート試行"
+
+#: views/admin/manage/bulk.php:10
+msgid "Are you sure you want to delete <strong>%s</strong> selected %s?"
+msgstr "選択した <strong>%s</strong> の %s を削除してもよろしいですか ?"
+
+#: views/admin/manage/delete.php:4
+msgid "Are you sure you want to delete <strong>%s</strong> export?"
+msgstr "<strong>%s</strong> エクスポートを削除してもよろしいですか？"
+
+#: views/admin/export/template.php:612
+msgid "Add Field To Export"
+msgstr "エクスポートするフィールドを追加"
+
+#: views/admin/export/template.php:531
+msgid "Load Template..."
+msgstr "テンプレートを読み込む ..."
+
+#: views/admin/export/template.php:524
+msgid "Template name..."
+msgstr "テンプレート名 ..."
+
+#: views/admin/export/template.php:374
+msgid "Google Merchant Center Product Feed"
+msgstr "Google Merchant Center の商品フィード"
+
+#: views/admin/export/template.php:520
+msgid "Save settings as a template"
+msgstr "設定をテンプレートとして保存"
+
+#: views/admin/export/template.php:369
+msgid "Simple XML Feed"
+msgstr "シンプルな XML フィード"
+
+#: views/admin/export/template.php:353
+msgid "Excel File (XLSX)"
+msgstr "Excel ファイル  (XLSX)"
+
+#: views/admin/export/template.php:352
+msgid "Excel File (XLS)"
+msgstr "Excel ファイル  (XLS)"
+
+#: views/admin/export/template.php:331
+msgid "Choose your export type"
+msgstr "エクスポートタイプの選択"
+
+#: views/admin/export/template.php:326
+msgid "Export Type"
+msgstr "エクスポートタイプ"
+
+#: views/admin/export/template.php:279
+msgid "Language"
+msgstr "言語"
+
+#: views/admin/export/template.php:273
+msgid "Separator:"
+msgstr "区切り:"
+
+#: views/admin/export/template.php:203 views/admin/export/template.php:266
+#: views/admin/export/template.php:426
+msgid "Advanced Options"
+msgstr "高度なオプション"
+
+#: views/admin/export/template.php:193 views/admin/export/template.php:417
+msgid "Preview"
+msgstr "プレビュー"
+
+#: views/admin/export/template.php:185
+msgid "Add All"
+msgstr "すべて追加"
+
+#: views/admin/export/template.php:183
+msgid "Add Field"
+msgstr "フィールドを追加"
+
+#: views/admin/export/template/add_new_field.php:169
+msgid "Save"
+msgstr "保存"
+
+#: views/admin/export/template/add_new_field.php:167
+#: views/admin/manage/index.php:83 views/admin/manage/index.php:187
+#: views/admin/manage/index.php:437
+msgid "Delete"
+msgstr "削除"
+
+#: views/admin/export/template/add_new_field.php:165
+#: views/admin/manage/index.php:409
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: views/admin/export/template/add_new_field.php:143
+msgid "Upgrade to Pro to use Custom Export Fields"
+msgstr "Pro にアップグレードすると、Custom Export Fields が使用可能になります。"
+
+#: views/admin/export/template/add_new_field.php:137
+msgid "Custom export field"
+msgstr "Custom export field"
+
+#: views/admin/export/template.php:591
+#: views/admin/export/template/add_new_field.php:155
+msgid "Available Data"
+msgstr "利用可能なデータ"
+
+#: views/admin/export/template/add_new_field.php:124
+msgid "Select a field to export"
+msgstr "エクスポートするフィールドの選択"
+
+#: views/admin/export/template/add_new_field.php:117
+msgid "Element name"
+msgstr "要素名"
+
+#: views/admin/export/template/add_new_field.php:116
+msgid "Column name"
+msgstr "カラム名"
+
+#: views/admin/export/template/custom_xml_help.php:59
+msgid "Product Title"
+msgstr "製品タイトル"
+
+#: views/admin/export/template/custom_xml_help.php:51
+msgid "Example Template"
+msgstr "テンプレート例"
+
+#: views/admin/export/template/custom_xml_help.php:13
+msgid "PHP Functions"
+msgstr "PHP 関数"
+
+#: views/admin/export/template/custom_xml_help.php:5
+msgid "Custom XML Editor"
+msgstr "カスタム XML エディター"
+
+#: views/admin/export/template/advanced_field_options.php:63
+#: views/admin/export/template/functions_editor.php:26
+msgid "Upgrade to Pro to use Custom PHP Functions"
+msgstr "Pro にアップグレードすると、カスタム PHP 関数が使用可能になります。"
+
+#: views/admin/export/template/advanced_field_options.php:60
+msgid "The value of the field chosen for export will be passed to the PHP function."
+msgstr "エクスポート用に選択されたフィールドの値は、PHP 関数に渡されます。"
+
+#: views/admin/export/template/advanced_field_options.php:59
+msgid "Export the value returned by a PHP function"
+msgstr "PHP関数によって返された値をエクスポートします"
+
+#: views/admin/export/template/advanced_field_options.php:51
+#: views/admin/export/template/custom_xml_help.php:58
+msgid "Product SKU"
+msgstr "商品 SKU"
+
+#: views/admin/export/template/advanced_field_options.php:44
+msgid "date() Format"
+msgstr "date() のフォーマット"
+
+#: views/admin/export/template/advanced_field_options.php:41
+msgid "Natural Language PHP date()"
+msgstr "自然言語 PHP date()"
+
+#: views/admin/export/template/advanced_field_options.php:31
+msgid "Separator"
+msgstr "区切り"
+
+#: views/admin/export/template/advanced_field_options.php:40
+msgid "UNIX timestamp - PHP time()"
+msgstr "UNIX タイムスタンプ - PHP time()"
+
+#: views/admin/export/blocks/filters.php:29
+msgid "Add Rule"
+msgstr "ルールを追加"
+
+#: views/admin/export/blocks/filters.php:16
+msgid "Select Element"
+msgstr "要素を選択"
+
+#: views/admin/export/blocks/filters.php:10
+msgid "Value"
+msgstr "値"
+
+#: views/admin/export/blocks/filters.php:8
+msgid "Element"
+msgstr "要素"
+
+#: views/admin/export/options.php:120 views/admin/export/template.php:572
+msgid "Back"
+msgstr "戻る"
+
+#: views/admin/export/index.php:15 views/admin/export/options.php:24
+#: views/admin/export/process.php:14 views/admin/export/template.php:13
+#: views/admin/manage/update.php:24
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: views/admin/export/index.php:15 views/admin/export/options.php:24
+#: views/admin/export/process.php:12 views/admin/export/template.php:10
+#: views/admin/manage/update.php:24
+msgid "Support"
+msgstr "サポート"
+
+#: views/admin/export/success_page.php:64 views/admin/manage/index.php:172
+#: views/admin/manage/index.php:179
+msgid "Bundle"
+msgstr "バンドル"
+
+#: views/admin/export/success_page.php:49
+msgid "Click to Download"
+msgstr "クリックしてダウンロード"
+
+#: views/admin/export/success_page.php:43
+msgid "Export, Edit, Import"
+msgstr "エクスポート、編集、インポート"
+
+#: views/admin/export/success_page.php:39
+#: views/admin/export/success_page.php:115
+msgid "Download"
+msgstr "ダウンロード"
+
+#: views/admin/export/success_page.php:40
+msgid "Scheduling"
+msgstr "予約"
+
+#: views/admin/export/options/settings.php:62
+msgid "Friendly Name:"
+msgstr "フレンドリーネーム:"
+
+#: views/admin/export/options/settings.php:63
+msgid "Save friendly name..."
+msgstr "フレンドリーネームを保存 ..."
+
+#: views/admin/manage/index.php:92
+msgid "Displaying %s&#8211;%s of %s"
+msgstr " %s&#8211;%s件 (%s件中) を表示中"
+
+#: views/admin/manage/scheduling.php:27
+msgid "Every time you want to schedule the export, run the trigger script."
+msgstr "エクスポートをスケジュールするたびに、トリガースクリプトを実行します。"
+
+#: views/admin/export/template.php:303
+msgid "Display each product in its own row"
+msgstr "各製品をそれぞれの列に表示"
+
+#: views/admin/export/template.php:249 views/admin/export/template.php:458
+msgid "Warning: This may result in an invalid XML file"
+msgstr "警告: これにより、無効な XML ファイルが生成される可能性があります"
+
+#: views/admin/export/template.php:247 views/admin/export/template.php:456
+msgid "Never wrap data in CDATA tags"
+msgstr "CDATA タグでデータを囲わない"
+
+#: views/admin/export/template.php:239 views/admin/export/template.php:440
+msgid "Automatically wrap data in CDATA tags when it contains illegal characters"
+msgstr "不正な文字を含むデータを自動的に CDATA タグで囲む"
+
+#: views/admin/export/variation_options.php:45
+msgid "Only export product variations"
+msgstr "製品のバリエーションのみエクスポート"
+
+#: views/admin/export/variation_options.php:36
+#: views/admin/export/variation_options.php:67
+msgid "Product variations use the default variation product title"
+msgstr "製品バリエーションでは、デフォルトのバリエーション製品のタイトルを使用"
+
+#: views/admin/export/variation_options.php:18
+msgid "Export product variations and their parent products"
+msgstr "製品バリエーションとその親製品をエクスポートする"
+
+#: views/admin/export/variation_options.php:7
+msgid "Product Variations"
+msgstr "製品バリエーション"
+
+#: views/admin/export/template/custom_xml_help.php:63
+msgid "Here's what our XML template will look like in the editor:"
+msgstr "ここでは、XML テンプレートをエディターで表示しています。"
+
+#: views/admin/export/template/advanced_field_options.php:29
+msgid "Export attached images"
+msgstr "添付画像のエクスポート"
+
+#: views/admin/export/template/advanced_field_options.php:24
+msgid "Export featured image"
+msgstr "フィーチャー画像のエクスポート"
+
+#: views/admin/export/process.php:84
+msgid "Your server terminated the export process"
+msgstr "あなたのサーバーがエクスポート処理を終了した"
+
+#: views/admin/export/process.php:69
+msgid "Export %ss"
+msgstr "エクスポート%ss"
+
+#: views/admin/export/process.php:34 views/admin/export/process.php:70
+msgid "Exported"
+msgstr "エクスポート"
+
+#: views/admin/export/process.php:32
+msgid "Time Elapsed"
+msgstr "時間経過"
+
+#: views/admin/export/options.php:123 views/admin/export/template.php:569
+msgid "Back to Manage Exports"
+msgstr "エクスポートの管理に戻る"
+
+#: views/admin/export/success_page.php:118 views/admin/manage/index.php:288
+msgid "Import with WP All Import"
+msgstr "WP All Import でインポート"
+
+#: views/admin/export/success_page.php:60 views/admin/manage/index.php:184
+msgid "Split %ss"
+msgstr "%ssを分割"
+
+#: views/admin/export/success_page.php:19
+msgid "WP All Export successfully exported your data!"
+msgstr "WP All Export はデータのエクスポートに成功しました !"
+
+#: views/admin/export/options/settings.php:45
+msgid "records per file"
+msgstr "ファイルあたりのレコード数"
+
+#: views/admin/export/options/settings.php:45
+msgid "Limit export to"
+msgstr "エクスポートを制限する"
+
+#: views/admin/export/options/settings.php:4
+msgid "Configure Advanced Settings"
+msgstr "詳細設定を行う"
+
+#: views/admin/help/index.php:17
+msgid "Upgrade to the Pro edition of WP All Export for Premium Support"
+msgstr "プレミアムサポートを利用するには、WP All Export の Pro 版にアップグレードしてください。"
+
+#: views/admin/help/index.php:13
+msgid "Thank you for using WP All Export."
+msgstr "WP All Export をご利用いただきありがとうございます。"
+
+#: views/admin/help/index.php:3
+msgid "WP All Export Support"
+msgstr "WP All Export サポート"
+
+#: views/admin/export/index.php:288 views/admin/export/options.php:131
+#: views/admin/export/process.php:96 views/admin/export/template.php:581
+#: views/admin/manage/index.php:448 views/admin/manage/scheduling.php:57
+#: views/admin/manage/templates.php:9 views/admin/manage/update.php:106
+#: views/admin/settings/index.php:240
+msgid "Created by"
+msgstr "Created by"
+
+#: views/admin/export/template.php:500 views/admin/settings/index.php:230
+msgid "Save Functions"
+msgstr "保存機能"
+
+#: views/admin/export/template.php:487
+#: views/admin/export/template/functions_editor.php:20
+#: views/admin/settings/index.php:219
+msgid "Function Editor"
+msgstr "ファンクションエディター"
+
+#: views/admin/settings/index.php:207
+msgid "Upgrade to the Pro edition of WP All Export to enable Client Mode"
+msgstr "WP All Export の Pro 版にアップグレードしてクライアントモードを有効にする"
+
+#: views/admin/settings/index.php:201
+msgid "Save Client Mode Settings"
+msgstr "クライアントモード設定の保存"
+
+#: views/admin/settings/index.php:153
+msgid "Activate License"
+msgstr "ライセンスを有効化"
+
+#: views/admin/settings/index.php:150
+msgid "Active"
+msgstr "有効"
+
+#: views/admin/settings/index.php:80
+msgid "Files"
+msgstr "ファイル"
+
+#: views/admin/settings/index.php:71
+msgid "Import Templates"
+msgstr "テンプレートをインポート"
+
+#: views/admin/settings/index.php:66
+msgid "There are no templates saved"
+msgstr "保存されているテンプレートはありません"
+
+#: views/admin/settings/index.php:63
+msgid "Export Selected"
+msgstr "選択したものをエクスポート"
+
+#: views/admin/settings/index.php:62
+msgid "Delete Selected"
+msgstr "選択した項目を削除"
+
+#: views/admin/settings/index.php:48
+msgid "Import/Export Templates"
+msgstr "インポート / エクスポートテンプレート"
+
+#: src/Scheduling/views/SchedulingOptions.php:663
+#: views/admin/manage/index.php:232
+msgid "Scheduling Options"
+msgstr "スケジューリングオプション"
+
+#: src/Scheduling/views/SchedulingHelp.php:26
+msgid "What information is shared with Soflyy?"
+msgstr "どのような情報が Soflyy と共有されるのですか？"
+
+#: src/Scheduling/views/SchedulingHelp.php:19
+msgid "What do I get for $9 a month?"
+msgstr "月額9ドルで何ができるの ?"
+
+#: src/Scheduling/views/SchedulingHelp.php:13
+msgid "Why does it cost money?"
+msgstr "なぜお金がかかるの ?"
+
+#: src/Scheduling/views/ManualScheduling.php:12
+msgid "Upgrade to the Pro edition of WP All Export for Manual Scheduling"
+msgstr "マニュアルスケジューリングのために、WP All Export の Pro 版にアップグレードしてください"
+
+#: src/Scheduling/views/ManualScheduling.php:6
+msgid "Manual Scheduling"
+msgstr "マニュアルスケジューリング"
+
+#: src/App/Service/ScheduledExport.php:112
+msgid "Records Processed %s."
+msgstr "処理されたレコード %s。"
+
+#: src/App/Service/ScheduledExport.php:107
+msgid "Export #%s complete"
+msgstr "エクスポート #%s 完了"
+
+#: src/Scheduling/views/ManualScheduling.php:8
+msgid "Run this export using cron jobs."
+msgstr "cron ジョブを使ってこのエクスポートを実行します。"
+
+#: src/App/Service/ScheduledExport.php:63
+msgid "Export #%s is not triggered. Request skipped."
+msgstr "エクスポート #%s はトリガされません。リクエストがスキップされました。"
+
+#: src/App/Service/ScheduledExport.php:119
+msgid "Export #%s already processing. Request skipped."
+msgstr "エクスポート #%s はすでに処理されています。リクエストはスキップされました。"
+
+#: views/admin/export/template.php:219
+msgid "Single %s XML Element"
+msgstr "個別の %s XML 要素"
+
+#: views/admin/export/template.php:210
+msgid "Root XML Element"
+msgstr "ルート XML 要素"
+
+#: views/admin/export/template.php:187
+msgid "Clear All"
+msgstr "すべてクリア"
+
+#: views/admin/export/index.php:247
+msgid "Upgrade to the Pro edition of WP All Export to Export Comments"
+msgstr "WP All Export の Pro 版にアップグレードしてコメントを書き出す"
+
+#: views/admin/export/template.php:555
+msgid "Upgrade to the Pro edition of WP All Export to Export To Google Merchant Center"
+msgstr "WP All Export の Pro 版にアップグレードすると、Google Merchant Center へのエクスポートが可能になります。"
+
+#: views/admin/export/template.php:548
+msgid "Upgrade to the Pro edition of WP All Export to Export Custom XML"
+msgstr "WP All Export の Pro 版にアップグレードしてカスタム XML を出力する"
+
+#: views/admin/export/template.php:494
+msgid "Upgrade to the Pro edition of WP All Export to use Custom PHP Functions"
+msgstr "WP All Export の Pro 版にアップグレードすると、カスタム PHP 関数が使えるようになる"
+
+#: views/admin/export/template.php:360
+msgid "Upgrade to the Pro edition of WP All Export to Export to Excel"
+msgstr "WP All Export の Pro 版にアップグレードして Excel への出力を実現"
+
+#: views/admin/export/template.php:243 views/admin/export/template.php:448
+msgid "Always wrap data in CDATA tags"
+msgstr "常に CDATA タグでデータを囲む"
+
+#: views/admin/export/variation_options.php:78
+msgid "Only export parent products"
+msgstr "親製品のみをエクスポートする"
+
+#: views/admin/export/template/custom_xml_help.php:33
+msgid "And here's how our exported XML file will look:"
+msgstr "そして、エクスポートされた XML ファイルは次のようになります:"
+
+#: views/admin/export/template/custom_xml_help.php:21
+msgid "Repeating Fields and Arrays"
+msgstr "フィールドと配列の繰り返し"
+
+#: views/admin/export/template.php:308
+#: views/admin/export/template/advanced_field_options.php:15
+msgid "Fill in empty columns"
+msgstr "空白の列を埋める"
+
+#: views/admin/export/variation_options.php:27
+#: views/admin/export/variation_options.php:56
+msgid "Product variations use the parent product title"
+msgstr "製品バリエーションは親製品タイトルを使用"
+
+#: views/admin/export/blocks/filters.php:9
+msgid "Rule"
+msgstr "ルール"
+
+#: views/admin/export/blocks/filters.php:2
+msgid "Upgrade to the Pro edition of WP All Export to Add Filters"
+msgstr "WP All Export の Pro 版にアップグレードして、フィルターを追加する"
+
+#: views/admin/export/process.php:23
+msgid "Export <span id=\"status\">in Progress...</span>"
+msgstr "<span id=\"status\">in Progress...</span> をエクスポート"
+
+#: views/admin/export/success_page.php:77
+msgid "Public URL"
+msgstr "パブリック URL"
+
+#: views/admin/export/success_page.php:41
+msgid "External Apps"
+msgstr "外部アプリ"
+
+#: views/admin/export/options/settings.php:12
+#: views/admin/export/options/settings.php:18
+#: views/admin/export/options/settings.php:24
+msgid "records"
+msgstr "レコード"
+
+#: views/admin/export/options/settings.php:30
+msgid "Include BOM in export file"
+msgstr "エクスポートファイルに BOM を含める"
+
+#: views/admin/export/options/settings.php:18
+msgid "Only export %s once"
+msgstr "%sを一度だけエクスポートする"
+
+#: views/admin/export/options/settings.php:12
+msgid "In each iteration, process"
+msgstr "各反復で、プロセス"
+
+#: views/admin/settings/index.php:143
+msgid "Automatic Scheduling License Key"
+msgstr "自動スケジューリングライセンスキー"
+
+#: views/admin/settings/index.php:223
+msgid "Upgrade to the Pro edition of WP All Export to enable the Function Editor"
+msgstr "WP All Export の Pro 版にアップグレードして関数エディターを有効化する"
+
+#: views/admin/settings/index.php:108
+msgid "Zapier Integration"
+msgstr "Zapier との連携"
+
+#: views/admin/settings/index.php:90
+msgid "Randomize folder names"
+msgstr "フォルダー名のランダム化"
+
+#: views/admin/settings/index.php:85 views/admin/settings/index.php:88
+msgid "Secure Mode"
+msgstr "セキュアモード"
+
+#: src/Scheduling/views/SchedulingOptions.php:850
+msgid "Find your license at the customer portal."
+msgstr "カスタマーポータルでライセンスを確認する。"
+
+#: src/Scheduling/views/SchedulingHelp.php:6
+msgid "How does it work?"
+msgstr "それはどのように機能しますか ?"
+
+#: views/admin/settings/index.php:122
+msgid "Generate API Key"
+msgstr "API キーを生成"
+
+#: views/admin/settings/index.php:119
+msgid "API Key"
+msgstr "API キー"
+
+#: views/admin/settings/index.php:113
+msgid "Getting Started"
+msgstr "はじめてみよう"
+
+#: src/Scheduling/views/SchedulingUI.php:764
+msgid "Save Scheduling Options"
+msgstr "スケジューリングオプションの保存"
+
+#: src/Scheduling/views/SaveSchedulingButton.php:19
+#: views/admin/export/options.php:5 views/admin/manage/update.php:4
+#: views/admin/manage/update.php:97
+msgid "Save Export Configuration"
+msgstr "エクスポート設定の保存"
+
+#: src/Scheduling/views/SaveSchedulingButton.php:17
+#: views/admin/export/options.php:4 views/admin/export/options.php:69
+#: views/admin/manage/update.php:3 views/admin/manage/update.php:56
+#: views/admin/manage/update.php:99
+msgid "Confirm & Run Export"
+msgstr "エクスポートの確認と実行"
+
+#: src/Scheduling/views/ManualScheduling.php:42
+msgid "Read more about manual scheduling"
+msgstr "マニュアルスケジューリングについて詳しく見る"
+
+#: src/Scheduling/views/ManualScheduling.php:37
+msgid "Bundle URL"
+msgstr "バンドル URL"
+
+#: src/Scheduling/views/ManualScheduling.php:31
+msgid "File URL"
+msgstr "ファイルの URL"
+
+#: src/Scheduling/views/ManualScheduling.php:25
+msgid "Processing URL"
+msgstr "処理 URL"
+
+#: src/Scheduling/views/ManualScheduling.php:19
+msgid "Trigger URL"
+msgstr "トリガー URL"
+
+#: libraries/XmlExportEngine.php:236
+msgid "Media"
+msgstr "メディア"
+
+#: libraries/XmlExportEngine.php:232
+msgid "Standard"
+msgstr "スタンダード"
+
+#: libraries/XmlExportTaxonomy.php:128
+msgid "Term Meta"
+msgstr "タームメタ"
+
+#: libraries/XmlExportEngine.php:344 views/admin/export/index.php:66
+msgid "Taxonomies"
+msgstr "タクソノミー"
+
+#: libraries/XmlExportEngine.php:1176
+msgid "Missing custom XML template post loop."
+msgstr "カスタム XML テンプレートのポストループがない。"
+
+#: libraries/XmlExportEngine.php:1181
+msgid "Missing custom XML template footer."
+msgstr "カスタム XML テンプレートのフッターが表示されない。"
+
+#: src/App/Service/ScheduledExport.php:29
+msgid "Export #%s already triggered. Request skipped."
+msgstr "エクスポート#%sはすでにトリガされています。リクエストがスキップされました。"
+
+#: src/App/Service/ScheduledExport.php:41
+msgid "#%s Cron job triggered."
+msgstr "#%s Cron ジョブがトリガされました。"
+
+#: src/App/Service/ScheduledExport.php:23
+msgid "Export #%s currently in process. Request skipped."
+msgstr "エクスポート#%sは現在処理中です。リクエストがスキップされました。"
+
+#: src/App/Service/ScheduledExport.php:17
+#: src/App/Service/ScheduledExport.php:69
+msgid "Export #%s is currently in manually process. Request skipped."
+msgstr "エクスポート#%sは現在、手動で処理中です。リクエストがスキップされました。"
+
+#: libraries/XmlExportEngine.php:1171
+msgid "Missing custom XML template header."
+msgstr "カスタム XML テンプレートのヘッダがない。"
+
+#: libraries/XmlExportEngine.php:927
+msgid "User Role"
+msgstr "ユーザー権限グループ"
+
+#: libraries/XmlExportEngine.php:471
+msgid "WP Query field is required"
+msgstr "WP クエリーフィールドは必須"
+
+#: libraries/XmlExportEngine.php:361
+msgid "Author"
+msgstr "投稿者"
+
+#: libraries/XmlExportEngine.php:296
+msgid "Attachments"
+msgstr "添付ファイル"
+
+#: libraries/XmlExportEngine.php:240
+msgid "Images"
+msgstr "画像"
+
+#: views/admin/export/template/advanced_field_options.php:53
+msgid "Product Name"
+msgstr "製品名"
+
+#: views/admin/export/template/advanced_field_options.php:52
+msgid "Product ID"
+msgstr "製品の ID"
+
+#: views/admin/manage/scheduling.php:47
+msgid "Notes"
+msgstr "ノート"
+
+#: libraries/XmlExportEngine.php:751 libraries/XmlExportEngine.php:797
+msgid "All"
+msgstr "すべて"
+
+#: libraries/XmlExportFiltering.php:85
+#: src/Pro/Filtering/FilteringFactory.php:32
+msgid "Filtering Options"
+msgstr "フィルターオプション"
+
+#: libraries/XmlExportComment.php:162
+msgid "Comment meta"
+msgstr "コメントメタ情報"
+
+#: libraries/WpaePhpInterpreterErrorHandler.php:29
+msgid "You probably forgot to close a quote"
+msgstr "引用符を閉じるのを忘れたのではないか"
+
+#: libraries/XmlExportEngine.php:1135
+msgid "SQL Query"
+msgstr "SQL クエリー"
+
+#: controllers/admin/export.php:257
+msgid "Main XML Tag equals to Single Record XML Tag."
+msgstr "メイン XML タグはシングルレコード XML タグと同じです。"
+
+#: controllers/admin/export.php:248
+msgid "Main XML Tag is required."
+msgstr "メイン XML タグが必要です。"
+
+#: controllers/admin/export.php:242
+msgid "CSV delimiter must be specified."
+msgstr "CSV デリミタの指定が必要です。"
+
+#: controllers/admin/export.php:238
+msgid "You haven't selected any columns for export."
+msgstr "エクスポートする列が選択されていません。"
+
+#: controllers/admin/export.php:253
+msgid "Single Record XML Tag is required."
+msgstr "個別レコードの XML タグが必要です。"
+
+#: libraries/XmlExportEngine.php:348
+msgid "Custom Fields"
+msgstr "カスタムフィールド"
+
+#: controllers/admin/manage.php:294
+msgid "%d %s deleted"
+msgstr "%d %s 削除"
+
+#: controllers/admin/manage.php:263
+msgid "Export deleted"
+msgstr "エクスポート削除"
+
+#: controllers/admin/manage.php:165 views/admin/manage/index.php:380
+msgid "Export canceled"
+msgstr "エクスポートのキャンセル"
+
+#: controllers/admin/manage.php:57
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: controllers/admin/manage.php:56
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: controllers/admin/export.php:314 controllers/admin/export.php:448
+#: controllers/admin/manage.php:233
+msgid "Options updated"
+msgstr "更新された選択肢"
+
+#: controllers/admin/settings.php:130
+msgid "Templates must be selected"
+msgstr "テンプレートの選択が必要"
+
+#: controllers/admin/settings.php:124
+msgid "Please select file."
+msgstr "ファイルを選択してください。"
+
+#: controllers/admin/settings.php:122
+msgid "Undefined entry!"
+msgstr "未定義のエントリ !"
+
+#: controllers/admin/settings.php:119
+msgid "File is empty or doesn't exests"
+msgstr "ファイルが空であるか、存在しない"
+
+#: controllers/admin/settings.php:117
+msgid "Wrong imported data format"
+msgstr "インポートしたデータのフォーマットが間違っている"
+
+#: actions/wp_ajax_wpae_preview.php:200 actions/wp_ajax_wpae_preview.php:347
+msgid "Code"
+msgstr "コード"
+
+#: actions/wp_ajax_wpae_preview.php:198 actions/wp_ajax_wpae_preview.php:345
+msgid "Line"
+msgstr "行"
+
+#: actions/wp_ajax_wpae_preview.php:199 actions/wp_ajax_wpae_preview.php:346
+msgid "Column"
+msgstr "列"
+
+#: libraries/WpaePhpInterpreterErrorHandler.php:25
+#: libraries/WpaePhpInterpreterErrorHandler.php:29
+msgid "PHP Error"
+msgstr "PHP エラー"
+
+#: libraries/WpaePhpInterpreterErrorHandler.php:23
+msgid "An unknown error occured"
+msgstr "不明なエラーが発生しました"
+
+#: libraries/XmlExportEngine.php:352
+msgid "Other"
+msgstr "その他"
+
+#: controllers/admin/manage.php:472
+msgid "File format not supported"
+msgstr "サポートされていないファイル形式"
+
+#: controllers/admin/manage.php:366
+msgid "This export doesn't exist."
+msgstr "このエクスポートは存在しません。"
+
+#: controllers/admin/settings.php:33
+msgid "Settings saved"
+msgstr "設定保存"
+
+#: actions/wp_ajax_wpae_preview.php:422
+msgid "This format is not supported."
+msgstr "このフォーマットはサポートされていません。"
+
+#: actions/wp_ajax_wpae_preview.php:413
+msgid "Data not found."
+msgstr "データが見つかりません。"
+
+#: actions/wp_ajax_wpae_preview.php:321
+msgid "Can't preview the document."
+msgstr "ドキュメントのプレビューができない。"
+
+#: actions/wp_ajax_wpae_preview.php:195 actions/wp_ajax_wpae_preview.php:342
+msgid "Invalid XML"
+msgstr "不正な XML"
+
+#: actions/wp_ajax_wpae_preview.php:63 controllers/admin/export.php:264
+msgid "XML template is empty."
+msgstr "XML テンプレートが空です。"
+
+#: actions/wp_ajax_wpae_filtering.php:109
+msgid "Migrate %s"
+msgstr "%sを移行"
+
+#: actions/wp_ajax_wpae_filtering.php:103
+msgid "Upgrade to the Pro edition of WP All Export to Migrate Users"
+msgstr "WP All Export の Pro 版にアップグレードして、ユーザーを移行する"
+
+#: actions/wp_ajax_wpae_filtering.php:114
+#: actions/wp_ajax_wpae_filtering.php:121
+msgid "Customize Export File"
+msgstr "エクスポートファイルのカスタマイズ"
+
+#: actions/admin_menu.php:12
+msgid "All Export"
+msgstr "すべてのエクスポート"
+
+#: actions/wp_ajax_wpallexport.php:29
+msgid "Export is not defined."
+msgstr "エクスポートは定義されていません。"
+
+#: actions/wp_ajax_wpae_available_rules.php:79
+#: actions/wp_ajax_wpae_available_rules.php:92
+#: views/admin/export/blocks/filters.php:53
+msgid "equal to or less than"
+msgstr "同等かそれ以下"
+
+#: actions/wp_ajax_wpae_available_rules.php:76
+#: actions/wp_ajax_wpae_available_rules.php:89
+#: views/admin/export/blocks/filters.php:50
+msgid "greater than"
+msgstr "以上"
+
+#: actions/wp_ajax_wpae_available_rules.php:78
+#: actions/wp_ajax_wpae_available_rules.php:91
+#: views/admin/export/blocks/filters.php:52
+msgid "less than"
+msgstr "未満"
+
+#: actions/wp_ajax_wpae_available_rules.php:77
+#: actions/wp_ajax_wpae_available_rules.php:90
+#: views/admin/export/blocks/filters.php:51
+msgid "equal to or greater than"
+msgstr "同等か以上"
+
+#: actions/wp_ajax_wpae_available_rules.php:48
+#: actions/wp_ajax_wpae_available_rules.php:68
+#: actions/wp_ajax_wpae_available_rules.php:81
+#: actions/wp_ajax_wpae_available_rules.php:97
+#: views/admin/export/blocks/filters.php:57
+#: views/admin/export/blocks/filters.php:71
+msgid "is not empty"
+msgstr "空ではありません"
+
+#: actions/wp_ajax_wpae_available_rules.php:47
+#: actions/wp_ajax_wpae_available_rules.php:67
+#: actions/wp_ajax_wpae_available_rules.php:80
+#: actions/wp_ajax_wpae_available_rules.php:96
+#: views/admin/export/blocks/filters.php:56
+#: views/admin/export/blocks/filters.php:70
+msgid "is empty"
+msgstr "が空"
+
+#: actions/wp_ajax_wpae_available_rules.php:45
+#: actions/wp_ajax_wpae_available_rules.php:54
+#: actions/wp_ajax_wpae_available_rules.php:65
+#: actions/wp_ajax_wpae_available_rules.php:94
+#: views/admin/export/blocks/filters.php:54
+#: views/admin/export/blocks/filters.php:68
+msgid "contains"
+msgstr "含む"
+
+#: actions/wp_ajax_wpae_available_rules.php:43
+#: views/admin/export/blocks/filters.php:67
+msgid "equal to or older than"
+msgstr "同等かより古い"
+
+#: actions/wp_ajax_wpae_available_rules.php:41
+#: views/admin/export/blocks/filters.php:65
+msgid "equal to or newer than"
+msgstr "同等かそれより新しい"
+
+#: actions/wp_ajax_wpae_available_rules.php:40
+#: views/admin/export/blocks/filters.php:64
+msgid "newer than"
+msgstr "より新しい"
+
+#: actions/wp_ajax_wpae_available_rules.php:39
+#: actions/wp_ajax_wpae_available_rules.php:64
+#: actions/wp_ajax_wpae_available_rules.php:75
+#: actions/wp_ajax_wpae_available_rules.php:88
+#: views/admin/export/blocks/filters.php:49
+#: views/admin/export/blocks/filters.php:63
+msgid "doesn't equal"
+msgstr "イコールではない"
+
+#: actions/wp_ajax_wpae_available_rules.php:42
+#: views/admin/export/blocks/filters.php:66
+msgid "older than"
+msgstr "より古い"
+
+#: actions/wp_ajax_wpae_available_rules.php:46
+#: actions/wp_ajax_wpae_available_rules.php:55
+#: actions/wp_ajax_wpae_available_rules.php:66
+#: actions/wp_ajax_wpae_available_rules.php:95
+#: views/admin/export/blocks/filters.php:55
+#: views/admin/export/blocks/filters.php:69
+msgid "doesn't contain"
+msgstr "含まれません"
+
+#: actions/wp_ajax_wpae_available_rules.php:38
+#: actions/wp_ajax_wpae_available_rules.php:63
+#: actions/wp_ajax_wpae_available_rules.php:74
+#: actions/wp_ajax_wpae_available_rules.php:87
+#: views/admin/export/blocks/filters.php:48
+#: views/admin/export/blocks/filters.php:62
+msgid "equals"
+msgstr "イコール"
+
+#: actions/wp_ajax_wpae_available_rules.php:28
+#: views/admin/export/blocks/filters.php:59
+#: views/admin/export/blocks/filters.php:73
+msgid "Not In"
+msgstr "Not In"
+
+#: actions/wp_ajax_wpae_available_rules.php:27
+#: views/admin/export/blocks/filters.php:58
+#: views/admin/export/blocks/filters.php:72
+msgid "In"
+msgstr "In"
+
+#: actions/wp_ajax_wpae_available_rules.php:21
+#: views/admin/export/blocks/filters.php:22
+msgid "Select Rule"
+msgstr "ルールを選択"
+
+#: actions/wp_ajax_wpae_filtering_count.php:302
+#: actions/wp_ajax_wpae_filtering_count.php:305
+#: actions/wp_ajax_wpae_filtering_count.php:308
+#: actions/wp_ajax_wpae_filtering_count.php:324
+#: actions/wp_ajax_wpae_filtering_count.php:327
+#: actions/wp_ajax_wpae_filtering_count.php:330
+msgid "Nothing to export."
+msgstr "エクスポートするものがない"
+
+#: actions/wp_ajax_wpae_filtering_count.php:221
+msgid "Unable to Export"
+msgstr "エクスポートできません"
+
+#: actions/wp_ajax_scheduling_dialog_content.php:840
+#: src/Scheduling/views/SchedulingUI.php:734
+msgid "Find your license."
+msgstr "ライセンスを探す"
+
+#: actions/wp_ajax_scheduling_dialog_content.php:837
+#: src/Scheduling/views/SchedulingOptions.php:849
+#: src/Scheduling/views/SchedulingUI.php:733
+msgid "Enter your license"
+msgstr "ライセンスの入力"
+
+#: actions/wp_ajax_scheduling_dialog_content.php:832
+#: src/Scheduling/views/SchedulingOptions.php:848
+#: src/Scheduling/views/SchedulingUI.php:732
+msgid "Questions?"
+msgstr "質問 ?"
+
+#: actions/wp_ajax_scheduling_dialog_content.php:832
+#: src/Scheduling/views/SchedulingOptions.php:848
+#: src/Scheduling/views/SchedulingUI.php:732
+msgid "Register this site."
+msgstr "このサイトを登録。"
+
+#: actions/wp_ajax_scheduling_dialog_content.php:830
+#: src/Scheduling/views/SchedulingOptions.php:847
+#: src/Scheduling/views/SchedulingUI.php:731
+msgid "Have a license?"
+msgstr "ライセンスを持っていますか ?"
+
+#: actions/wp_ajax_scheduling_dialog_content.php:568
+#: actions/wp_ajax_scheduling_dialog_content.php:587
+#: actions/wp_ajax_scheduling_dialog_content.php:823
+#: src/Scheduling/views/SchedulingOptions.php:598
+#: src/Scheduling/views/SchedulingOptions.php:617
+#: src/Scheduling/views/SchedulingOptions.php:840
+#: src/Scheduling/views/SchedulingUI.php:489
+#: src/Scheduling/views/SchedulingUI.php:507
+#: src/Scheduling/views/SchedulingUI.php:724
+msgid "Subscribe"
+msgstr "登録"
+
+#: actions/wp_ajax_scheduling_dialog_content.php:528
+#: src/Scheduling/views/SchedulingOptions.php:563
+#: src/Scheduling/views/SchedulingUI.php:454
+msgid "Activate"
+msgstr "有効化"
+
+#: actions/wp_ajax_scheduling_dialog_content.php:429
+#: src/Scheduling/views/SchedulingOptions.php:379
+#: src/Scheduling/views/SchedulingOptions.php:458
+msgid "I Understand"
+msgstr "理解している"
+
+#: helpers/pmxe_render_xml_text.php:16
+msgid "more"
+msgstr "もっと"
+
+#: helpers/pmxe_render_xml_element.php:44 helpers/pmxe_render_xml_text.php:10
+msgid "element"
+msgid_plural "elements"
+msgstr[0] "要素"
+
+#: actions/wp_ajax_dismiss_export_warnings.php:6
+#: actions/wp_ajax_dismiss_export_warnings.php:10
+#: actions/wp_ajax_dismiss_warnings.php:6
+#: actions/wp_ajax_dismiss_warnings.php:10
+#: actions/wp_ajax_generate_zapier_api_key.php:6
+#: actions/wp_ajax_generate_zapier_api_key.php:10
+#: actions/wp_ajax_redirect_after_addon_installed.php:6
+#: actions/wp_ajax_redirect_after_addon_installed.php:10
+#: actions/wp_ajax_save_scheduling.php:13
+#: actions/wp_ajax_save_scheduling.php:17
+#: actions/wp_ajax_scheduling_dialog_content.php:7
+#: actions/wp_ajax_scheduling_dialog_content.php:11
+#: actions/wp_ajax_wpae_available_rules.php:6
+#: actions/wp_ajax_wpae_available_rules.php:10
+#: actions/wp_ajax_wpae_filtering.php:6 actions/wp_ajax_wpae_filtering.php:10
+#: actions/wp_ajax_wpae_filtering_count.php:6
+#: actions/wp_ajax_wpae_filtering_count.php:10
+#: actions/wp_ajax_wpae_preview.php:9 actions/wp_ajax_wpae_preview.php:13
+#: actions/wp_ajax_wpae_upgrade_notice.php:6
+#: actions/wp_ajax_wpae_upgrade_notice.php:10 actions/wp_ajax_wpallexport.php:9
+#: actions/wp_ajax_wpallexport.php:13 controllers/admin/manage.php:302
+#: controllers/admin/manage.php:337 controllers/admin/manage.php:374
+#: controllers/admin/manage.php:427 controllers/controller.php:119
+#: wpae_api.php:7 wpae_api.php:11
+msgid "Security check"
+msgstr "セキュリティチェック"
+
+#: helpers/wp_all_export_get_cpt_name.php:47
+msgid "Record"
+msgstr "レコード"
+
+#: helpers/wp_all_export_get_cpt_name.php:47
+msgid "Records"
+msgstr "レコード"
+
+#: helpers/wp_all_export_get_cpt_name.php:27
+msgid "Taxonomy Term"
+msgstr "タクソノミーターム"
+
+#: helpers/wp_all_export_get_cpt_name.php:27
+msgid "Taxonomy Terms"
+msgstr "タクソノミーターム"
+
+#: helpers/wp_all_export_get_cpt_name.php:18
+msgid "Comment"
+msgstr "コメント"
+
+#: helpers/wp_all_export_get_cpt_name.php:18 views/admin/export/index.php:70
+msgid "Comments"
+msgstr "コメント"
+
+#: helpers/wp_all_export_get_cpt_name.php:14
+msgid "Customer"
+msgstr "顧客"
+
+#. Plugin Name of the plugin
+#: actions/admin_menu.php:12 actions/admin_menu.php:16
+#: actions/admin_menu.php:17 actions/admin_menu.php:18
+#: models/export/record.php:369
+msgid "WP All Export"
+msgstr "WP All Export"
+
+#. Author of the plugin
+msgid "Soflyy"
+msgstr "Soflyy"
+
+#: helpers/wp_all_export_get_cpt_name.php:14
+msgid "Customers"
+msgstr "顧客"
+
+#: helpers/wp_all_export_get_cpt_name.php:10
+msgid "User"
+msgstr "ユーザー"
+
+#: helpers/wp_all_export_get_cpt_name.php:10 views/admin/export/index.php:74
+msgid "Users"
+msgstr "ユーザー"
+
+#: filters/wpallexport_custom_types.php:26
+msgid "WooCommerce Customers"
+msgstr "WooCommerce の顧客"
+
+#: filters/wpallexport_custom_types.php:9
+msgid "WooCommerce Coupons"
+msgstr "WooCommerce クーポン"
+
+#: filters/wpallexport_custom_types.php:7
+msgid "WooCommerce Products"
+msgstr "WooCommerce 製品"
+
+#: filters/wpallexport_custom_types.php:8
+msgid "WooCommerce Orders"
+msgstr "WooCommerce の注文"
+
+#: helpers/pmxe_render_xml_element.php:44 helpers/pmxe_render_xml_text.php:10
+msgid "<strong>%s</strong> %s more"
+msgstr "<strong>%s</strong> %s もっと"
+
+#: actions/wp_ajax_wpae_filtering_count.php:343
+msgid "Continue to configure and run your export."
+msgstr "引き続き、エクスポートの設定と実行を行います。"
+
+#: actions/wp_ajax_wpae_filtering_count.php:321
+#: views/admin/export/template.php:25
+msgid "Drag &amp; drop data to include in the export file."
+msgstr "エクスポートファイルに含めるデータをドラッグドロップします。"
+
+#: actions/wp_ajax_wpae_filtering_count.php:309
+#: actions/wp_ajax_wpae_filtering_count.php:331
+#: actions/wp_ajax_wpae_filtering_count.php:347
+msgid "There aren't any %s to export."
+msgstr "エクスポートする%sがありません。"
+
+#: actions/wp_ajax_scheduling_dialog_content.php:645
+#: src/Scheduling/views/SchedulingOptions.php:672
+#: src/Scheduling/views/SchedulingUI.php:554
+msgid "Do Not Schedule"
+msgstr "スケジュールしない"
+
+#: actions/wp_ajax_scheduling_dialog_content.php:652
+#: src/Scheduling/views/SchedulingOptions.php:679
+#: src/Scheduling/views/SchedulingOptions.php:869
+#: src/Scheduling/views/SchedulingUI.php:560
+#: src/Scheduling/views/SchedulingUI.php:771 views/admin/manage/index.php:462
+msgid "Automatic Scheduling"
+msgstr "自動スケジューリング"
+
+#: actions/wp_ajax_scheduling_dialog_content.php:575
+#: src/Scheduling/views/SchedulingOptions.php:605
+#: src/Scheduling/views/SchedulingUI.php:495
+msgid "Invalid license, try again?"
+msgstr "ライセンスが無効です、もう一度お試しください ?"
+
+#: actions/wp_ajax_wpae_filtering_count.php:298
+msgid "Your export is ready to run."
+msgstr "エクスポートの準備が整いました。"
+
+#: actions/wp_ajax_wpae_filtering_count.php:299
+msgid "WP All Export will export %d %s."
+msgstr "WP All Export は、%d %sをエクスポートします。"
+
+#: actions/wp_ajax_wpae_filtering_count.php:303
+#: actions/wp_ajax_wpae_filtering_count.php:325
+msgid "All %s have already been exported."
+msgstr "すべての%sはすでにエクスポートされています。"
+
+#: actions/wp_ajax_wpae_filtering_count.php:306
+#: actions/wp_ajax_wpae_filtering_count.php:328
+#: actions/wp_ajax_wpae_filtering_count.php:345
+msgid "No matching %s found for selected filter rules."
+msgstr "選択したフィルタールールに一致する%sが見つかりませんでした。"
+
+#: actions/wp_ajax_wpae_filtering_count.php:222
+msgid "Exporting taxonomies requires WordPress 4.6 or greater"
+msgstr "タクソノミーのエクスポートには、WordPress 4.6以上が必要です。"
+
+#: actions/wp_ajax_scheduling_dialog_content.php:829
+#: src/Scheduling/views/SchedulingOptions.php:846
+#: src/Scheduling/views/SchedulingUI.php:730
+msgid "Get automatic scheduling for unlimited sites, just $9/mo."
+msgstr "無制限のサイトの自動スケジューリングを、わずか9ドル / 月でご利用いただけます。"
+
+#: actions/wp_ajax_scheduling_dialog_content.php:720
+#: src/Scheduling/views/SchedulingOptions.php:745
+#: src/Scheduling/views/SchedulingUI.php:629
+msgid "Every month on the first..."
+msgstr "毎月1日に ..."
+
+#: actions/wp_ajax_scheduling_dialog_content.php:676
+#: src/Scheduling/views/SchedulingOptions.php:702
+#: src/Scheduling/views/SchedulingUI.php:586
+msgid "Every week on..."
+msgstr "毎週 ..."
+
+#: actions/wp_ajax_scheduling_dialog_content.php:665
+#: src/Scheduling/views/SchedulingOptions.php:691
+#: src/Scheduling/views/SchedulingUI.php:573
+msgid "Run this export on a schedule."
+msgstr "このエクスポートをスケジュールで実行します。"
+
+#: actions/wp_ajax_wpae_filtering.php:36
+msgid "Add Filtering Options"
+msgstr "フィルターオプションの追加"
+
+#: actions/wp_loaded.php:243
+msgid "Export hash is not valid."
+msgstr "エクスポートハッシュが有効でない。"
+
+#: actions/wp_loaded.php:234
+msgid "File doesn't exist"
+msgstr "ファイルが存在しない"
+
+#: actions/admin_menu.php:18 views/admin/settings/index.php:38
+msgid "Settings"
+msgstr "設定"
+
+#: actions/admin_menu.php:16 views/admin/export/index.php:12
+msgid "New Export"
+msgstr "新たなエクスポート"
+
+#: actions/admin_menu.php:16
+msgid "Export to XML"
+msgstr "XML へのエクスポート"
+
+#: actions/admin_menu.php:17 views/admin/manage/index.php:8
+msgid "Manage Exports"
+msgstr "エクスポートの管理"
+
+#: actions/wp_ajax_wpae_preview.php:250
+msgid "There was a problem parsing the custom XML template"
+msgstr "カスタム XML テンプレートの解析に問題がありました"
+
+#: controllers/admin/settings.php:48
+msgid "License activated."
+msgstr "ライセンスが有効になりました。"
+
+#: controllers/admin/settings.php:90
+msgid "Unknown File extension. Only txt files are permitted"
+msgstr "不明なファイル拡張子です。txt ファイルのみ許可されます"
+
+#: controllers/admin/settings.php:100
+msgid "The template is invalid. Options are missing."
+msgstr "テンプレートが無効です。オプションがありません。"
+
+#: views/admin/export/template.php:229 views/admin/export/template.php:296
+msgid "You will not be able to reimport data to the product variations, and you will not be able to import these products to another site."
+msgstr "製品のバリエーションにデータを再インポートすることはできませんし、これらの製品を別のサイトにインポートすることもできません。"
+
+#: views/admin/export/template.php:166
+msgid "Warning: without %s you won't be able to re-import this data back to this site using WP All Import."
+msgstr "警告:  %s がないと、WP All Import を使ってこのデータをこのサイトに再インポートすることができません。"
+
+#: views/admin/export/template/add_new_field.php:145
+msgid "You can drag and drop fields from Available Data, add static text, and use PHP functions"
+msgstr "Available Data からフィールドをドラッグ & ドロップしたり、静的なテキストを追加したり、PHP の関数を使用したりすることができます"
+
+#: views/admin/export/template/custom_xml_help.php:89
+msgid "If we had two products, each with two images, here's what our XML file would look like:"
+msgstr "2つの製品があり、それぞれに2つの画像があるとすると、XML ファイルは以下のようになります。"
+
+#: views/admin/export/template/custom_xml_help.php:81
+msgid "Then in the Function Editor we'd define my_price_function() like so:"
+msgstr "そして、関数エディターで、my_price_function() を次のように定義します:"
+
+#: views/admin/export/template/custom_xml_help.php:45
+msgid "And you'll just get one XML element with all of the values, like this:"
+msgstr "そして、このようにすべての値を含む1つの XML 要素が得られます:"
+
+#: views/admin/export/template/advanced_field_options.php:11
+msgid "Display each repeater row in its own csv line"
+msgstr "各リピーター行をそれぞれの csv 行に表示する"
+
+#: views/admin/export/blocks/filters.php:42
+msgid "No filtering options. Add filtering options to only export records matching some specified criteria."
+msgstr "フィルタリングオプションなし。フィルタリングオプションを追加して、指定された条件に一致するレコードのみをエクスポートします。"
+
+#: controllers/admin/manage.php:294 views/admin/manage/bulk.php:10
+msgid "export"
+msgid_plural "exports"
+msgstr[0] ""
+"単数形:\n"
+"エクスポート\n"
+"複数形:\n"
+"エクスポート"
+
+#: views/admin/export/success_page.php:72
+msgid "Upload the Bundle to WP All Import on another site to quickly import this data."
+msgstr "別のサイトの WP All Import に Bundle をアップロードすると、このデータをすばやく取り込むことができます。"
+
+#: views/admin/export/options/settings.php:53
+msgid "Allow non-admins to run this export in Client Mode"
+msgstr "クライアントモードで管理者以外にこのエクスポートの実行を許可する"
+
+#: views/admin/export/success_page.php:71
+msgid "The bundle contains your exported data and a settings file for WP All Import."
+msgstr "バンドルには、エクスポートしたデータと、WP All Import 用の設定ファイルが含まれています。"
+
+#: views/admin/export/options/settings.php:42
+msgid "Split large exports into multiple files"
+msgstr "大容量のエクスポートを複数のファイルに分割"
+
+#: views/admin/export/options/settings.php:36
+msgid "Create a new file each time export is run"
+msgstr "エクスポートを実行するたびに新しいファイルを作成"
+
+#: views/admin/export/options/settings.php:31
+msgid "The BOM will help some programs like Microsoft Excel read your export file if it includes non-English characters."
+msgstr "BOMは、Microsoft Excel などの一部のプログラムで、エクスポートファイルに英語以外の文字が含まれている場合に、そのファイルを読むのに役立ちます。"
+
+#: views/admin/export/options/settings.php:24
+msgid "Only export %s that have been modified since last export"
+msgstr "前回のエクスポート以降に変更された%sのみをエクスポートする"
+
+#: views/admin/export/template.php:501
+#: views/admin/export/template/functions_editor.php:20
+#: views/admin/settings/index.php:231
+msgid "Add functions here for use during your export. You can access this file at %s"
+msgstr "エクスポート時に使用する関数をここに追加します。このファイルは%sでアクセスできます"
+
+#: views/admin/export/success_page.php:110
+msgid "After you've downloaded your data, edit it however you like."
+msgstr "データをダウンロードしたら、好きなように編集してみましょう。"
+
+#: views/admin/export/success_page.php:111
+msgid "Then, click below to import the data with WP All Import without having to set anything up."
+msgstr "そして、以下をクリックすると、何も設定しなくても WP All Import でデータを取り込むことができます。"
+
+#: views/admin/export/options.php:113
+msgid "Looks like you're trying out Automatic Scheduling!"
+msgstr "自動スケジューリングを試しているようですね !"
+
+#: views/admin/export/success_page.php:102
+msgid "Click here to read more about WP All Export's Zapier Integration."
+msgstr "WP All Export の Zapier Integration の詳細はこちらをご覧ください。"
+
+#: views/admin/export/success_page.php:99
+msgid "Upgrade to the Pro edition of WP All Export for Zapier integration"
+msgstr "WP All Export の Pro 版にアップグレードするとZapier 連携が可能に"
+
+#: views/admin/export/success_page.php:96
+msgid "Automatically send your data to over 500 apps with Zapier."
+msgstr "Zapier を使って500以上のアプリにデータを自動的に送信。"
+
+#: views/admin/export/options.php:114
+msgid "Your Automatic Scheduling settings won't be saved without a subscription."
+msgstr "自動スケジューリングの設定は、サブスクリプションに加入していないと保存されません。"
+
+#: views/admin/export/process.php:24
+msgid "Exporting may take some time. Please do not close your browser or refresh the page until the process is complete."
+msgstr "エクスポートには時間がかかる場合があります。処理が完了するまで、ブラウザーを閉じたり、ページを更新したりしないでください。"
+
+#: views/admin/settings/index.php:130
+msgid "Upgrade to the Pro edition of WP All Export for Zapier Integration"
+msgstr "WP All Export for Zapier Integration の Pro 版へのアップグレードについて"
+
+#: views/admin/export/options/settings.php:37
+msgid "If disabled, the export file will be overwritten every time this export run."
+msgstr "無効にした場合、このエクスポートを実行するたびに、エクスポートファイルが上書きされます。"
+
+#: views/admin/export/success_page.php:81
+msgid "This URL will always provide the export file from this export, even if the file name changes."
+msgstr "このURLは、ファイル名が変更されても、常にこのエクスポートからのエクスポートファイルを提供します。"
+
+#: views/admin/export/template/advanced_field_options.php:16
+msgid "If enabled, each repeater row will appear as its own csv line with all post info filled in for every column."
+msgstr "有効にすると、リピーターの各行は、すべての列にすべてのポスト情報が記入された独自の csv 行として表示されます。"
+
+#: views/admin/export/template/custom_xml_help.php:60
+msgid "Product Price (processed via a PHP function so that they end in .99)"
+msgstr "製品価格 (.99で終わるように、PHPの関数で処理されます)"
+
+#: views/admin/export/template/custom_xml_help.php:55
+msgid "Let's say we want to make an XML feed of our WooCommerce products with these requirements:"
+msgstr "例えば、このような条件で WooCommerce の製品の XML フィードを作りたいとします。"
+
+#: views/admin/manage/scheduling.php:37
+msgid "The Execution script actually executes the export, once it has been triggered with the Trigger script."
+msgstr "Execution スクリプトは、Trigger スクリプトでトリガーされたエクスポートを、実際に実行します。"
+
+#: views/admin/manage/scheduling.php:11
+msgid "Run the trigger script when you want to update your export. Once per 24 hours is recommended."
+msgstr "エクスポートを更新したいときに、トリガースクリプトを実行してください。24時間に1回の実行を推奨します。"
+
+#: views/admin/settings/index.php:123
+msgid "Changing the key will require you to update your existing Zaps on Zapier."
+msgstr "キーを変更するには、Zapier 上の既存の Zaps を更新する必要があります。"
+
+#: controllers/admin/manage.php:478 controllers/admin/manage.php:483
+msgid "The exported file is missing and can't be downloaded. Please re-run your export to re-generate it."
+msgstr "エクスポートしたファイルが見つからず、ダウンロードできませんでした。再度、エクスポートを実行して、再生成してください。"
+
+#: controllers/admin/settings.php:104
+msgid "The template you've uploaded is intended to be used with WP All Import plugin."
+msgstr "アップロードしたテンプレートは、WP All Import プラグインで使用することを想定しています。"
+
+#: wp-all-export.php:402 wp-all-export.php:406
+msgid "Uploads folder %s must be writable"
+msgstr "アップロードフォルダー%sは書き込み可能でなければなりません"
+
+#: wp-all-export.php:40
+msgid "Please de-activate and remove the free version of the WP All Export before activating the paid version."
+msgstr "有料版を有効にする前に、無料版の「WP All Export」を無効にして削除してください。"
+
+#: actions/wp_ajax_wpae_preview.php:361
+msgid "Can't preview the document. Root element is not detected."
+msgstr "ドキュメントのプレビューができない。ルート要素が検出されません。"
+
+#: actions/wp_ajax_wpae_preview.php:323 actions/wp_ajax_wpae_preview.php:363
+msgid "You can continue export or try to use &lt;data&gt; tag as root element."
+msgstr "書き出しを続けるか、&lt;data&gt;タグをルート要素として使用してみてください。"
+
+#: actions/wp_ajax_wpae_filtering.php:91 views/admin/export/success_page.php:51
+msgid "Upgrade to the Pro edition of WP All Export to Migrate Orders"
+msgstr "WP All ExportのPro版にアップグレードしてオーダーを移行する"
+
+#. Description of the plugin
+msgid "Export any post type to a CSV or XML file. Edit the exported data, and then re-import it later using WP All Import."
+msgstr "あらゆる投稿タイプを CSV または XML ファイルにエクスポートできます。エクスポートしたデータを編集し、後で WP All Import を使って再インポートすることができます。"
+
+#: controllers/admin/export.php:123
+msgid "ZipArchive class is missing on your server.<br/>Please contact your web hosting provider and ask them to install and activate ZipArchive."
+msgstr "ZipArchive クラスがサーバーにありません。<br/>ウェブホスティングサービスプロバイダに連絡して、ZipArchive のインストールと有効化をお願いしてください。"
+
+#: actions/wp_ajax_wpae_filtering.php:92 actions/wp_ajax_wpae_filtering.php:104
+#: src/Scheduling/views/ManualScheduling.php:14
+#: views/admin/export/blocks/filters.php:3 views/admin/export/index.php:248
+#: views/admin/export/success_page.php:52 views/admin/export/template.php:361
+#: views/admin/export/template.php:495 views/admin/export/template.php:549
+#: views/admin/export/template.php:556
+#: views/admin/export/template/functions_editor.php:27
+#: views/admin/settings/index.php:131 views/admin/settings/index.php:208
+#: views/admin/settings/index.php:224
+msgid "If you already own it, remove the free edition and install the Pro edition."
+msgstr "すでにお持ちの方は、無料版を削除して、Pro 版をインストールしてください。"

@@ -1,0 +1,972 @@
+# Translation of Plugins - Autoptimize - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Autoptimize - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-27 15:21:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Autoptimize - Stable (latest release)\n"
+
+#: classes/autoptimizeMetabox.php:64
+msgid "Optimize this page?"
+msgstr "Optimera denna sida?"
+
+#: classes/autoptimizeMetabox.php:88
+msgid "Optimize CSS?"
+msgstr "Optimera CSS?"
+
+#: classes/autoptimizeMetabox.php:76
+msgid "Optimize JS?"
+msgstr "Optimera JS?"
+
+#: classes/autoptimizeMetabox.php:115
+msgid "Lazyload images?"
+msgstr "Uppskjuten inläsning av bilder?"
+
+#: classes/autoptimizeMetabox.php:103
+msgid "Inline critical CSS?"
+msgstr "Inline högprioriterad CSS?"
+
+#: classes/autoptimizeConfig.php:353
+msgid "Remove Unused CSS?"
+msgstr "Ta bort oanvänd CSS?"
+
+#: classes/autoptimizeConfig.php:323
+msgid "Eliminate render-blocking CSS?"
+msgstr "Eliminera visnings-blockerande CSS?"
+
+#: classes/autoptimizeConfig.php:282
+msgid "Remove Unused JavaScript?"
+msgstr "Ta bort oanvänd JavaScript?"
+
+#: classes/critcss-inc/admin_settings_adv.php:118
+msgid "Unload critical CSS after page load?"
+msgstr "Ta bort högprioriterad CSS efter sidhämtning?"
+
+#: classes/critcss-inc/admin_settings_adv.php:123
+msgid "In rare cases the critical CSS needs to be removed once the full CSS loads, this option makes it so!"
+msgstr "I sällsynta fall måste högprioriterad CSS tas bort efter att hela CSS:en har laddats. Det är vad denna inställning gör!"
+
+#: classes/autoptimizeCriticalCSSCore.php:397
+#: classes/autoptimizeCriticalCSSCore.php:414
+msgid "Invalid"
+msgstr "Ogiltig"
+
+#: classes/autoptimizeCriticalCSSCore.php:390
+#: classes/autoptimizeCriticalCSSCore.php:408
+msgid "Valid"
+msgstr "Giltig"
+
+#: classes/autoptimizeCriticalCSSCore.php:428
+msgid "Please enter a valid <a href=\"https://criticalcss.com/?aff=1\" target=\"_blank\">criticalcss.com</a> API key to start."
+msgstr "Ange en giltig <a href=\"https://criticalcss.com/?aff=1\" target=\"_blank\">criticalcss.com</a> API-nyckel för att börja."
+
+#: classes/autoptimizeCriticalCSSCore.php:399
+#: classes/autoptimizeCriticalCSSCore.php:417
+msgid "Your API key is invalid. Please enter a valid <a href=\"https://criticalcss.com/?aff=1\" target=\"_blank\">criticalcss.com</a> key."
+msgstr "Din API-nyckel är ogiltig. Ange en giltig <a href=\"https://criticalcss.com/?aff=1\" target=\"_blank\">criticalcss.com</a> nyckel."
+
+#: classes/autoptimizeCriticalCSSCore.php:419
+msgid "Something went wrong when checking your API key, make sure you server can communicate with https://criticalcss.com and/ or try again later."
+msgstr "Något gick fel vid kontroll av din API-nyckel, se till att din server kan kommunicera med https://criticalcss.com och/eller försök igen senare."
+
+#: classes/critcss-inc/admin_settings_rules.php:199
+msgid "Remove all rules"
+msgstr "Ta bort alla regler"
+
+#: classes/critcss-inc/admin_settings_rules.php:196
+msgid "Add CSS To All Rules"
+msgstr "Lägg till CSS till alla regler"
+
+#: classes/critcss-inc/admin_settings_rules.php:194
+msgid "Add New Rule"
+msgstr "Lägg till ny regel"
+
+#: classes/critcss-inc/admin_settings_rules.php:195
+msgid "Edit Default Rule CSS"
+msgstr "Redigera standardregler för CSS"
+
+#: classes/autoptimizeCriticalCSSBase.php:197
+msgid "Autoptimize CriticalCSS"
+msgstr "Autoptimize högprioriterad CSS"
+
+#: classes/critcss-inc/admin_settings_rules.php:142
+msgid "Delete Rule"
+msgstr "Ta bort regel"
+
+#: classes/critcss-inc/admin_settings_rules.php:79
+msgid "Page Templates"
+msgstr "Sidmallar"
+
+#: classes/critcss-inc/admin_settings_rules.php:75
+msgid "Custom Post Types"
+msgstr "Anpassade inläggstyper"
+
+#: classes/critcss-inc/admin_settings_rules.php:33
+msgid "Path"
+msgstr "Sökväg"
+
+#: classes/critcss-inc/admin_settings_rules.php:40
+msgid "String in Path"
+msgstr "Sträng i sökväg"
+
+#: classes/critcss-inc/admin_settings_rules.php:29
+msgid "Rule Type"
+msgstr "Regeltyp"
+
+#: classes/critcss-inc/admin_settings_rules.php:16
+msgid "Rules"
+msgstr "Regler"
+
+#: classes/critcss-inc/admin_settings_debug.php:39
+msgid "Options"
+msgstr "Alternativ"
+
+#: classes/critcss-inc/admin_settings_debug.php:33
+msgid "Debug Information"
+msgstr "Felsökningsinformation"
+
+#: classes/critcss-inc/admin_settings_rules.js.php:243
+#: classes/critcss-inc/admin_settings_rules.js.php:274
+#: classes/critcss-inc/admin_settings_rules.js.php:295
+msgid "Submit"
+msgstr "Skicka"
+
+#: classes/critcss-inc/admin_settings_rules.js.php:111
+msgid "Delete All"
+msgstr "Ta bort alla"
+
+#: classes/critcss-inc/admin_settings_rules.js.php:80
+msgid "Remove"
+msgstr "Ta bort"
+
+#: classes/critcss-inc/admin_settings_rules.js.php:80
+msgid "Edit"
+msgstr "Redigera"
+
+#: classes/critcss-inc/admin_settings_rules.js.php:64
+msgid "AUTO"
+msgstr "AUTO"
+
+#: classes/critcss-inc/admin_settings_rules.js.php:61
+msgid "MANUAL"
+msgstr "MANUELLT"
+
+#: classes/critcss-inc/admin_settings_rules.js.php:48
+msgid "Target"
+msgstr "Mål"
+
+#: classes/critcss-inc/admin_settings_rules.js.php:48
+msgid "Type"
+msgstr "Typ"
+
+#: classes/critcss-inc/admin_settings_rules.php:52
+msgid "Select from the list below..."
+msgstr "Välj från listan nedan…"
+
+#: classes/critcss-inc/admin_settings_rules.php:87
+msgid "BuddyPress Conditional Tags"
+msgstr "Villkorliga taggar för BuddyPress"
+
+#: classes/critcss-inc/admin_settings_rules.php:83
+msgid "BBPress Conditional Tags"
+msgstr "Villkorliga taggar för BBPress"
+
+#: classes/critcss-inc/admin_settings_rules.php:91
+msgid "Easy Digital Downloads Conditional Tags"
+msgstr "Villkorliga taggar för Easy Digital Downloads"
+
+#: classes/critcss-inc/admin_settings_rules.php:95
+msgid "WooCommerce Conditional Tags"
+msgstr "Villkorliga taggar för WooCommerce"
+
+#: classes/critcss-inc/admin_settings_rules.php:34
+msgid "Conditional Tag"
+msgstr "Villkorlig tagg"
+
+#: classes/critcss-inc/admin_settings_rules.js.php:187
+msgid "Loading critical CSS..."
+msgstr "Läser in högprioriterad CSS …"
+
+#: classes/critcss-inc/admin_settings_rules.php:53
+msgid "Standard Conditional Tags"
+msgstr "Standardvillkorade taggar"
+
+#: classes/critcss-inc/admin_settings_rules.php:48
+msgid "Conditional Tag, Custom Post Type or Page Template"
+msgstr "Villkorlig tagg, anpassad inläggstyp eller sidmall"
+
+#: classes/critcss-inc/admin_settings_rules.js.php:44
+msgid "Conditional Tags, Custom Post Types and Page Templates Rules"
+msgstr "Villkorliga taggar, anpassade inläggstyper och regler för sidmallar"
+
+#: classes/critcss-inc/admin_settings_rules.js.php:216
+msgid "Add Critical CSS Rule"
+msgstr "Lägg till högprioriterad CSS-regel"
+
+#: classes/critcss-inc/admin_settings_rules.js.php:176
+msgid "Edit Critical CSS Rule"
+msgstr "Redigera högprioriterad CSS-regel"
+
+#: classes/critcss-inc/admin_settings_rules.js.php:48
+msgid "Critical CSS File"
+msgstr "Högprioriterad CSS-fil"
+
+#: classes/critcss-inc/admin_settings_rules.php:147
+msgid "Delete all Rules and Jobs"
+msgstr "Ta bort alla regler och jobb"
+
+#: classes/critcss-inc/admin_settings_rules.php:130
+msgid "Custom Critical CSS"
+msgstr "Anpassad högprioriterad CSS"
+
+#: classes/critcss-inc/admin_settings_rules.js.php:292
+msgid "Additional Critical CSS"
+msgstr "Ytterligare högprioriterad CSS"
+
+#: classes/critcss-inc/admin_settings_rules.php:133
+msgid "Paste your specific critical CSS here and hit submit to save."
+msgstr "Klistra in din specifika högprioriterade CSS här och tryck på ”Skicka” för att spara."
+
+#: classes/critcss-inc/admin_settings_adv.php:140
+msgid "Debug Mode"
+msgstr "Felsökningsläge"
+
+#: classes/critcss-inc/admin_settings_adv.php:84
+msgid "Add CCSS for logged in users?"
+msgstr "Lägg till CCSS för inloggade användare?"
+
+#: classes/critcss-inc/admin_settings_adv.php:73
+msgid "Fetch Original CSS"
+msgstr "Hämta ursprunglig CSS"
+
+#: classes/critcss-inc/admin_settings_adv.php:43
+msgid "Height"
+msgstr "Höjd"
+
+#: classes/critcss-inc/admin_settings_adv.php:42
+msgid "Width"
+msgstr "Bredd"
+
+#: classes/critcss-inc/admin_settings_adv.php:39
+msgid "Viewport Size"
+msgstr "Visningsområdets storlek"
+
+#: classes/critcss-inc/admin_settings_adv.php:31
+msgid "Advanced Settings"
+msgstr "Avancerade inställningar"
+
+#: classes/critcss-inc/admin_settings_queue.js.php:181
+msgid "Retry"
+msgstr "Försök igen"
+
+#: classes/critcss-inc/admin_settings_queue.js.php:148
+#: classes/critcss-inc/admin_settings_queue.js.php:166
+#: classes/critcss-inc/admin_settings_queue.js.php:196
+#: classes/critcss-inc/admin_settings_rules.js.php:98
+#: classes/critcss-inc/admin_settings_rules.js.php:118
+#: classes/critcss-inc/admin_settings_rules.js.php:257
+#: classes/critcss-inc/admin_settings_rules.js.php:279
+#: classes/critcss-inc/admin_settings_rules.js.php:300
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: classes/critcss-inc/admin_settings_queue.js.php:143
+#: classes/critcss-inc/admin_settings_rules.js.php:93
+msgid "Delete"
+msgstr "Ta bort"
+
+#: classes/critcss-inc/admin_settings_queue.js.php:114
+msgid "N/A"
+msgstr "N/A"
+
+#: classes/critcss-inc/admin_settings_queue.js.php:106
+msgid "UNKNOWN"
+msgstr "OKÄND"
+
+#: classes/critcss-inc/admin_settings_queue.js.php:98
+#: classes/critcss-inc/admin_settings_queue.js.php:107
+msgid "Get Help"
+msgstr "Skaffa hjälp"
+
+#: classes/critcss-inc/admin_settings_queue.js.php:97
+msgid "ERROR"
+msgstr "FEL"
+
+#: classes/critcss-inc/admin_settings_queue.js.php:90
+msgid "DONE"
+msgstr "KLART"
+
+#: classes/critcss-inc/admin_settings_queue.js.php:83
+#: classes/critcss-inc/admin_settings_queue.js.php:97
+#: classes/critcss-inc/admin_settings_queue.js.php:106
+msgid "- Result: "
+msgstr "– Resultat: "
+
+#: classes/critcss-inc/admin_settings_queue.js.php:83
+#: classes/critcss-inc/admin_settings_queue.js.php:97
+#: classes/critcss-inc/admin_settings_queue.js.php:106
+msgid "- Status: "
+msgstr "– Status: "
+
+#: classes/autoptimizeCriticalCSSCore.php:426
+#: classes/critcss-inc/admin_settings_queue.js.php:72
+#: classes/critcss-inc/admin_settings_queue.js.php:78
+msgid "None"
+msgstr "Ingen"
+
+#: classes/critcss-inc/admin_settings_queue.js.php:71
+msgid "New"
+msgstr "Ny"
+
+#: classes/critcss-inc/admin_settings_queue.php:77
+#: classes/critcss-inc/admin_settings_rules.js.php:48
+msgid "Actions"
+msgstr "Åtgärder"
+
+#: classes/critcss-inc/admin_settings_queue.php:77
+msgid "Page Type"
+msgstr "Sidtyp"
+
+#: classes/critcss-inc/admin_settings_queue.php:77
+msgid "Status"
+msgstr "Status"
+
+#: classes/critcss-inc/admin_settings_queue.js.php:83
+msgid "REVIEW"
+msgstr "GRANSKA"
+
+#: classes/critcss-inc/admin_settings_queue.php:77
+msgid "Target Rule"
+msgstr "Målregel"
+
+#: classes/critcss-inc/admin_settings_queue.js.php:161
+msgid "Delete all jobs?"
+msgstr "Ta bort alla jobb?"
+
+#: classes/critcss-inc/admin_settings_queue.js.php:83
+#: classes/critcss-inc/admin_settings_queue.js.php:97
+#: classes/critcss-inc/admin_settings_queue.js.php:106
+msgid "Info from criticalcss.com:"
+msgstr "Information från criticalcss.com:"
+
+#: classes/critcss-inc/admin_settings_queue.php:77
+msgid "Finish Date"
+msgstr "Slutdatum"
+
+#: classes/critcss-inc/admin_settings_queue.php:77
+msgid "Creation Date"
+msgstr "Skapat den"
+
+#: classes/critcss-inc/admin_settings_queue.js.php:77
+msgid "PENDING"
+msgstr "VÄNTANDE"
+
+#: classes/critcss-inc/admin_settings_queue.php:77
+msgid "Page Path"
+msgstr "Sökväg för sida"
+
+#: classes/critcss-inc/admin_settings_queue.js.php:83
+#: classes/critcss-inc/admin_settings_queue.js.php:97
+#: classes/critcss-inc/admin_settings_queue.js.php:106
+msgid "- Validation: "
+msgstr "– Validering: "
+
+#: classes/critcss-inc/admin_settings_queue.js.php:83
+#: classes/critcss-inc/admin_settings_queue.js.php:97
+#: classes/critcss-inc/admin_settings_queue.js.php:106
+msgid "- Job ID: "
+msgstr "– Jobb-ID: "
+
+#: classes/critcss-inc/admin_settings_queue.js.php:120
+msgid "Job status is "
+msgstr "Jobbstatus är "
+
+#: classes/critcss-inc/admin_settings_key.php:43
+msgid "Your API Key"
+msgstr "Din API-nyckel"
+
+#: classes/critcss-inc/admin_settings_key.php:22
+msgid "API Key"
+msgstr "API-nyckel"
+
+#: classes/critcss-inc/admin_settings_queue.php:23
+msgid "Job Queue"
+msgstr "Jobbkö"
+
+#: classes/critcss-inc/admin_settings_queue.js.php:98
+#: classes/critcss-inc/admin_settings_queue.php:37
+msgid "Retry Job"
+msgstr "Försök jobbet igen"
+
+#: classes/critcss-inc/admin_settings_queue.php:38
+msgid "Are you sure you want to retry this job?"
+msgstr "Är du säker på att du vill försöka med detta jobb igen?"
+
+#: classes/critcss-inc/admin_settings_key.php:46
+msgid "Please enter your criticalcss.com API key here."
+msgstr "Ange din API-nyckel för criticalcss.com här."
+
+#: classes/critcss-inc/admin_settings_queue.php:47
+msgid "Delete all jobs"
+msgstr "Ta bort alla jobb"
+
+#: classes/critcss-inc/admin_settings_queue.php:43
+msgid "Are you sure you want to delete this job?"
+msgstr "Är du säker på att du vill ta bort detta jobb?"
+
+#: classes/critcss-inc/admin_settings_queue.js.php:84
+#: classes/critcss-inc/admin_settings_queue.js.php:91
+#: classes/critcss-inc/admin_settings_queue.js.php:98
+#: classes/critcss-inc/admin_settings_queue.js.php:107
+#: classes/critcss-inc/admin_settings_queue.php:42
+msgid "Delete Job"
+msgstr "Ta bort jobb"
+
+#: classes/critcss-inc/admin_settings_queue.php:48
+msgid "This will delete all jobs, are you sure?"
+msgstr "Detta kommer ta bort alla jobb, är du säker?"
+
+#: classes/autoptimizeCriticalCSSSettings.php:353
+msgid "Import Settings"
+msgstr "Importera inställningar"
+
+#: classes/autoptimizeCriticalCSSSettings.php:352
+msgid "Export Settings"
+msgstr "Exportera inställningar"
+
+#: classes/autoptimizeCriticalCSSSettings.php:140
+msgid "Could not create the required directory. Make sure the webserver can write to the wp-content directory."
+msgstr "Det gick inte att skapa den katalog som krävs. Se till att webbservern kan skriva till katalogen wp-content."
+
+#: classes/autoptimizeConfig.php:214
+msgid "Enable site configuration?"
+msgstr "Aktivera webbplatskonfiguration?"
+
+#: classes/autoptimizeConfig.php:211
+msgid "Multisite Options"
+msgstr "Alternativ för multisite"
+
+#: classes/autoptimizeConfig.php:445
+msgid "Also optimize for logged in editors/ administrators?"
+msgstr "Optimera även för inloggade redaktörer/administratörer?"
+
+#. translators: "display:swap" should remain untranslated, will be shown in
+#. code tags.
+#. translators: "display:swap" should remain untranslated, will be shown in
+#. code tags.
+#: classes/autoptimizeExtra.php:509 classes/autoptimizeExtra.php:511
+msgid "includes %1$sdisplay:swap%2$s."
+msgstr "inkluderar  %1$sdisplay:swap%2$s."
+
+#: classes/autoptimizeConfig.php:216
+msgid "Enable Autoptimize configuration per site."
+msgstr "Aktivera konfigurationen av Autoptimize per webbplats."
+
+#: classes/autoptimizeExtra.php:534
+msgid "Preload specific requests <em>(advanced users)</em>"
+msgstr "Förladda specifika förfrågningar <em>(avancerade användare)</em>"
+
+#: classes/autoptimizeExtra.php:536
+msgid "Comma-separated list with full URL's of to to-be-preloaded resources. To be used sparingly!"
+msgstr "Kommaseparerad lista med fullständiga URL:er till resurser som ska laddas i förväg. Använd sparsamt!"
+
+#: classes/autoptimizeCriticalCSSSettings.php:47
+#: classes/autoptimizeCriticalCSSSettings.php:110
+#: classes/critcss-inc/admin_settings_explain.php:15
+msgid "Critical CSS"
+msgstr "Högprioriterad CSS"
+
+#: classes/autoptimizeConfig.php:929
+msgid "JS, CSS  &amp; HTML"
+msgstr "JS, CSS och HTML"
+
+#: classes/autoptimizeImages.php:1062 classes/autoptimizeImages.php:1083
+msgid "Images"
+msgstr "Bilder"
+
+#: classes/autoptimizeImages.php:1112
+msgid "Image optimization"
+msgstr "Bildoptimering"
+
+#: classes/autoptimizeConfig.php:435
+msgid "Minify excluded CSS and JS files?"
+msgstr "Minifiera exkluderade CSS och JS-filer?"
+
+#: classes/autoptimizeImages.php:1208
+msgid "Comma-separated list of to be excluded image classes or filenames."
+msgstr "Kommaseparerad lista av att exkludera bildklasser eller filnamn."
+
+#. Description of the plugin
+msgid "Makes your site faster by optimizing CSS, JS, Images, Google fonts and more."
+msgstr "Gör din webbplats snabbare genom att optimera CSS, JS, bilder, Google Fonts och mer."
+
+#: classes/autoptimizeImages.php:1200
+msgid "Lazy-load images?"
+msgstr "Uppskjuten inläsning av bilder?"
+
+#: classes/autoptimizeImages.php:1206
+msgid "Lazy-load exclusions"
+msgstr "Undantagna uppskjutna inläsningar"
+
+#: classes/autoptimizeImages.php:1194
+msgid "Load AVIF in supported browsers?"
+msgstr "Ladda AVIF i webbläsare som stöds?"
+
+#: classes/autoptimizeImages.php:1284
+msgid "based on previously fetched data"
+msgstr "baserat på tidigare hämtade data"
+
+#. translators: link points Async Javascript settings page.
+#: classes/autoptimizeExtra.php:545
+msgid "You have \"Async JavaScript\" installed, %1$sconfiguration of async javascript is best done there%2$s."
+msgstr "Du har ”Async JavaScript” installerat, %1$skonfiguration av async javascript görs bäst där%2$s."
+
+#: classes/autoptimizeImages.php:1166
+msgid "Image Optimization quality"
+msgstr "Kvalitet på bildoptimering"
+
+#. translators: "Autoptimize support forum" will appear in a "a href".
+#: classes/autoptimizeImages.php:1091
+msgid "The image optimization service is currently down, image optimization will be skipped until further notice. Check the %1$sAutoptimize support forum%2$s for more info."
+msgstr "Tjänsten för bildoptimering är tillfälligt nere, så bildoptimering sker inte just nu. Kontrollera  %1$sAutoptimize support forum%2$s för mer information."
+
+#: classes/autoptimizeImages.php:1116
+msgid "Optimize Images"
+msgstr "Optimera bilder"
+
+#. translators: "display:swap" should remain untranslated, will be shown in
+#. code tags.
+#: classes/autoptimizeExtra.php:509
+msgid "Combine and link in head (fonts load fast but are render-blocking)"
+msgstr "Kombinera och länka i head (typsnitt laddar snabbt, men blockerar rendering)"
+
+#: classes/autoptimizeConfig.php:298
+msgid "Aggregate all linked CSS-files? If this option is off, the individual CSS-files will remain in place but will be minified."
+msgstr "Slå samman alla länkade CSS-filer? Om detta alternativ är av, så lämnas enskilda CSS-filer kvar men de förminskas."
+
+#: classes/autoptimizeConfig.php:296
+msgid "Aggregate CSS-files?"
+msgstr "Slå samman CSS-filer?"
+
+#: classes/autoptimizeConfig.php:232
+msgid "Aggregate JS-files?"
+msgstr "Slå samman JS-filer?"
+
+#: classes/autoptimizeExtra.php:494
+msgid "Most of below Extra optimizations require at least one of HTML, JS, CSS or Image autoptimizations being active."
+msgstr "De flesta av nedan extra optimeringar kräver att minst en av HTML, JS, CSS eller Image autoptimizations är aktiv."
+
+#: classes/autoptimizeImages.php:1138
+msgid "Shortpixel status: "
+msgstr "Shortpixel-status: "
+
+#. translators: links "autoptimize critical CSS" tab.
+#: classes/autoptimizeConfig.php:330
+msgid "This can be fully automated for different types of pages on the %s tab."
+msgstr "Detta kan automatiseras till fullo för olika typer av sidor under fliken %s."
+
+#: autoptimize.php:33
+msgid "Autoptimize requires PHP 5.6 (or higher) to function properly. Please upgrade PHP. The Plugin has been auto-deactivated."
+msgstr "Autoptimize kräver PHP 5.6 (eller högre) för att fungera korrekt. Uppgradera PHP. Tillägget har inaktiverats automatiskt."
+
+#: classes/autoptimizePartners.php:81
+msgid "More info"
+msgstr "Mer information"
+
+#. translators: %s will be replaced by a link to "wp youtube lyte" plugin.
+#: classes/autoptimizeExtra.php:570
+msgid "%s allows you to “lazy load” your videos, by inserting responsive “Lite YouTube Embeds\". "
+msgstr "%s låter dig ”behovsladda” (lazy load) dina videofiler genom att lägga in ”Lätta YouTube-inbäddningar”."
+
+#: classes/autoptimizeExtra.php:567
+msgid "Click here to configure it."
+msgstr "Klicka här för att konfigurera det."
+
+#: classes/autoptimizeExtra.php:565
+msgid "Great, you have WP YouTube Lyte installed."
+msgstr "Perfekt, WP YouTube Lyte finns installerat."
+
+#: classes/autoptimizeExtra.php:561
+msgid "Optimize YouTube videos"
+msgstr "Optimera YouTube-videoklipp"
+
+#: classes/autoptimizeExtra.php:555 classes/autoptimizeExtra.php:572
+msgid "Click here to install and activate it."
+msgstr "Klicka här för att installera och aktivera det."
+
+#. translators: %s will be replaced by a link to the "async javascript" plugin.
+#: classes/autoptimizeExtra.php:553
+msgid "Configuration of async javascript is easier and more flexible using the %s plugin."
+msgstr "Konfigurering av asynkront javascript är enklare och mer flexibelt med tillägget %s."
+
+#: classes/autoptimizeExtra.php:540
+msgid "Async Javascript-files <em>(advanced users)</em>"
+msgstr "Async Javascript-filer <em>(avancerade användare)</em>"
+
+#: classes/autoptimizeExtra.php:530
+msgid "Add 3rd party domains you want the browser to <a href=\"https://www.keycdn.com/support/preconnect/#primary\" target=\"_blank\">preconnect</a> to, separated by comma's. Make sure to include the correct protocol (HTTP or HTTPS)."
+msgstr "Lägg till tredjeparts-domäner som du vill att webbläsaren ska <a href=\"https://www.keycdn.com/support/preconnect/#primary\" target=\"_blank\">föransluta</a> till, separerade med komman. Se till att inkludera rätt protokoll (HTTP eller HTTPS)."
+
+#: classes/autoptimizeExtra.php:528
+msgid "Preconnect to 3rd party domains <em>(advanced users)</em>"
+msgstr "Föranslut till tredjeparts-domäner <em>(avancerade användare)</em>"
+
+#: classes/autoptimizeExtra.php:512
+msgid "Combine and load fonts asynchronously with <a href=\"https://github.com/typekit/webfontloader#readme\" target=\"_blank\">webfont.js</a>"
+msgstr "Kombinera och ladda typsnitt asynkront med <a href=\"https://github.com/typekit/webfontloader#readme\" target=\"_blank\">webfont.js</a>"
+
+#: classes/autoptimizeExtra.php:506
+msgid "Leave as is"
+msgstr "Lämna som det är"
+
+#: classes/autoptimizeExtra.php:504
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: classes/autoptimizeExtra.php:522
+msgid "Remove query strings from static resources"
+msgstr "Ta bort query-sträng från statiska resurser "
+
+#: classes/autoptimizeExtra.php:518
+msgid "Removes WordPress' core emojis' inline CSS, inline JavaScript, and an otherwise un-autoptimized JavaScript file."
+msgstr "Tar bort emjois inline CSS, inline JavaScript och andra icke-autoptimerade JavaScript-filer från WordPress kärna."
+
+#: classes/autoptimizeExtra.php:516
+msgid "Remove emojis"
+msgstr "Ta bort emojis"
+
+#: classes/autoptimizeExtra.php:501
+msgid "The following settings can improve your site's performance even more."
+msgstr "Följande inställningar kan förbättra prestandan för din webbplats ännu mer."
+
+#: classes/autoptimizeExtra.php:500
+msgid "Extra Auto-Optimizations"
+msgstr "Extra Auto-Optimeringar"
+
+#: classes/autoptimizeCLI.php:30
+msgid "Cache flushed."
+msgstr "Cache tömt."
+
+#: classes/autoptimizeCLI.php:28
+msgid "Flushing the cache..."
+msgstr "Tömmer cache&hellip;"
+
+#: classes/autoptimizeExtra.php:468 classes/autoptimizeExtra.php:488
+msgid "Extra"
+msgstr "Extra"
+
+#: classes/autoptimizeExtra.php:551
+msgid "Comma-separated list of local or 3rd party JS-files that should loaded with the <code>async</code> flag. JS-files from your own site will be automatically excluded if added here. "
+msgstr "Kommaseparerad lista av lokala eller tredjeparts JS-filer som ska laddas in med flaggan <code>async</code>. JS-filer från din egen webbplats kommer automatiskt uteslutas om de läggs till här."
+
+#: classes/autoptimizeExtra.php:524
+msgid "Removing query strings (or more specifically the <code>ver</code> parameter) will not improve load time, but might improve performance scores."
+msgstr "Laddtiden kommer inte att förbättras om du tar bort query-strängar (eller mer specifikt, parametern <code>ver</code>), men det kan förbättra prestandapoäng."
+
+#: classes/autoptimizeConfig.php:498
+msgid "Need help? <a href='https://wordpress.org/plugins/autoptimize/faq/'>Check out the FAQ here</a>."
+msgstr "Behöver du hjälp? <a href='https://wordpress.org/plugins/autoptimize/faq/'>Kolla in vanliga frågor här</a>."
+
+#: classes/autoptimizeConfig.php:455
+msgid "By default Autoptimize is also active on your shop's cart/ checkout, uncheck not to optimize those."
+msgstr "Autoptimize är som standard även aktiverat i din butiks varukorg/kassa, bocka av för att inte optimera dessa."
+
+#: classes/autoptimizeConfig.php:453
+msgid "Also optimize shop cart/ checkout?"
+msgstr "Optimera även butikens varukorg/kassa?"
+
+#: classes/autoptimizeConfig.php:421
+msgid "Misc Options"
+msgstr "Övriga alternativ"
+
+#: classes/autoptimizeConfig.php:384
+msgid "Enter your CDN root URL to enable CDN for Autoptimized files. The URL can be http, https or protocol-relative (e.g. <code>//cdn.example.com/</code>). This is not needed for Cloudflare."
+msgstr "Ange din CDN-root-URL för att aktivera CDN för Autoptimerade filer. Webbadressen kan vara http, https eller protokollrelativ (t.ex. <code>//cdn.example.com/</code>). Detta behövs inte för Cloudflare."
+
+#: classes/autoptimizeConfig.php:266 classes/autoptimizeConfig.php:315
+#: classes/autoptimizeExtra.php:512
+msgid "(deprecated)"
+msgstr "(föråldrad)"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://autoptimize.com/"
+msgstr "https://autoptimize.com/"
+
+#. translators: Kilobytes + timestamp shown.
+#: classes/autoptimizeConfig.php:412
+msgid "%1$s files, totalling %2$s (calculated at %3$s)"
+msgstr "%1$s filer, totalt %2$s (beräknades %3$s)"
+
+#. translators: links to the Autoptimize settings page.
+#: classes/autoptimizeToolbar.php:137
+msgid "Your Autoptimize cache might not have been purged successfully, please check on the <a href=%s>Autoptimize settings page</a>."
+msgstr "Din Autoptimize-cache har kanske inte rensats. Kontrollera på <a href=%s>inställningssidan för Autoptimize</a>."
+
+#. Translators: %s is the cache directory location.
+#: classes/autoptimizeMain.php:677
+msgid "Autoptimize cannot write to the cache directory (%s), please fix to enable CSS/ JS optimization!"
+msgstr "Autoptimize kan inte skriva till cache-katalogen (%s), vänligen åtgärda detta för att aktivera CSS/JS-optimering!"
+
+#: classes/autoptimizeToolbar.php:98
+msgid "Files"
+msgstr "Filer"
+
+#: classes/autoptimizeToolbar.php:97
+msgid "Size"
+msgstr "Storlek"
+
+#: classes/autoptimizeToolbar.php:106
+msgid "Delete Cache"
+msgstr "Radera cache"
+
+#: classes/autoptimizeCacheChecker.php:66
+msgid "Autoptimize cache size warning"
+msgstr "Autoptimize cache-storleksvarning"
+
+#: classes/autoptimizeCacheChecker.php:67
+msgid "Autoptimize's cache size is getting big, consider purging the cache. Have a look at https://wordpress.org/plugins/autoptimize/faq/ to see how you can keep the cache size under control."
+msgstr "Autoptimize's cachestorlek börjar bli stor, överväg att tömma cachen. Läs mer på https://wordpress.org/plugins/autoptimize/faq/ om hur du kan hålla koll på cachestorleken."
+
+#: classes/autoptimizePartners.php:38 classes/autoptimizePartners.php:139
+msgid "Optimize More!"
+msgstr "Optimera mera!"
+
+#: classes/autoptimizePartners.php:53
+msgid "Have a look at <a href=\"http://optimizingmatters.com/\">optimizingmatters.com</a> for Autoptimize power-ups!"
+msgstr "Ta en titt på <a href=\"http://optimizingmatters.com/\">optimizingmatters.com</a> för Autoptimize utökningar!"
+
+#: classes/autoptimizePartners.php:143
+msgid "These Autoptimize power-ups and related services will improve your site's performance even more!"
+msgstr "Dessa utökningar av Autoptimize med relaterade tjänster kan förbättra din webbplats prestanda ännu mer!"
+
+#. translators: links to the Autoptimize settings page.
+#: classes/autoptimizeToolbar.php:138
+msgid "Dismiss this notice."
+msgstr "Avfärda denna notis."
+
+#: classes/autoptimizeConfig.php:373
+msgid "Enable this if you want HTML comments to remain in the page."
+msgstr "Aktivera detta om du vill ha HTML-kommentarer kvar på sidan."
+
+#. translators: the variable contains a date.
+#: classes/autoptimizeConfig.php:915
+msgid "Posted %s"
+msgstr "Publicerat %s"
+
+#: classes/autoptimizeConfig.php:237
+msgid "Also aggregate inline JS?"
+msgstr "Även aggregera inline JS?"
+
+#: classes/autoptimizeConfig.php:301
+msgid "Also aggregate inline CSS?"
+msgstr "Även aggregera inline CSS?"
+
+#: classes/autoptimizeConfig.php:303
+msgid "Check this option for Autoptimize to also aggregate CSS in the HTML."
+msgstr "Markera detta alternativ för att Autoptimize också ska aggregera CSS i HTML."
+
+#: classes/autoptimizeConfig.php:499
+msgid "Happy with Autoptimize?"
+msgstr "Nöjd med Autoptimize?"
+
+#: classes/autoptimizeConfig.php:499
+msgid "Try my other plugins!"
+msgstr "Prova min andra tillägg!"
+
+#: classes/autoptimizeConfig.php:909
+msgid "No items"
+msgstr "Inga val"
+
+#: classes/autoptimizeExtra.php:507
+msgid "Remove Google Fonts"
+msgstr "Ta bort Google Fonts?"
+
+#: classes/autoptimizeCacheChecker.php:92
+msgid "<strong>Autoptimize's cache size is getting big</strong>, consider purging the cache. Have a look at <a href=\"https://wordpress.org/plugins/autoptimize/faq/\" target=\"_blank\" rel=\"noopener noreferrer\">the Autoptimize FAQ</a> to see how you can keep the cache size under control."
+msgstr "<strong>Autoptimizes cachestorlek börjar bli stor</strong>, överväg att rensa cachen. Ta en titt på <a href=\"https://wordpress.org/plugins/autoptimize/faq/\" target=\"_blank\" rel=\"noopener noreferrer\">Autoptimize FAQ</a> för att se hur du kan hålla storleken på cachen under kontroll."
+
+#: classes/autoptimizeConfig.php:94 classes/autoptimizeConfig.php:198
+#: classes/autoptimizeCriticalCSSSettings.php:114
+#: classes/autoptimizeExtra.php:490 classes/autoptimizeImages.php:1085
+#: classes/autoptimizePartners.php:141
+msgid "Autoptimize Settings"
+msgstr "Inställningar för Autoptimize"
+
+#: classes/autoptimizeConfig.php:364
+msgid "HTML Options"
+msgstr "HTML-alternativ"
+
+#: classes/autoptimizeConfig.php:367
+msgid "Optimize HTML Code?"
+msgstr "Optimera HTML-kod?"
+
+#: classes/autoptimizeConfig.php:371
+msgid "Keep HTML comments?"
+msgstr "Behåll HTML-kommentarer?"
+
+#: classes/autoptimizeConfig.php:225
+msgid "JavaScript Options"
+msgstr "JavaScript-alternativ"
+
+#: classes/autoptimizeConfig.php:228
+msgid "Optimize JavaScript Code?"
+msgstr "Optimera JavaScript-kod?"
+
+#: classes/autoptimizeConfig.php:242
+msgid "Force JavaScript in &lt;head&gt;?"
+msgstr "Tvinga in JavaScript i &lt;head&gt;?"
+
+#: classes/autoptimizeConfig.php:265
+msgid "Look for scripts only in &lt;head&gt;?"
+msgstr "Leta efter script enbart i &lt;head&gt;?"
+
+#: classes/autoptimizeConfig.php:270
+msgid "Mostly useful in combination with previous option when using jQuery-based templates, but might help keeping cache size under control."
+msgstr "Mest användbart i kombination med föregående alternativ, när jQuery-baserade teman används, men kan även reducera storleken på cachen."
+
+#: classes/autoptimizeConfig.php:274
+msgid "Exclude scripts from Autoptimize:"
+msgstr "Exkludera script från Autoptimize:"
+
+#: classes/autoptimizeConfig.php:247
+msgid "Add try-catch wrapping?"
+msgstr "Lägg till try-catch-inbäddning?"
+
+#: classes/autoptimizeConfig.php:289
+msgid "CSS Options"
+msgstr "CSS-alternativ"
+
+#: classes/autoptimizeConfig.php:292
+msgid "Optimize CSS Code?"
+msgstr "Optimera CSS-kod?"
+
+#: classes/autoptimizeConfig.php:306
+msgid "Generate data: URIs for images?"
+msgstr "Generera data: URI för bilder?"
+
+#: classes/autoptimizeConfig.php:308
+msgid "Enable this to include small background-images in the CSS itself instead of as separate downloads."
+msgstr "Välj detta för att inkludera mindre bakgrundsbilder direkt i CSS, istället för som separata nedladdningar."
+
+#: classes/autoptimizeConfig.php:314
+msgid "Look for styles only in &lt;head&gt;?"
+msgstr "Leta efter stilmallar enbart inom &lt;head&gt;?"
+
+#: classes/autoptimizeConfig.php:319
+msgid "Don't autoptimize CSS outside the head-section. If the cache gets big, you might want to enable this."
+msgstr "Optimera inte CSS utanför head-sektionen. Om cachen blir för stor, testa då detta alternativ."
+
+#: classes/autoptimizeConfig.php:344
+msgid "Exclude CSS from Autoptimize:"
+msgstr "Exkludera CSS från Autoptimize:"
+
+#: classes/autoptimizeConfig.php:347
+msgid "A comma-separated list of CSS you want to exclude from being optimized."
+msgstr "En komma-separerad lista med stilmallar som ska exkluderas från optimering."
+
+#: classes/autoptimizeConfig.php:379
+msgid "CDN Options"
+msgstr "CDN-alternativ"
+
+#: classes/autoptimizeConfig.php:382
+msgid "CDN Base URL"
+msgstr "CDN bas-URL"
+
+#: classes/autoptimizeConfig.php:390 classes/autoptimizeToolbar.php:87
+msgid "Cache Info"
+msgstr "Cache-information"
+
+#: classes/autoptimizeConfig.php:393
+msgid "Cache folder"
+msgstr "Cache-mapp"
+
+#: classes/autoptimizeConfig.php:397
+msgid "Can we write?"
+msgstr "Kan vi skriva?"
+
+#: classes/autoptimizeConfig.php:398
+msgid "Yes"
+msgstr "Ja"
+
+#: classes/autoptimizeConfig.php:398
+msgid "No"
+msgstr "Nej"
+
+#: classes/autoptimizeConfig.php:401
+msgid "Cached styles and scripts"
+msgstr "Stilmallar och script i cachen"
+
+#: classes/autoptimizeConfig.php:424
+msgid "Save aggregated script/css as static files?"
+msgstr "Spara sammanfogade script/stilmallar som statiska filer?"
+
+#: classes/autoptimizeConfig.php:426
+msgid "By default files saved are static css/js, uncheck this option if your webserver doesn't properly handle the compression and expiry."
+msgstr "Som standard sparas filer som statisk CSS/Javascript. Välj detta alternativ om din webbserver inte kan hantera komprimering och utgångstid ordentligt."
+
+#: classes/autoptimizeConfig.php:474
+#: classes/autoptimizeCriticalCSSSettings.php:333
+#: classes/autoptimizeExtra.php:578 classes/autoptimizeImages.php:1218
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#: classes/autoptimizeConfig.php:475
+msgid "Save Changes and Empty Cache"
+msgstr "Spara ändringar och töm cache"
+
+#. Plugin Name of the plugin
+#: classes/autoptimizeCacheChecker.php:110 classes/autoptimizeConfig.php:506
+#: classes/autoptimizeToolbar.php:79
+msgid "Autoptimize"
+msgstr "Autoptimize"
+
+#: classes/autoptimizeConfig.php:507
+msgid "WordPress"
+msgstr "WordPress"
+
+#: classes/autoptimizeConfig.php:523
+msgid "Do not donate for this plugin!"
+msgstr "Donera inte för detta tillägg!"
+
+#: classes/autoptimizeConfig.php:697 classes/autoptimizeConfig.php:700
+#: classes/autoptimizeConfig.php:703
+msgid "Autoptimize Options"
+msgstr "Autoptimize-alternativ"
+
+#: classes/autoptimizeConfig.php:765 classes/autoptimizeConfig.php:771
+msgid "Settings"
+msgstr "Inställningar"
+
+#. Author of the plugin
+msgid "Frank Goossens (futtta)"
+msgstr "Frank Goossens (futtta)"
+
+#: classes/autoptimizeConfig.php:504
+msgid "futtta about"
+msgstr "Om ”futtta”"
+
+#: classes/autoptimizeMain.php:684
+msgid "Thank you for installing and activating Autoptimize. Please configure it under \"Settings\" -> \"Autoptimize\" to start improving your site's performance."
+msgstr "Tack för att du installerar och aktiverar Autoptimize. Konfigurera det under ”Inställningar” -> ”Autoptimize” för att börja förbättra prestandan på din webbplats."
+
+#: classes/autoptimizeMain.php:691
+msgid "Autoptimize has just been updated. Please <strong>test your site now</strong> and adapt Autoptimize config if needed."
+msgstr "Autoptimize har just uppdaterats. <strong>Testa din webbplats nu</strong> och anpassa Autoptimize-config om det behövs."
+
+#: classes/autoptimizeConfig.php:508
+msgid "Web Technology"
+msgstr "Webbteknologi"
+
+#: classes/autoptimizeConfig.php:326
+msgid "Inline \"above the fold CSS\" while loading the main autoptimized CSS only after page load. <a href=\"https://wordpress.org/plugins/autoptimize/faq/\" target=\"_blank\">Check the FAQ</a> for more info."
+msgstr "Inkludera ”det första/above the fold CSS” medan den huvudsakliga automatiskt optimerade CSS-koden laddas först efter att sidan har laddats in. Läs mer under <a href=\"https://wordpress.org/plugins/autoptimize/faq/\" target=\"_blank\">vanliga frågor och svar</a>."
+
+#: classes/autoptimizeConfig.php:339
+msgid "Inline all CSS?"
+msgstr "Inline all CSS?"

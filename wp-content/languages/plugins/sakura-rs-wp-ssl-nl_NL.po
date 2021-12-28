@@ -1,0 +1,40 @@
+# Translation of Plugins - Easy SSL Plugin for SAKURA Rental Server - Development (trunk) in Dutch
+# This file is distributed under the same license as the Plugins - Easy SSL Plugin for SAKURA Rental Server - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-07-02 17:42:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Easy SSL Plugin for SAKURA Rental Server - Development (trunk)\n"
+
+#. Author of the plugin
+msgid "SAKURA Internet Inc."
+msgstr "SAKURA Internet Inc."
+
+#: modules/view/admin-top.php:100
+msgid "さくらのレンタルサーバ　簡単SSL化プラグイン"
+msgstr "さくらのレンタルサーバ　簡単SSL化プラグイン"
+
+#: modules/view/menus.php:62 modules/view/menus.php:63
+msgid "SAKURA RS SSL"
+msgstr "SAKURA RS SSL"
+
+#. Plugin Name of the plugin
+msgid "SAKURA RS WP SSL"
+msgstr "SAKURA RS WP SSL"
+
+#. Plugin URI of the plugin
+msgid "https://help.sakura.ad.jp/hc/ja/articles/115000047641"
+msgstr "https://help.sakura.ad.jp/hc/ja/articles/115000047641"
+
+#. Description of the plugin
+msgid "このプラグインはさくらのレンタルサーバ上のWordPressで、常時SSL化を簡単に行えるプラグインです。"
+msgstr "このプラグインはさくらのレンタルサーバ上のWordPressで、常時SSL化を簡単に行えるプラグインです。"
+
+#. Author URI of the plugin
+msgid "http://www.sakura.ne.jp/"
+msgstr "http://www.sakura.ne.jp/"

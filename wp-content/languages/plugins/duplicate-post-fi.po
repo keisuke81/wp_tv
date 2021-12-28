@@ -1,0 +1,376 @@
+# Translation of Plugins - Yoast Duplicate Post - Stable (latest release) in Finnish
+# This file is distributed under the same license as the Plugins - Yoast Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-04-21 10:43:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fi\n"
+"Project-Id-Version: Plugins - Yoast Duplicate Post - Stable (latest release)\n"
+
+#: src/handlers/class-check-changes-handler.php:135
+msgid "Added"
+msgstr "Lisätty"
+
+#: src/handlers/class-check-changes-handler.php:134
+msgid "Removed"
+msgstr "Poistettu"
+
+#: duplicate-post-admin.php:227
+msgid "Now also available in Elementor: the powerful Rewrite & Republish feature. Updating your content has never been easier!"
+msgstr "Nyt saatavilla myös Elementorissa: uudelleenkirjoitus ja uudelleenjulkaisu. Sisällön päivittäminen ei ole koskaan ollut näin helppoa!"
+
+#: src/class-post-republisher.php:226
+msgid "An error occurred while deleting the Rewrite & Republish copy."
+msgstr "Tapahtui virhe poistaessa kopiota."
+
+#: src/ui/class-classic-editor.php:192
+msgid "Compare"
+msgstr "Vertaile"
+
+#: src/ui/class-classic-editor.php:232
+msgid "Schedule republish"
+msgstr "Ajasta uudelleenjulkaisu"
+
+#: src/admin/class-options.php:284 src/ui/class-bulk-actions.php:80
+#: src/ui/class-admin-bar.php:110 src/ui/class-admin-bar.php:129
+#: src/ui/class-classic-editor.php:164
+msgid "Rewrite & Republish"
+msgstr "Uudelleenkirjoita ja uudelleenjulkaise"
+
+#: src/admin/views/options.php:192
+msgid "Show these links"
+msgstr "Näytä nämä linkit"
+
+#: src/ui/class-row-actions.php:150
+msgctxt "verb"
+msgid "Rewrite & Republish"
+msgstr "Uudelleenkirjoita ja uudelleenjulkaise"
+
+#. translators: %s: Original item link (to view or edit) or title.
+#: src/ui/class-post-states.php:66
+msgid "Rewrite & Republish of %s"
+msgstr "Uudelleenjulkaisu kohteesta: %s"
+
+#. translators: %s: Date on which the post is to be republished.
+#: src/ui/class-classic-editor.php:215
+msgid "Republish on: %s"
+msgstr "Julkaise uudelleen ajankohtana: %s"
+
+#: src/admin/class-options.php:145
+msgid "Post format"
+msgstr "Artikkelimuoto"
+
+#: src/class-post-republisher.php:87 src/ui/class-classic-editor.php:210
+msgid "Republish"
+msgstr "Uudelleenjulkaise"
+
+#: src/class-post-republisher.php:334
+msgid "An error occurred while republishing the post."
+msgstr "Uudelleenjulkaisun yhteydessä tapahtui virhe."
+
+#: src/handlers/class-link-handler.php:95
+#: src/handlers/class-link-handler.php:151
+#: src/handlers/class-link-handler.php:223
+msgid "Copy creation failed, could not create a copy."
+msgstr "Kopion luonnissa tapahtui virhe."
+
+#: src/handlers/class-link-handler.php:87
+#: src/handlers/class-link-handler.php:143
+msgid "You cannot create a copy of a post which is intended for Rewrite & Republish."
+msgstr "Et voi kopioida artikkelia, joka on tarkoitus uudelleenjulkaista."
+
+#: src/handlers/class-check-changes-handler.php:117
+msgid "&larr; Return to editor"
+msgstr "&larr; Takaisin muokkaustilaan"
+
+#. translators: %s: original item link (to view or edit) or title.
+#: src/handlers/class-check-changes-handler.php:112
+msgid "Compare changes of duplicated post with the original (&#8220;%s&#8221;)"
+msgstr "Vertaile muutoksia alkuperäisen kohteen kanssa (&#8220;%s&#8221;)"
+
+#: duplicate-post-admin.php:806
+msgid "Subscribe"
+msgstr "Tilaa"
+
+#: src/ui/class-row-actions.php:92
+msgctxt "verb"
+msgid "Clone"
+msgstr "Kopioi"
+
+#: duplicate-post-admin.php:795
+msgid "Email Address"
+msgstr "Sähköpostiosoite"
+
+#. Plugin Name of the plugin
+msgid "Yoast Duplicate Post"
+msgstr "Yoast Duplicate Post"
+
+#. Author URI of the plugin
+msgid "https://yoast.com"
+msgstr "https://yoast.com"
+
+#. Author of the plugin
+msgid "Enrico Battocchi & Team Yoast"
+msgstr "Enrico Battocchi & Team Yoast"
+
+#. translators: %s: Post title.
+#: src/ui/class-row-actions.php:117
+msgid "New draft of &#8220;%s&#8221;"
+msgstr "Uusi luonnos kohteesta &#8220;%s&#8221;"
+
+#: src/admin/views/options.php:238
+msgid "Update notice"
+msgstr "Päivitä huomautus"
+
+#: src/ui/class-column.php:130 src/ui/class-metabox.php:85
+msgid "Delete reference to original item."
+msgstr "Poista viite alkuperäiseen kohteeseen."
+
+#. translators: %s: Original item link (to view or edit) or title.
+#: src/ui/class-post-states.php:72
+msgid "Original: %s"
+msgstr "Alkuperäinen: %s"
+
+#: src/ui/class-column.php:72
+msgid "Original item"
+msgstr "Alkuperäinen kohde"
+
+#. translators: %s: Yoast Duplicate Post version.
+#: duplicate-post-admin.php:224
+msgid "What's new in Yoast Duplicate Post version %s:"
+msgstr "Mitä uutta Yoast Duplicate Post versiossa %s:"
+
+#: src/handlers/class-link-handler.php:62
+#: src/handlers/class-link-handler.php:118
+#: src/handlers/class-link-handler.php:190
+msgid "Current user is not allowed to copy posts."
+msgstr "Nykyisellä käyttäjällä ei ole oikeuksia kopioida artikkeleita."
+
+#: src/admin/class-options.php:168
+msgid "you probably want this unchecked, unless you have very special requirements"
+msgstr "et välttämättä halua valita tätä, ellei sinulla ole hyvin erityisiä vaatimuksia"
+
+#: duplicate-post-admin.php:775
+msgid "Documentation"
+msgstr "Dokumentaatio"
+
+#: src/admin/class-options.php:265
+msgid "Show update notice"
+msgstr "Näytä ilmoitus päivityksestä"
+
+#: src/admin/class-options.php:310
+msgid "Bulk Actions"
+msgstr "Massatoiminnot"
+
+#: src/admin/class-options.php:220
+msgid "You can use * to match zero or more alphanumeric characters or underscores: e.g. field*"
+msgstr "Voit käyttää * merkitsemään mitä tahansa määrää alfanumeerisia (alphanumeric) merkkejä tai alaviivoja: esim. field*"
+
+#: src/admin/class-options.php:189
+msgid "Menu order"
+msgstr "Järjestys"
+
+#: src/admin/class-options.php:152
+msgid "Author"
+msgstr "Kirjoittaja"
+
+#: src/admin/class-options.php:138
+msgid "Template"
+msgstr "Sivupohja"
+
+#: src/admin/class-options.php:131
+msgid "Featured Image"
+msgstr "Artikkelikuva"
+
+#. translators: %s: Number of posts copied.
+#: src/watchers/class-link-actions-watcher.php:78
+#: src/watchers/class-bulk-actions-watcher.php:60
+msgid "%s item copied."
+msgid_plural "%s items copied."
+msgstr[0] "%s kohde kopioitu."
+msgstr[1] "%s kohdetta kopioitu."
+
+#: src/admin/views/options.php:48 src/admin/views/options.php:189
+msgid "Display"
+msgstr "Näytä"
+
+#: src/admin/views/options.php:39 src/admin/views/options.php:142
+msgid "Permissions"
+msgstr "Oikeudet"
+
+#: src/admin/class-options.php:110
+msgid "Slug"
+msgstr "Polkutunnus"
+
+#: src/admin/class-options.php:159
+msgid "Password"
+msgstr "Salasana"
+
+#: src/handlers/class-check-changes-handler.php:128
+#: src/admin/class-options.php:124
+msgid "Content"
+msgstr "Sisältö"
+
+#: src/admin/class-options.php:181
+msgid "Comments"
+msgstr "Kommentit"
+
+#: src/handlers/class-check-changes-handler.php:127
+#: src/admin/class-options.php:89
+msgid "Title"
+msgstr "Otsikko"
+
+#: src/admin/class-options.php:96
+msgid "Date"
+msgstr "Päiväys"
+
+#: src/admin/class-options.php:103
+msgid "Status"
+msgstr "Tila"
+
+#: src/admin/class-options.php:166
+msgid "Attachments"
+msgstr "Liitteet"
+
+#: src/handlers/class-check-changes-handler.php:129
+#: src/admin/class-options.php:117
+msgid "Excerpt"
+msgstr "Ote"
+
+#: src/admin/views/options.php:60 src/admin/views/options.php:63
+msgid "Post/page elements to copy"
+msgstr "Artikkelin/Sivun kopioitavaksi tarkoitetut elementit"
+
+#: src/admin/views/options.php:30 src/admin/views/options.php:57
+msgid "What to copy"
+msgstr "Mitä kopioidaan"
+
+#: duplicate-post-admin.php:627
+msgid "Copy features for this post type are not enabled in options page"
+msgstr "Kopiointitoiminnallisuudet tälle dokumenttityypille ovat pois päältä Asetukset-sivulla"
+
+#: src/admin/views/options.php:164 src/admin/views/options.php:168
+msgid "Enable for these post types"
+msgstr "Aktivoi näille dokumenttityypeille"
+
+#: src/admin/views/options.php:129
+msgid "Show/hide private taxonomies"
+msgstr "Näytä/piilota taksonomiat"
+
+#: src/admin/class-options.php:209 src/admin/views/options.php:95
+msgid "Increase menu order by"
+msgstr "Nosta järjestysnumeroa määrällä"
+
+#: src/admin/class-options.php:183
+msgid "except pingbacks and trackbacks"
+msgstr "ei linkki-ilmoituksia ja paluuviitteita (pingbacks and trackbacks)"
+
+#: src/admin/class-options.php:174
+msgid "Children"
+msgstr "Alatasot"
+
+#: src/admin/class-options.php:211
+msgid "Add this number to the original menu order (blank or zero to retain the value)"
+msgstr "Lisää tämä numero alkuperäiseen järjestykseen (tyhjä tai nolla jos käytetään samaa arvoa)"
+
+#: src/admin/views/options.php:157
+msgid "Passwords and contents of password-protected posts may become visible to undesired users and visitors."
+msgstr "Salasanat ja salasanasuojattu sisältö saattaa tulla näkyville sivulla vieraileville käyttäjille, jotka eivät aikaisemmin nähneet kyseistä sisältöä."
+
+#: src/admin/views/options.php:174
+msgid "Select the post types you want the plugin to be enabled for."
+msgstr "Valitse ne sisältötyypit, joille haluat ominaisuuden käyttöön."
+
+#: duplicate-post.php:91
+msgid "Settings"
+msgstr "Asetukset"
+
+#: src/admin/class-options.php:300
+msgid "Admin bar"
+msgstr "Ylläpitovalikko"
+
+#: src/admin/class-options.php:305
+msgid "Edit screen"
+msgstr "Muokkausnäkymä"
+
+#: src/admin/class-options.php:274 src/ui/class-row-actions.php:119
+msgid "New Draft"
+msgstr "Uusi luonnos"
+
+#: src/handlers/class-link-handler.php:79
+#: src/handlers/class-link-handler.php:135
+#: src/handlers/class-link-handler.php:207
+msgid "Copy creation failed, could not find original:"
+msgstr "Kopiointi epäonnistui, alkuperäistä ei löytynyt:"
+
+#: src/ui/class-admin-bar.php:102 src/ui/class-admin-bar.php:119
+#: src/ui/class-classic-editor.php:135 duplicate-post-common.php:77
+msgid "Copy to a new draft"
+msgstr "Kopioi uudeksi luonnokseksi"
+
+#: src/admin/class-options.php:216 src/admin/views/options.php:107
+msgid "Do not copy these fields"
+msgstr "Älä kopioi näitä kenttiä"
+
+#: src/admin/views/options.php:118 src/admin/views/options.php:122
+msgid "Do not copy these taxonomies"
+msgstr "Älä kopioi näitä taksonomioita"
+
+#: src/handlers/class-link-handler.php:67
+#: src/handlers/class-link-handler.php:123
+#: src/handlers/class-link-handler.php:195
+msgid "No post to duplicate has been supplied!"
+msgstr "Artikkelia kaksoiskappaletta varten ei ole annettu!"
+
+#: src/admin/views/options.php:146 src/admin/views/options.php:149
+msgid "Roles allowed to copy"
+msgstr "Roolit, jotka voivat kopioida artikkeleita"
+
+#: src/admin/class-options.php:204
+msgid "Suffix to be added after the title, e.g. \"(dup)\" (blank for no suffix)"
+msgstr "Loppuliite, joka lisätään otsikon perään, esimerkiksi \"(kopio)\". Jätä tyhjäksi, jos et halua loppuliitettä."
+
+#: src/admin/class-options.php:202 src/admin/views/options.php:84
+msgid "Title suffix"
+msgstr "Otsikon loppuliite"
+
+#: src/admin/class-options.php:197
+msgid "Prefix to be added before the title, e.g. \"Copy of\" (blank for no prefix)"
+msgstr "Etuliite, joka lisätään otsikon eteen, esimerkiksi \"Kopio artikkelista\". Jätä tyhjäksi, jos et halua etuliitettä."
+
+#: src/admin/views/options.php:204
+msgid "Show links in"
+msgstr "Näytä kopio- /klooni-linkit"
+
+#: src/admin/class-options.php:295
+msgid "Post list"
+msgstr "Artikkelilista"
+
+#: src/admin/class-options.php:279 src/ui/class-bulk-actions.php:75
+msgid "Clone"
+msgstr "Kopioi"
+
+#: src/admin/class-options.php:195 src/admin/views/options.php:73
+msgid "Title prefix"
+msgstr "Otsikon etuliite"
+
+#: src/admin/class-options-page.php:81 src/ui/class-admin-bar.php:94
+#: src/ui/class-metabox.php:58
+msgid "Duplicate Post"
+msgstr "Duplicate Post"
+
+#: src/admin/class-options-page.php:80 src/admin/views/options.php:16
+msgid "Duplicate Post Options"
+msgstr "Duplicate Post asetukset"
+
+#: src/admin/class-options.php:219
+msgid "Comma-separated list of meta fields that must not be copied."
+msgstr "Pilkuilla eroteltu lista meta-kentistä, joita ei saa kopioida."
+
+#: src/admin/views/options.php:249
+msgid "Save changes"
+msgstr "Tallenna muutokset"

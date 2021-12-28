@@ -1,0 +1,198 @@
+# Translation of Plugins - WebSub (FKA. PubSubHubbub) - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WebSub (FKA. PubSubHubbub) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-25 06:00:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WebSub (FKA. PubSubHubbub) - Stable (latest release)\n"
+
+#. Author of the plugin
+msgid "PubSubHubbub Team"
+msgstr "PubSubHubbub Team"
+
+#. Plugin Name of the plugin
+msgid "WebSub (FKA. PubSubHubbub)"
+msgstr "WebSub (FKA. PubSubHubbub)"
+
+#: templates/settings-page.php:2
+msgid "(FKA. PubSubhubbub)"
+msgstr "(antes PubSubhubbub)"
+
+#: templates/settings-page.php:2
+msgid "WebSub"
+msgstr "WebSub"
+
+#. Author URI of the plugin
+msgid "https://github.com/pubsubhubbub/wordpress-pubsubhubbub"
+msgstr "https://github.com/pubsubhubbub/wordpress-pubsubhubbub"
+
+#: includes/class-pubsubhubbub-admin.php:129
+msgid "<a href=\"https://notiz.blog/donate\">Donate</a>"
+msgstr "<a href=\"https://notiz.blog/donate\">Donar</a>"
+
+#: includes/class-pubsubhubbub-admin.php:127
+msgid "<a href=\"https://www.w3.org/community/ostatus/\">OStatus <small>(W3C Community)</small></a>"
+msgstr "<a href=\"https://www.w3.org/community/ostatus/\">OStatus <small>(W3C Community)</small></a>"
+
+#: includes/class-pubsubhubbub-admin.php:126
+msgid "<a href=\"https://indieweb.org/WebSub\">IndieWeb <small>(Wiki)</small></a>"
+msgstr "<a href=\"https://indieweb.org/WebSub\">IndieWeb <small>(Wiki)</small></a>"
+
+#: includes/class-pubsubhubbub-admin.php:117
+msgid "Try out \"<a href=\"https://wordpress.org/plugins/ostatus-for-wordpress/\" target=\"_blank\">OStatus for WordPress</a>\"!"
+msgstr "Prueba \"<a href=\"https://es.wordpress.org/plugins/ostatus-for-wordpress/\" target=\"_blank\">OStatus para WordPress</a>\"!"
+
+#: includes/class-pubsubhubbub-admin.php:116
+msgid "OStatus for WordPress"
+msgstr "OStatus para WordPress"
+
+#: includes/class-pubsubhubbub-admin.php:113
+msgid " OStatus lets people on different social networks follow each other. It applies a group of related protocols (PubSubHubbub, ActivityStreams, Salmon, Portable Contacts, and Webfinger) to this problem in what we believe is a simple and obvious way. OStatus is a minimal specification for distributed status updates or microblogging.<br />Many social applications can be modelled with status updates, however. Practically any software that generates RSS or Atom feeds could be OStatus-enabled. Travel networks, event invitation systems, wikis, photo-sharing systems, social news sites, social music sites, podcasting servers, blogs, version control systems, and general purpose social networks would all be candidates for OStatus use. "
+msgstr " OStatus permite que las personas en diferentes redes sociales se sigan entre sí. Aplica un grupo de protocolos relacionados (PubSubHubbub, ActivityStreams, Salmon, Portable Contacts y Webfinger) a este problema de una manera que creemos es simple y obvia. OStatus es una especificación mínima para actualizaciones de estado distribuidas o microblogging.<br />Sin embargo, muchas aplicaciones sociales pueden ser modeladas con actualizaciones de estado. Prácticamente cualquier software que genere feeds RSS o Atom podría estar preparado para OStatus. Las redes de viajes, los sistemas de invitación a eventos, los wikis, los sistemas de intercambio de fotos, los sitios de noticias sociales, los sitios de música social, los servidores de podcasting, los blogs, los sistemas de control de versiones y las redes sociales de uso general serían todos candidatos para el uso de OStatus. "
+
+#: includes/class-pubsubhubbub-admin.php:112
+msgid "OStatus"
+msgstr "OStatus"
+
+#: includes/class-pubsubhubbub-admin.php:109
+msgid "Fediverse is a portmanteau of \"federation\" and \"universe\". It is a common, informal name for a somewhat broad federation of social network servers whose main purpose is microblogging, the sharing of short, public messages.<br />By running social network software that supports a standard set of protocols called ActivityPub, independently run servers can connect to the Fediverse, allowing its users to follow and receive short messages from each other, regardless of which particular ActivityPub server implementation they are running. The Fediverse is built on Free Software. Some of its social networks are vaguely Twitter-ish in style (for example Mastodon, or GNU Social, similar in activities and their microblogging function), while other federated platforms include more communication and transaction options that are instead comparable to Google+ or Facebook (such as is the case with Friendica). (Wikipedia)"
+msgstr "Fediverso es un compendio de \"federación\" y \"universo\". Es un nombre general e informal para una federación un tanto amplia de servidores de redes sociales cuyo propósito principal es el microblogging, el intercambio de mensajes cortos y públicos. <br />Ejecutando un software de redes sociales compatible con un conjunto estándar de protocolos llamado ActivityPub, los servidores de ejecución independiente pueden conectarse al Fediverse, lo que permite a los usuarios seguir y recibir mensajes cortos entre ellos, sin importar en qué tipo particular de implementación de servidores de ActivityPub se encuentren trabajando. El Fediverso está construido sobre software libre. Algunas de sus redes sociales tienen un estilo parecido al de Twitter (por ejemplo, Mastodon, o GNU Social, similar en actividades y su función de microblogging), mientras que otras plataformas federadas incluyen más opciones de comunicación y transacción que son comparables a Google+ o Facebook (como es el caso de Friendica). (Wikipedia)"
+
+#: includes/class-pubsubhubbub-admin.php:106
+msgid "WebSub is one of the building blocks of OStauts, wich is the base of the Fediverse."
+msgstr "WebSub es uno de los componentes de OStauts, que es la base del Fediverse."
+
+#: includes/class-pubsubhubbub-admin.php:104
+#: includes/class-pubsubhubbub-admin.php:108
+msgid "The Fediverse"
+msgstr "El Fediverso"
+
+#: includes/class-pubsubhubbub-admin.php:96
+msgid "Try out \"<a href=\"https://wordpress.org/plugins/indieweb/\" target=\"_blank\">IndieWeb for WordPress</a>\""
+msgstr "Prueba \"<a href=\"https://es.wordpress.org/plugins/indieweb/\" target=\"_blank\">IndieWeb para WordPress</a>\""
+
+#: includes/class-pubsubhubbub-admin.php:95
+msgid "IndieWeb for WordPress"
+msgstr "IndieWeb para WordPress"
+
+#: includes/class-pubsubhubbub-admin.php:80
+msgid "WebSub is a proposed standard of the IndieWeb stack."
+msgstr "WebSub es un estándar propuesto por la lista de IndieWeb."
+
+#: templates/settings-page.php:17
+msgid "Hubs <small>(one per line)</small>"
+msgstr "Concentradores <small>(uno por línea)</small>"
+
+#: templates/settings-page.php:6
+msgid "Publisher Settings"
+msgstr "Ajustes de editor"
+
+#: includes/class-pubsubhubbub-publisher.php:54
+msgid "Please specify a topic url"
+msgstr "Especifica una url de tema, por favor"
+
+#. translators: %s is the $hub_url
+#: includes/class-pubsubhubbub-publisher.php:50
+msgid "The specified hub url does not appear to be valid: %s"
+msgstr "La url del concentrador especificada no parece ser válida: %s"
+
+#: includes/class-pubsubhubbub-publisher.php:45
+msgid "Please specify a hub url"
+msgstr "Especifica una url de concentrador, por favor"
+
+#: includes/class-pubsubhubbub-admin.php:125
+msgid "<a href=\"https://www.w3.org/TR/websub/\">W3C Spec</a>"
+msgstr "<a href=\"https://www.w3.org/TR/websub/\">Especificaciones de W3C</a>"
+
+#: includes/class-pubsubhubbub-admin.php:124
+msgid "<a href=\"https://websub.rocks/\">Test suite</a>"
+msgstr "<a href=\"https://websub.rocks/\">Suite de prueba</a>"
+
+#: includes/class-pubsubhubbub-admin.php:123
+msgid "For more information:"
+msgstr "Para más información:"
+
+#: includes/class-pubsubhubbub-admin.php:92
+msgid "You can post anything you want, in any format you want, with no one monitoring you. In addition, you share simple readable links such as example.com/ideas. These links are permanent and will always work."
+msgstr "Puedes publicar lo que quieras en el formato que quieras, sin que nadie te vigile. Además puedes compartir enlaces sencillos como example.com/ideas. Estos enlaces son permanentes y van a funcionar siempre."
+
+#: includes/class-pubsubhubbub-admin.php:91
+msgid "You are in control"
+msgstr "Tú tienes el control"
+
+#: includes/class-pubsubhubbub-admin.php:88
+msgid "Your articles and status messages can go to all services, not just one, allowing you to engage with everyone. Even replies and likes on other services can come back to your site so they’re all in one place."
+msgstr "Tus artículos y mensajes de estado pueden ir a todos los servicios, no sólo a uno, lo que te permite interactuar con todo el mundo. Incluso las respuestas y los gustos de otros servicios pueden volver a tu sitio para que todos estén en el mismo lugar."
+
+#: includes/class-pubsubhubbub-admin.php:87
+msgid "You are better connected"
+msgstr "Estás mejor conectado"
+
+#: includes/class-pubsubhubbub-admin.php:84
+msgid "When you post something on the web, it should belong to you, not a corporation. Too many companies have gone out of business and lost all of their users’ data. By joining the IndieWeb, your content stays yours and in your control."
+msgstr "Cuando publicas algo en la web, debería pertenecerte a ti, no a una empresa. Demasiadas empresas han quebrado y han perdido todos los datos de sus usuarios. Al unirse a IndieWeb tu contenido sigue siendo tuyo y está bajo tu control."
+
+#: includes/class-pubsubhubbub-admin.php:83
+msgid "Your content is yours"
+msgstr "Tu contenido es tuyo"
+
+#: includes/class-pubsubhubbub-admin.php:81
+msgid "The IndieWeb is a people-focused alternative to the \"corporate web\"."
+msgstr "La IndieWeb es una alternativa a la \"web corporativa\" orientada a las personas."
+
+#: includes/class-pubsubhubbub-admin.php:78
+msgid "The IndieWeb"
+msgstr "La IndieWeb"
+
+#: includes/class-pubsubhubbub-admin.php:70
+msgid "A WebSub Hub is an implementation that handles subscription requests and distributes the content to subscribers when the corresponding topic URL has been updated. Hubs MUST support subscription requests with a secret and deliver authenticated requests when requested. Hubs MUST deliver the full contents of the topic URL in the request, and MAY reduce the payload to a diff if the content type supports it."
+msgstr "Un concentrador WebSub es una implementación que gestiona las solicitudes de suscripción y distribuye el contenido a los suscriptores cuando se ha actualizado la URL del tema correspondiente. Los concentradores DEBEN ser compatibles con las solicitudes de suscripción con un código secreto y entregar solicitudes verificadas cuando se soliciten. Los concentradores DEBEN entregar el contenido completo de la URL del tema en la solicitud, y PUEDEN reducir la carga útil a un diff si el tipo de contenido lo admite."
+
+#: includes/class-pubsubhubbub-admin.php:69
+msgid "Hub"
+msgstr "Concentrador"
+
+#: includes/class-pubsubhubbub-admin.php:66
+msgid "A WebSub Subscriber is an implementation that discovers the hub and topic URL given a resource URL, subscribes to updates at the hub, and accepts content distribution requests from the hub. The subscriber MAY support authenticated content distribution."
+msgstr "Un suscriptor WebSub es una implementación que descubre la URL del concentrador y del tema a la que se le ha asignado una URL de recursos, se suscribe a las actualizaciones del concentrador y acepta solicitudes de distribución de contenido del concentrador. El suscriptor PUEDE admitir la distribución de contenido verificado."
+
+#: includes/class-pubsubhubbub-admin.php:65
+msgid "Subscriber"
+msgstr "Suscriptor"
+
+#: includes/class-pubsubhubbub-admin.php:62 templates/settings-page.php:8
+msgid "A WebSub Publisher is an implementation that advertises a topic and hub URL on one or more resource URLs."
+msgstr "Un editor WebSub es una implementación que anuncia un tema y una URL de centro en una o más URLs de recursos."
+
+#: includes/class-pubsubhubbub-admin.php:61
+msgid "Publisher"
+msgstr "Editor"
+
+#: includes/class-pubsubhubbub-admin.php:58
+msgid "Terms"
+msgstr "Términos"
+
+#: includes/class-pubsubhubbub-admin.php:51
+msgid "WebSub provides a common mechanism for communication between publishers of any kind of Web content and their subscribers, based on HTTP web hooks. Subscription requests are relayed through hubs, which validate and verify the request. Hubs then distribute new and updated content to subscribers when it becomes available. WebSub was previously known as PubSubHubbub."
+msgstr "WebSub proporciona un mecanismo común para la comunicación entre los editores de cualquier tipo de contenido web y sus suscriptores, basado en ganchos web HTTP. Las solicitudes de suscripción se transmiten a través de concentradores, que validan y verifican la solicitud. A continuación, los centros distribuyen contenido nuevo y actualizado a los suscriptores cuando está disponible. WebSub era conocido anteriormente como PubSubHubbub."
+
+#: includes/class-pubsubhubbub-admin.php:50
+msgid "Overview"
+msgstr "Resumen"
+
+#: includes/class-pubsubhubbub-admin.php:39
+msgid "The WebSub/PubSubHubbub endpoints"
+msgstr "Las variables de WebSub/PubSubHubbub"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/pubsubhubbub/wordpress-pubsubhubbub/"
+msgstr "https://github.com/pubsubhubbub/wordpress-pubsubhubbub/"
+
+#. Description of the plugin
+msgid "A better way to tell the world when your blog is updated."
+msgstr "Un modo mejor de decirle al mundo cuando se actualiza tu blog."

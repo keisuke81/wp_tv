@@ -1,0 +1,524 @@
+# Translation of Plugins - Coming Soon Page, Maintenance Mode &amp; Landing Pages by SeedProd - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Coming Soon Page, Maintenance Mode &amp; Landing Pages by SeedProd - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-18 16:55:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Coming Soon Page, Maintenance Mode &amp; Landing Pages by SeedProd - Stable (latest release)\n"
+
+#: app/functions-utils.php:486
+msgid "Twitter Follow Button"
+msgstr "Кнопка перехода на Twitter"
+
+#: app/functions-utils.php:473
+msgid "Twitter Tweet Button"
+msgstr "Кнопка Twitter"
+
+#: app/functions-utils.php:461
+msgid "Twitter Embed Timeline"
+msgstr "Встроенная хронология Twitter (Twitter Embed Timeline)"
+
+#: app/functions-utils.php:449
+msgid "Twitter Embed Tweet"
+msgstr "Вставка Твитнуть"
+
+#: resources/data-templates/basic-page.php:458
+msgid "After text"
+msgstr "После текста"
+
+#: resources/data-templates/basic-page.php:457
+msgid "My Awesome\\nBigger Headline"
+msgstr "Мой замечательный\\большой заголовок"
+
+#: resources/data-templates/basic-page.php:455
+msgid "Before text"
+msgstr "Перед текстом"
+
+#: app/functions-utils.php:436
+msgid "Facebook Embed"
+msgstr "Встраивание в Facebook"
+
+#: app/functions-utils.php:424
+msgid "Facebook Page"
+msgstr "Страница Facebook"
+
+#: app/functions-utils.php:412
+msgid "Facebook Comments"
+msgstr "Комментарии на Facebook"
+
+#: app/functions-utils.php:397
+msgid "Facebook Like"
+msgstr "Like на Facebook"
+
+#: app/functions-utils.php:387
+msgid "Google Maps"
+msgstr "Карты Google"
+
+#: app/functions-utils.php:328
+msgid "Pricing Table"
+msgstr "Таблица с ценами"
+
+#: app/functions-utils.php:287
+msgid "Image Carousel"
+msgstr "Карусель изображений"
+
+#: app/functions-utils.php:247
+msgid "Animated Headline"
+msgstr "Анимированный заголовок"
+
+#: app/functions-utils.php:598
+msgid "Top Rated Products"
+msgstr "Самые рейтинговые товары"
+
+#: app/functions-utils.php:589
+msgid "Featured Products"
+msgstr "Рекомендуемые товары"
+
+#: app/functions-utils.php:579
+msgid "Best Selling Products"
+msgstr "Самые продаваемые товары"
+
+#: app/functions-utils.php:567
+msgid "Sale Products"
+msgstr "Товары со скидками"
+
+#: app/functions-utils.php:556
+msgid "Recent Products"
+msgstr "Последние товары"
+
+#: app/functions-utils.php:544
+msgid "Products Grid"
+msgstr "Сетка для товаров"
+
+#: app/functions-utils.php:531
+msgid "Cart"
+msgstr "Корзина"
+
+#: app/functions-utils.php:519
+msgid "Checkout"
+msgstr "Оформление заказа"
+
+#: app/functions-utils.php:509
+msgid "Add To Cart"
+msgstr "Добавить в корзину"
+
+#: app/functions-utils.php:358
+msgid "Accordion"
+msgstr "Аккордеон"
+
+#: app/functions-utils.php:277
+msgid "Testimonials"
+msgstr "Отзывы"
+
+#: app/settings.php:103
+msgid "Error Updating App Settings"
+msgstr "Ошибка обновления настроек приложения"
+
+#: app/settings.php:97
+msgid "App Settings Updated"
+msgstr "Обновлены настройки приложения"
+
+#: app/routes.php:93 app/routes.php:94
+msgid "Request a Feature"
+msgstr "Запросить функцию"
+
+#: app/bootstrap.php:397
+msgid "Back to WordPress Editor"
+msgstr "Вернуться в редактор WordPress"
+
+#: app/functions-utils.php:376
+msgid "Login Form"
+msgstr "Форма входа"
+
+#: resources/views/debug.php:27
+msgid "Debug Tools"
+msgstr "Инструменты отладки"
+
+#: app/routes.php:140 app/routes.php:141
+msgid "Debug"
+msgstr "Отладка"
+
+#: app/routes.php:131 app/routes.php:132
+msgid "Import/Export"
+msgstr "Импорт/Экспорт"
+
+#: app/routes.php:122 app/routes.php:123
+msgid "Builder"
+msgstr "Конструктор"
+
+#: app/routes.php:103 app/routes.php:104
+msgid "Get Pro"
+msgstr "Получить Pro"
+
+#: app/routes.php:84 app/routes.php:85
+msgid "About Us"
+msgstr "О разработчиках"
+
+#: app/routes.php:75 app/routes.php:76
+msgid "Growth Tools"
+msgstr "Инструменты роста"
+
+#: app/routes.php:39 app/routes.php:40
+msgid "Pages"
+msgstr "Страницы"
+
+#: app/settings.php:69
+msgid "Error Updating Settings"
+msgstr "Ошибка обновления настроек"
+
+#: app/settings.php:64
+msgid "Settings Updated"
+msgstr "Настройки обновлены"
+
+#: app/functions-addons.php:182 app/functions-addons.php:230
+msgid "Inactive"
+msgstr "Неактивный"
+
+#: app/functions-addons.php:144
+msgid "Could not activate addon. Please activate from the Plugins page."
+msgstr "Не удалось активировать аддон. Это можно сделать на странице плагинов."
+
+#: app/functions-addons.php:139
+msgid "Addon activated."
+msgstr "Дополнение активировано."
+
+#: app/functions-addons.php:137
+msgid "Plugin activated."
+msgstr "Плагин активирован."
+
+#: app/functions-addons.php:109
+msgid "Could not deactivate the addon. Please deactivate from the Plugins page."
+msgstr "Не удалось деактивировать аддон. Это можно сделать на странице плагинов."
+
+#: app/functions-addons.php:105
+msgid "Addon deactivated."
+msgstr "Дополнение отключено."
+
+#: app/functions-addons.php:103
+msgid "Plugin deactivated."
+msgstr "Плагин деактивирован."
+
+#: app/lpage.php:799
+msgid "<br><br>Please enter a valid license key to access the themes. You can still proceed to create a page with the default theme.<br> <a class='seedprod_no_themes' href='?theme=0'>Click to continue &#8594;</a>"
+msgstr "<br><br> Пожалуйста, введите действующий лицензионный ключ для доступа к темам. Вы все еще можете продолжить создание страницы с темой по умолчанию.<br> <a class='seedprod_no_themes' href='?theme=0'>Нажмите для продолжения</a>"
+
+#: app/lpage.php:674
+msgid "Ended"
+msgstr "Завершен"
+
+#: app/lpage.php:672
+msgid "Starts in"
+msgstr "Начинается в"
+
+#: app/lpage.php:128 app/lpage.php:130
+msgid "New Page"
+msgstr "Новая страница"
+
+#: app/license.php:135
+msgid "Invalid License Key."
+msgstr "Неверный лицензионный ключ."
+
+#: app/license.php:130
+msgid "You currently have the <strong>%s</strong> license."
+msgstr "В настоящее время у вас есть лицензия <strong>%s</strong>."
+
+#: app/license.php:68
+msgid "License Key is Required."
+msgstr "Требуется лицензионный ключ."
+
+#: app/license.php:12
+msgid "Upgrade PHP"
+msgstr "Обновите PHP"
+
+#: app/license.php:12
+msgid "The minimum required version of PHP to run this plugin is PHP Version 5.3.3<br>Please contact your hosting company and ask them to upgrade this site's php verison."
+msgstr "Минимальная требуемая версия PHP для запуска этого плагина - 5.3.3<br>Пожалуйста, свяжитесь со своим хостером и попросите обновить версию PHP этого сайта."
+
+#: app/bootstrap.php:396 app/functions-utils.php:1161
+msgid "Edit with SeedProd"
+msgstr "Редактировать в SeedProd"
+
+#: app/functions-utils.php:639
+msgid "Select Time"
+msgstr "Выбрать время"
+
+#: app/functions-utils.php:367
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: app/functions-utils.php:349
+msgid "Star Rating"
+msgstr "Оценка звёздами"
+
+#: app/functions-utils.php:340
+msgid "Anchor"
+msgstr "Якорь"
+
+#: app/functions-utils.php:320
+msgid "Nav Menu"
+msgstr "Меню навигации"
+
+#: app/functions-utils.php:310
+msgid "Icon Box"
+msgstr "Блок со значком"
+
+#: app/functions-utils.php:300
+msgid "Image Box"
+msgstr "Блок с изображением"
+
+#: app/functions-utils.php:268
+msgid "Icon"
+msgstr "Значок"
+
+#: app/functions-utils.php:259
+msgid "Progress Bar"
+msgstr "Шкала выполнения"
+
+#: app/functions-utils.php:238
+msgid "Social Sharing"
+msgstr "Поделиться в социальных сетях"
+
+#: app/functions-utils.php:230
+msgid "Social Profiles"
+msgstr "Профили соцсетей"
+
+#: app/functions-utils.php:221
+msgid "Countdown"
+msgstr "Обратный отсчет"
+
+#: app/functions-utils.php:212
+msgid "Optin Form"
+msgstr "Форма подтверждения подписки"
+
+#: app/functions-utils.php:203
+msgid "Contact Form"
+msgstr "Контактная форма"
+
+#: app/functions-utils.php:183
+msgid "Spacer"
+msgstr "Интервал"
+
+#: app/functions-utils.php:174
+msgid "Divider"
+msgstr "Разделитель"
+
+#: app/functions-utils.php:166
+msgid "Video"
+msgstr "Видео"
+
+#: app/functions-utils.php:158
+msgid "Image"
+msgstr "Изображение"
+
+#: app/functions-utils.php:150
+msgid "Button"
+msgstr "Кнопка"
+
+#: app/functions-utils.php:142
+msgid "List"
+msgstr "Список"
+
+#: app/functions-utils.php:104
+msgid "Column"
+msgstr "Столбец"
+
+#: app/functions-utils.php:48
+msgid "Anyone Logged In"
+msgstr "Все, кто вошел в систему"
+
+#: app/functions-utils.php:46
+msgid "SuperAdmin"
+msgstr "Администратор"
+
+#: app/review.php:111
+msgid "~ John Turner<br>Co-Founder of SeedProd"
+msgstr "~ John Turner <br>соучредитель SeedProd"
+
+#: app/review.php:110
+msgid "That’s awesome! Could you please do me a BIG favor and give it a 5-star rating on WordPress to help us spread the word and boost our motivation?"
+msgstr "Это замечательно! Не могли бы вы оказать мне большую услугу и поставить 5 звезд на WordPress, чтобы помочь нам распространить информацию и повысить нашу мотивацию?"
+
+#: app/review.php:106
+msgid "No thanks"
+msgstr "Нет, спасибо"
+
+#: app/review.php:105
+msgid "Give Feedback"
+msgstr "Оставить отзыв"
+
+#: app/review.php:103
+msgid "We're sorry to hear you aren't enjoying SeedProd. We would love a chance to improve. Could you take a minute and let us know what we can do better?"
+msgstr "Нам жаль слышать, что вам не нравится SeedProd. Мы будем рады возможности улучшить ситуацию. Не могли бы вы уделить нам минутку и сообщить, что мы можем сделать лучше?"
+
+#: app/review.php:99
+msgid "Not Really"
+msgstr "Не совсем так"
+
+#: app/review.php:96
+msgid "Are you enjoying SeedProd?"
+msgstr "Вам нравится SeedProd?"
+
+#: app/render-csp-mm.php:276
+msgid "Please create your Coming Soon Page in the plugin settings."
+msgstr "Создайте свою страницу Coming Soon Page в настройках плагина."
+
+#: app/render-csp-mm.php:271
+msgid "Please create enter your redirect url in the plugin settings."
+msgstr "Введите свой URL-адрес перенаправления в настройках плагина."
+
+#: app/render-csp-mm.php:260
+msgid "Please create your Maintenance Page in the plugin settings."
+msgstr "Создайте свою Страницу обслуживания в настройках плагина."
+
+#: app/includes/upgrade.php:181
+msgid "Pro version installed but needs to be activated from the Plugins page inside your WordPress admin."
+msgstr "Pro версия установлена, но ее нужно активировать на странице плагинов через панель администратора WordPress."
+
+#: app/includes/upgrade.php:120 app/includes/upgrade.php:126
+#: app/includes/upgrade.php:177
+msgid "Plugin installed & activated."
+msgstr "Плагин установлен и активирован."
+
+#: app/includes/upgrade.php:88
+msgid "Could not install upgrade. Please download from seedprod.com and install manually."
+msgstr "Не удалось установить обновление. Пожалуйста, загрузите с сайта seedprod.com и установите вручную."
+
+#: app/includes/upgrade.php:43
+msgid "Pro version is already installed."
+msgstr "Pro-версия уже установлена."
+
+#: app/includes/upgrade.php:24 app/includes/upgrade.php:157
+msgid "You are not licensed."
+msgstr "У вас нет лицензии."
+
+#: app/includes/upgrade.php:11
+msgid "You are not allowed to install plugins."
+msgstr "У вас недостаточно прав для установки плагинов."
+
+#: resources/views/debug.php:1
+msgid "System Information"
+msgstr "Системная Информация"
+
+#: resources/data-templates/basic-page.php:1097
+msgid "Optin Confirmation"
+msgstr "Подтверждение подписки"
+
+#: resources/data-templates/basic-page.php:1096
+msgid "Name"
+msgstr "Имя"
+
+#: resources/data-templates/basic-page.php:1096
+msgid "Enter Your Name"
+msgstr "Введите ваше имя"
+
+#: resources/data-templates/basic-page.php:1095
+msgid "Email"
+msgstr "Email"
+
+#: resources/data-templates/basic-page.php:1095
+msgid "Enter Your Email"
+msgstr "Введите ваш email адрес"
+
+#: resources/data-templates/basic-page.php:419
+#: resources/data-templates/basic-page.php:456
+msgid "My Awesome Headline"
+msgstr "Мой замечательный заголовок"
+
+#: resources/data-templates/basic-page.php:327
+#: resources/data-templates/basic-page.php:376
+msgid "My Feature or Benefit"
+msgstr "Моя особенность или преимущество"
+
+#. Plugin Name of the plugin
+msgid "Coming Soon Page, Maintenance Mode & Landing Pages by SeedProd"
+msgstr "Coming Soon Page, Maintenance Mode & Landing Pages by SeedProd"
+
+#: app/functions-utils.php:192
+msgid "Giveaway"
+msgstr "Рекламный подарок"
+
+#: app/includes/skin.php:82 app/includes/skin53.php:82
+msgid "There was an error installing the addon. Please try again."
+msgstr "Произошла ошибка при установке дополнения. Попробуйте еще раз."
+
+#: app/functions-addons.php:177 app/functions-addons.php:225
+msgid "Active"
+msgstr "Активен"
+
+#: app/functions-addons.php:188 app/functions-addons.php:236
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: app/routes.php:57 app/routes.php:58
+msgid "Subscribers"
+msgstr "Подписчики"
+
+#: app/routes.php:66 app/routes.php:67
+msgid "Settings"
+msgstr "Настройки"
+
+#: app/review.php:115
+msgid "I already did"
+msgstr "Уже сделал"
+
+#: app/review.php:114
+msgid "Nope, maybe later"
+msgstr "Нет, может позже"
+
+#: app/review.php:113
+msgid "Ok, you deserve it"
+msgstr "Хорошо, вы это заслужили"
+
+#: app/bootstrap.php:333
+msgid "Please rate <strong>SeedProd</strong> <a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%2$s\" target=\"_blank\">WordPress.org</a> to help us spread the word. Thank you from the SeedProd team!"
+msgstr "Пожалуйста оцените <strong>SeedProd</strong> <a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> на <a href=\"%2$s\" target=\"_blank\">WordPress.org</a>, чтобы помочь нам в дальнейшем продвижении. Спасибо вам от команды SeedProd!"
+
+#: app/functions-utils.php:500
+msgid "Custom HTML"
+msgstr "Произвольный HTML"
+
+#. Author of the plugin
+msgid "SeedProd"
+msgstr "SeedProd"
+
+#. Description of the plugin
+msgid "The #1 Coming Soon Page, Under Construction & Maintenance Mode plugin for WordPress."
+msgstr "Плагин №1 в WordPress для создания страниц \"Сайт скоро откроется\", \"Сайт в разработке\" и \"Сайт на техобслуживании\"."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.seedprod.com"
+msgstr "https://www.seedprod.com"
+
+#: app/routes.php:48 app/routes.php:49 app/routes.php:113 app/routes.php:114
+msgid "Templates"
+msgstr "Шаблоны"
+
+#: app/functions-utils.php:134
+msgid "Text"
+msgstr "Текст"
+
+#: app/functions-utils.php:122
+msgid "Headline"
+msgstr "Заголовок"
+
+#: app/review.php:98
+msgid "Yes"
+msgstr "Да"
+
+#: app/backwards/csp4-functions.php:10
+msgid "Please enter your settings."
+msgstr "Введите свои настройки."
+
+#: app/admin-bar-menu.php:42
+msgid "Maintenance Mode Active"
+msgstr "Режим обслуживания активен"
+
+#: app/admin-bar-menu.php:40
+msgid "Coming Soon Mode Active"
+msgstr "Режим «Скоро будет» активен"
